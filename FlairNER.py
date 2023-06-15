@@ -12,4 +12,4 @@ def NER(text):
                 {"text": entity.text,
                  "tag": entity.tag,
                  "span": (entity.start_position, entity.end_position),
-                 "Confidence": entity.score} for idx, entity in enumerate(sentence.get_spans('ner'))}
+                 "confidence": entity.score} for idx, entity in enumerate(sentence.get_spans('ner'))}
