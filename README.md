@@ -4,6 +4,7 @@
 Named Entity Recognition (NER) is a super powerful, cool NLP technique to identiy **People, Places, and Things** in free text. The downside is that these models aren't always perfect. To get around that, we can set up an *ensemble* of weak predictors to create a stronger predictor.  
 
 ## Use:
+There are two valid methods to use this repo; as a python script, or as an API in Docker.
 - **Python Scripts**: Drop the SpacyNER.py and FlairNER.py in your working directory, install the requirements, and import whatever you want to use! 
 - **API in Docker**: Follow the directions below to build and run the docker image, and then use your programming language of choice to bash text against the appropriate endpoints.
 
