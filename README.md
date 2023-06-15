@@ -3,9 +3,11 @@
 
 Named Entity Recognition (NER) is a super powerful, cool NLP technique to identiy **People, Places, and Things** in free text. The downside is that these models aren't always perfect. To get around that, we can set up an *ensemble* of weak predictors to create a stronger predictor.  
 
-More specifically, I've created API endpoints for SpaCy NER and Flair NER that you can easily bash raw text against, to start building a more structured corpus of data.
+## Use:
+- **Python Scripts**: Drop the SpacyNER.py and FlairNER.py in your working directory, install the requirements, and import whatever you want to use! 
+- **API in Docker**: Follow the directions below to build and run the docker image, and then use your programming language of choice to bash text against the appropriate endpoints.
 
-## Build the Dockerfile
+## Build the Dockerfile:
 In a terminal,
 1. Clone this repo
 2. Type `docker build -t superner:0.1 .`
@@ -15,13 +17,13 @@ In a terminal,
 In that same terminal, type `docker run -p 5000:5000 superner:0.1`
 - Flair will download it's `ner-fast` model after the container starts for the first time. It's about 250mb, and should take under a minute on a fast connection.
 
-## Using the server
+## Using the Docker API:
 Fire off a request at `<ip>:5000/<method>`. The `ip` will be the IP of your machine running the docker container (probably `127.0.0.1`), and the `method` can be `spacy` or `flair`.
 - SpaCy is faster, but does not include a confidence score for NER hits
 - Flair is slower, but returns a confidence score
 - Each NER variant has different tags for types of entities. Most of them are simple (Person, Location, etc), but there are some edge cases. SpaCy grabs dates and numbers; Flair seems to have more modern training data (thus tagging COVID-19, etc)
 
-## Python Example
+## Python Example:
 Necessery imports:
 ```
 import requests
