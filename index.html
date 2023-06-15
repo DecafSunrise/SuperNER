@@ -1,0 +1,44 @@
+<h1 id="superner">SuperNER</h1>
+<p><img src="https://github.com/DecafSunrise/SuperNER/assets/36832027/da945878-5534-4be6-a2b8-133a63947e70" alt="image"></p>
+<p>Named Entity Recognition (NER) is a super powerful, cool NLP technique to identiy <strong>People, Places, and Things</strong> in free text. The downside is that these models aren&#39;t always perfect. To get around that, we can set up an <em>ensemble</em> of weak predictors to create a stronger predictor.  </p>
+<p>More specifically, I&#39;ve created API endpoints for SpaCy NER and Flair NER that you can easily bash raw text against, to start building a more structured corpus of data.</p>
+<h2 id="build-the-dockerfile">Build the Dockerfile</h2>
+<p>In a terminal,</p>
+<ol>
+<li>Clone this repo</li>
+<li>Type <code>docker build -t superner:0.1 .</code></li>
+<li>Wait for it to finish (go get some coffee)</li>
+</ol>
+<h2 id="running-your-dockerized-ner-solution-">Running your dockerized NER solution:</h2>
+<p>In that same terminal, type <code>docker run -p 5000:5000 superner:0.1</code></p>
+<ul>
+<li>Flair will download it&#39;s <code>ner-fast</code> model after the container starts for the first time. It&#39;s about 250mb, and should take under a minute on a fast connection.</li>
+</ul>
+<h2 id="using-the-server">Using the server</h2>
+<p>Fire off a request at <code>&lt;ip&gt;:5000/&lt;method&gt;</code>. The <code>ip</code> will be the IP of your machine running the docker container (probably <code>127.0.0.1</code>), and the <code>method</code> can be <code>spacy</code> or <code>flair</code>.</p>
+<ul>
+<li>SpaCy is faster, but does not include a confidence score for NER hits</li>
+<li>Flair is slower, but returns a confidence score</li>
+<li>Each NER variant has different tags for types of entities. Most of them are simple (Person, Location, etc), but there are some edge cases. SpaCy grabs dates and numbers; Flair seems to have more modern training data (thus tagging COVID-19, etc)</li>
+</ul>
+<h2 id="python-example">Python Example</h2>
+<p>Necessery imports:</p>
+<pre><code><span class="hljs-keyword">import</span> requests
+<span class="hljs-keyword">import</span> json
+</code></pre><p>Set up some text to pitch at the API:</p>
+<pre><code>sample_text = <span class="hljs-comment">"Are you, by any chance, wondering about giving yourself wings? You should listen to [Liz McFarland] sharing her experience building a Wonder Woman suit, and not just any – the Golden Eagle suit from Wonder Woman 1984, adorned with a giant pair of wings."</span>
+</code></pre><p>Define your API endpoint. Swap the &quot;spacy&quot; below for &quot;flair&quot; for different processing:</p>
+<pre><code><span class="hljs-attr">url</span> = <span class="hljs-string">"http://127.0.0.1:5000/spacy"</span>
+</code></pre><p>Handle the requests:</p>
+<pre><code>x = requests.get(url, json = {<span class="hljs-string">'data'</span>:sample_text})
+<span class="hljs-function"><span class="hljs-title">print</span><span class="hljs-params">(x.status_code)</span></span>
+<span class="hljs-keyword">if</span> x<span class="hljs-selector-class">.status_code</span> == <span class="hljs-number">200</span>:
+    response = json.loads(x.text)
+    print(response)
+</code></pre><p>Expected SpaCy output:</p>
+<pre><code><span class="hljs-number">200</span>
+{<span class="hljs-string">'0'</span>: {<span class="hljs-string">'span'</span>: [<span class="hljs-number">85</span>, <span class="hljs-number">98</span>], <span class="hljs-string">'tag'</span>: <span class="hljs-string">'PERSON'</span>, <span class="hljs-string">'text'</span>: <span class="hljs-string">'Liz McFarland'</span>}, <span class="hljs-string">'1'</span>: {<span class="hljs-string">'span'</span>: [<span class="hljs-number">134</span>, <span class="hljs-number">146</span>], <span class="hljs-string">'tag'</span>: <span class="hljs-string">'ORG'</span>, <span class="hljs-string">'text'</span>: <span class="hljs-string">'Wonder Woman'</span>}, <span class="hljs-string">'2'</span>: {<span class="hljs-string">'span'</span>: [<span class="hljs-number">199</span>, <span class="hljs-number">211</span>], <span class="hljs-string">'tag'</span>: <span class="hljs-string">'ORG'</span>, <span class="hljs-string">'text'</span>: <span class="hljs-string">'Wonder Woman'</span>}, <span class="hljs-string">'3'</span>: {<span class="hljs-string">'span'</span>: [<span class="hljs-number">212</span>, <span class="hljs-number">216</span>], <span class="hljs-string">'tag'</span>: <span class="hljs-string">'DATE'</span>, <span class="hljs-string">'text'</span>: <span class="hljs-string">'1984'</span>}}
+</code></pre><p>Expected Flair output:</p>
+<pre><code><span class="hljs-number">200</span>
+{<span class="hljs-string">'0'</span>: {<span class="hljs-string">'confidence'</span>: <span class="hljs-number">0</span>.<span class="hljs-number">9323325157165527</span>, <span class="hljs-string">'span'</span>: [<span class="hljs-number">85</span>, <span class="hljs-number">98</span>], <span class="hljs-string">'tag'</span>: <span class="hljs-string">'PER'</span>, <span class="hljs-string">'text'</span>: <span class="hljs-string">'Liz McFarland'</span>}, <span class="hljs-string">'1'</span>: {<span class="hljs-string">'confidence'</span>: <span class="hljs-number">0</span>.<span class="hljs-number">7368820607662201</span>, <span class="hljs-string">'span'</span>: [<span class="hljs-number">134</span>, <span class="hljs-number">146</span>], <span class="hljs-string">'tag'</span>: <span class="hljs-string">'MISC'</span>, <span class="hljs-string">'text'</span>: <span class="hljs-string">'Wonder Woman'</span>}, <span class="hljs-string">'2'</span>: {<span class="hljs-string">'confidence'</span>: <span class="hljs-number">0</span>.<span class="hljs-number">7811878621578217</span>, <span class="hljs-string">'span'</span>: [<span class="hljs-number">176</span>, <span class="hljs-number">188</span>], <span class="hljs-string">'tag'</span>: <span class="hljs-string">'MISC'</span>, <span class="hljs-string">'text'</span>: <span class="hljs-string">'Golden Eagle'</span>}, <span class="hljs-string">'3'</span>: {<span class="hljs-string">'confidence'</span>: <span class="hljs-number">0</span>.<span class="hljs-number">665399432182312</span>, <span class="hljs-string">'span'</span>: [<span class="hljs-number">199</span>, <span class="hljs-number">211</span>], <span class="hljs-string">'tag'</span>: <span class="hljs-string">'MISC'</span>, <span class="hljs-string">'text'</span>: <span class="hljs-string">'Wonder Woman'</span>}}
+</code></pre>
