@@ -1,4 +1,4 @@
-from flask import Flask, abort, request
+from flask import Flask, render_template, request
 import os
 
 import json
@@ -8,6 +8,9 @@ from SpacyNER import NER as SpacyNER
 
 app = Flask(__name__)
 
+@app.route('/')
+def home():
+   return render_template('index.html')
 
 @app.route('/spacy', methods=['GET'])
 def do_spacy_ner():
