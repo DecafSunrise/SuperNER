@@ -1,0 +1,4624 @@
+text,tag,span,Counts
+Facebook,ORG,"(67, 75)",3
+AWS Big Data Services,ORG,"(3835, 3856)",2
+Google,ORG,"(435, 441)",2
+Google,ORG,"(644, 650)",2
+Allama Iqbal Medical College,ORG,"(763, 791)",2
+Google,ORG,"(719, 725)",2
+Google,ORG,"(722, 728)",2
+Google,ORG,"(922, 928)",2
+Google,ORG,"(1229, 1235)",2
+Google,ORG,"(1279, 1285)",2
+Google,ORG,"(1453, 1459)",2
+Google,ORG,"(1484, 1490)",2
+Google,ORG,"(1539, 1545)",2
+Google,ORG,"(1621, 1627)",2
+Google,ORG,"(1901, 1907)",2
+Google,ORG,"(2121, 2127)",2
+Google,ORG,"(2273, 2279)",2
+Google,ORG,"(2423, 2429)",2
+Google,ORG,"(2486, 2492)",2
+Google,ORG,"(2721, 2727)",2
+Google,ORG,"(2805, 2811)",2
+Google,ORG,"(2834, 2840)",2
+Google,ORG,"(2943, 2949)",2
+Google,ORG,"(3552, 3558)",2
+Google,ORG,"(3614, 3620)",2
+Google,ORG,"(3761, 3767)",2
+Google,ORG,"(3884, 3890)",2
+Google,ORG,"(4069, 4075)",2
+Google,ORG,"(4387, 4393)",2
+Google,ORG,"(562, 568)",2
+Google,ORG,"(347, 353)",2
+Apple,ORG,"(332, 337)",2
+AlphaCluedo,ORG,"(1877, 1888)",2
+Antitrust Subcommittee,ORG,"(459, 481)",2
+Food and Drug Administration,ORG,"(2884, 2912)",2
+Schmidt Futures,ORG,"(11289, 11304)",2
+Frasnelli,ORG,"(3028, 3037)",2
+GCP,ORG,"(3449, 3452)",2
+GKE,ORG,"(5171, 5174)",2
+SME Pals,ORG,"(1775, 1783)",2
+General Assembly,ORG,"(4816, 4832)",2
+Amazon Athena,ORG,"(2734, 2747)",2
+Amazon Athena,ORG,"(2509, 2522)",2
+Amazon Athena,ORG,"(1767, 1780)",2
+Amazon Athena,ORG,"(786, 799)",2
+Amazon,ORG,"(8908, 8914)",2
+Amazon,ORG,"(5777, 5783)",2
+GitHub,ORG,"(6510, 6516)",2
+Amazon,ORG,"(1332, 1338)",2
+Amazon,ORG,"(1171, 1177)",2
+Amazon,ORG,"(700, 706)",2
+Amazon,ORG,"(680, 686)",2
+Amazon,ORG,"(615, 621)",2
+Amazon,ORG,"(554, 560)",2
+Amazon,ORG,"(339, 345)",2
+Rouen University and Hospital,ORG,"(4259, 4288)",2
+Amazon,ORG,"(42, 48)",2
+Google,ORG,"(29, 35)",2
+Google,ORG,"(60, 66)",2
+Google,ORG,"(286, 292)",2
+Google,ORG,"(4670, 4676)",2
+Google,ORG,"(4979, 4985)",2
+Google,ORG,"(5053, 5059)",2
+Google,ORG,"(5228, 5234)",2
+one,CARDINAL,"(1431, 1434)",2
+A few months ago,DATE,"(0, 16)",2
+one,CARDINAL,"(2111, 2114)",2
+Harvard Medical School,ORG,"(1423, 1445)",2
+Harvard Medical School,ORG,"(1957, 1979)",2
+Harvard University,ORG,"(285, 303)",2
+Pixar,ORG,"(7978, 7983)",2
+Pixar,ORG,"(7378, 7383)",2
+Humanity Forward,ORG,"(3560, 3576)",2
+IBM,ORG,"(5796, 5799)",2
+Pentagon,ORG,"(1565, 1573)",2
+Penguin Portfolio,ORG,"(3067, 3084)",2
+Inside AirBnB,ORG,"(1862, 1875)",2
+Instagram,ORG,"(1966, 1975)",2
+Instagram,ORG,"(2005, 2014)",2
+Instagram,ORG,"(2113, 2122)",2
+Instagram,ORG,"(2297, 2306)",2
+Instagram,ORG,"(2573, 2582)",2
+Instagram,ORG,"(2768, 2777)",2
+Instagram,ORG,"(2936, 2945)",2
+Instagram,ORG,"(3321, 3330)",2
+Pakistan Army,ORG,"(1429, 1442)",2
+Ohio State,ORG,"(5725, 5735)",2
+OIT,ORG,"(3684, 3687)",2
+Janelia Farm,ORG,"(1738, 1750)",2
+Janelia Farm,ORG,"(2572, 2584)",2
+Newsweek,ORG,"(2186, 2194)",2
+REI,ORG,"(7284, 7287)",2
+AI,ORG,"(0, 2)",2
+GrowthBadger,ORG,"(8395, 8407)",2
+Google,ORG,"(7569, 7575)",2
+Google,ORG,"(5438, 5444)",2
+Google,ORG,"(5740, 5746)",2
+Google,ORG,"(5743, 5749)",2
+Google,ORG,"(5785, 5791)",2
+Google,ORG,"(6137, 6143)",2
+Google,ORG,"(6266, 6272)",2
+Google,ORG,"(6332, 6338)",2
+Google,ORG,"(6435, 6441)",2
+Google,ORG,"(6492, 6498)",2
+Google,ORG,"(6758, 6764)",2
+Google,ORG,"(6821, 6827)",2
+Google,ORG,"(7523, 7529)",2
+Google,ORG,"(7777, 7783)",2
+AI,ORG,"(6838, 6840)",2
+Google,ORG,"(8020, 8026)",2
+Google,ORG,"(8511, 8517)",2
+Google,ORG,"(10324, 10330)",2
+Google,ORG,"(12960, 12966)",2
+AWS,ORG,"(1679, 1682)",2
+API,ORG,"(6568, 6571)",2
+AP,ORG,"(1274, 1276)",2
+AMA,ORG,"(1139, 1142)",2
+Green New Deal,ORG,"(2084, 2098)",2
+Green New Deal,ORG,"(2251, 2265)",2
+AI,ORG,"(13905, 13907)",2
+AI,ORG,"(10372, 10374)",2
+Apache Spark Ecosystem,ORG,"(3861, 3883)",2
+Apple,ORG,"(547, 552)",2
+New York Times,ORG,"(643, 657)",2
+Apple,ORG,"(638, 643)",2
+Carnegie Mellon,ORG,"(5705, 5720)",2
+WHO,ORG,"(2025, 2028)",2
+Domain Authority,ORG,"(750, 766)",2
+Wall Street Journal,ORG,"(2865, 2884)",2
+Walmart,ORG,"(3144, 3151)",2
+Walmart,ORG,"(3161, 3168)",2
+Duke University,ORG,"(2560, 2575)",2
+The Seer Stone,ORG,"(1307, 1321)",2
+The New York Times,ORG,"(2565, 2583)",2
+EPA,ORG,"(1733, 1736)",2
+EPA,ORG,"(1768, 1771)",2
+EPA,ORG,"(6880, 6883)",2
+EPA,ORG,"(7144, 7147)",2
+EPA,ORG,"(7318, 7321)",2
+EPA,ORG,"(8021, 8024)",2
+ETH Zurich,ORG,"(1976, 1986)",2
+Earth,LOC,"(452, 457)",2
+Workgroup,ORG,"(2842, 2851)",2
+CIA,ORG,"(16, 19)",2
+CDC,ORG,"(5405, 5408)",2
+CDC,ORG,"(4163, 4166)",2
+CDC,ORG,"(3158, 3161)",2
+CDC,ORG,"(2799, 2802)",2
+CDC,ORG,"(2030, 2033)",2
+CDC,ORG,"(1525, 1528)",2
+CDC,ORG,"(886, 889)",2
+CCPS,ORG,"(4181, 4185)",2
+DoD,ORG,"(2378, 2381)",2
+Champlain College,ORG,"(6950, 6967)",2
+Champlain College,ORG,"(9655, 9672)",2
+Congress,ORG,"(2308, 2316)",2
+DPP,ORG,"(9415, 9418)",2
+UVPM,ORG,"(2903, 2907)",2
+UVPM,ORG,"(3245, 3249)",2
+UN,ORG,"(1047, 1049)",2
+University Aachen,ORG,"(5774, 5791)",2
+University of Washington,ORG,"(4453, 4477)",2
+Data Scientist,ORG,"(201, 215)",2
+Data Scientist,ORG,"(10860, 10874)",2
+Congress,ORG,"(5634, 5642)",2
+Congress,ORG,"(3872, 3880)",2
+Congress,ORG,"(3768, 3776)",2
+Congress,ORG,"(3517, 3525)",2
+Congress,ORG,"(839, 847)",2
+Champlain College Online,ORG,"(10273, 10297)",2
+Congress,ORG,"(81, 89)",2
+Trump,ORG,"(5953, 5958)",2
+Trinity Mirror,ORG,"(1741, 1755)",2
+DeepMind,ORG,"(6857, 6865)",2
+VA’s Office of Information and Technology,ORG,"(3641, 3682)",2
+VBA,ORG,"(4313, 4316)",2
+Church of Rall,ORG,"(4755, 4769)",2
+Deloitte,ORG,"(13772, 13780)",2
+Deloitte,ORG,"(13998, 14006)",2
+VPC Service Controls,ORG,"(5797, 5817)",2
+Veterans Benefits Administration,ORG,"(3734, 3766)",2
+Disney,ORG,"(7603, 7609)",2
+CCPS,ORG,"(1247, 1251)",2
+Emory,ORG,"(3633, 3638)",2
+Emory University,ORG,"(264, 280)",2
+Silicon Valley,LOC,"(3269, 3283)",2
+Bay Area,LOC,"(2185, 2193)",2
+Facebook,ORG,"(2948, 2956)",2
+Facebook,ORG,"(3439, 3447)",2
+Facebook,ORG,"(10195, 10203)",2
+Stanford,ORG,"(5695, 5703)",2
+Stanford,ORG,"(1193, 1201)",2
+BBC News,ORG,"(2541, 2549)",2
+BBC,ORG,"(14219, 14222)",2
+AutoML Vision,ORG,"(1654, 1667)",2
+AutoML,ORG,"(1826, 1832)",2
+Fast Company,ORG,"(3865, 3877)",2
+Silicon Valley,LOC,"(3679, 3693)",2
+Silicon Valley,LOC,"(1004, 1018)",2
+Bay Area,LOC,"(2752, 2760)",2
+Athena Data Source Connectors,ORG,"(368, 397)",2
+Silicon Valley,LOC,"(151, 165)",2
+Shifa International Hospital,ORG,"(5498, 5526)",2
+Shifa International Hospital,ORG,"(3130, 3158)",2
+Athena,ORG,"(2615, 2621)",2
+Shifa International Hospital,ORG,"(142, 170)",2
+Athena,ORG,"(328, 334)",2
+Fetissov,ORG,"(4404, 4412)",2
+Arizona State University,ORG,"(2040, 2064)",2
+Sciteb Ltd,ORG,"(9787, 9797)",2
+Apple,ORG,"(1345, 1350)",2
+Apple,ORG,"(693, 698)",2
+Bay Area,LOC,"(2283, 2291)",2
+Facebook,ORG,"(2806, 2814)",2
+Brewers,ORG,"(1438, 1445)",2
+FDA,ORG,"(8030, 8033)",2
+Zappos,ORG,"(6499, 6505)",2
+Europe,LOC,"(1828, 1834)",2
+Europe,LOC,"(6626, 6632)",2
+TIME,ORG,"(2585, 2589)",2
+FAO,ORG,"(3505, 3508)",2
+FCPS,ORG,"(827, 831)",2
+FDA,ORG,"(1102, 1105)",2
+FDA,ORG,"(1755, 1758)",2
+FDA,ORG,"(1878, 1881)",2
+FDA,ORG,"(2534, 2537)",2
+Boston College,ORG,"(253, 267)",2
+FDA,ORG,"(2914, 2917)",2
+Bootstrap,ORG,"(1570, 1579)",2
+Facebook,ORG,"(1279, 1287)",2
+FTC,ORG,"(1835, 1838)",2
+FTC,ORG,"(2458, 2461)",2
+FTP,ORG,"(5573, 5576)",2
+BigQuery,ORG,"(3457, 3465)",2
+BigQuery,ORG,"(3296, 3304)",2
+BigQuery,ORG,"(2863, 2871)",2
+Big Tech,ORG,"(5758, 5766)",2
+Subbareddy,ORG,"(3785, 3795)",2
+Facebook,ORG,"(526, 534)",2
+Facebook,ORG,"(705, 713)",2
+Facebook,ORG,"(708, 716)",2
+Facebook,ORG,"(1116, 1124)",2
+New York Times,ORG,"(2469, 2483)",2
+USA Today,ORG,"(9904, 9913)",2
+Kindlepreneur,ORG,"(5490, 5503)",2
+NEXT,ORG,"(7378, 7382)",2
+Microsoft,ORG,"(1886, 1895)",2
+Microsoft,ORG,"(4352, 4361)",2
+MFA,ORG,"(1354, 1357)",2
+Mind Management,ORG,"(59, 74)",2
+NBC News,ORG,"(2591, 2599)",2
+Mesensei,ORG,"(1884, 1892)",2
+Kelsey Hightower,ORG,"(4436, 4452)",2
+Lancaster University,ORG,"(654, 674)",2
+Medium,ORG,"(817, 823)",2
+Kings College London School of Medicine,ORG,"(1084, 1123)",2
+Medium,ORG,"(9985, 9991)",2
+1,CARDINAL,"(0, 1)",2
+Medium,ORG,"(581, 587)",1
+Medium,ORG,"(5, 11)",1
+Story,WORK_OF_ART,"(4308, 4313)",1
+Stimulate Ideas,ORG,"(1845, 1860)",1
+Medium,ORG,"(512, 518)",1
+Steven Pressfield,PERSON,"(153, 170)",1
+Steven Pressfield,PER,"(153, 170)",1
+Steve Jobs,PERSON,"(499, 509)",1
+New York City,LOC,"(1836, 1849)",1
+Storycraft,MISC,"(263, 273)",1
+Medium,MISC,"(951, 957)",1
+Steve Jobs,PER,"(499, 509)",1
+Storycraft,ORG,"(5088, 5098)",1
+Medical Hypothesis,ORG,"(4377, 4395)",1
+Storycraft: The Complete Guide to,WORK_OF_ART,"(76, 109)",1
+Storycraft: The Complete Guide to Writing Narrative Nonfiction,MISC,"(76, 138)",1
+Storytelling and Worldbuilding,WORK_OF_ART,"(2243, 2273)",1
+Strategies That Will Help You ____ (“7 Strategies That Will Help You Improve Your Writing Skills,MISC,"(10107, 10203)",1
+Medical Hypothesis,ORG,"(689, 707)",1
+Sudden,GPE,"(1056, 1062)",1
+Sudden,MISC,"(1056, 1062)",1
+Sudden Unexpected Death in Epilepsy,WORK_OF_ART,"(766, 801)",1
+Storycraft,MISC,"(5088, 5098)",1
+Medium,ORG,"(960, 966)",1
+"Summary
+
+Diane Greene",ORG,"(7066, 7087)",1
+Stalin,PERSON,"(621, 627)",1
+Social Proof,ORG,"(1290, 1302)",1
+Society for Neuroscience,ORG,"(160, 184)",1
+Some Dreamers of the Golden Dream,MISC,"(2055, 2088)",1
+Some Dreamers of the Golden Dream,WORK_OF_ART,"(2055, 2088)",1
+Spark,GPE,"(3498, 3503)",1
+Spark Innovation,ORG,"(1865, 1881)",1
+Spearheading Data Science Initiatives  Princeton University,ORG,"(11014, 11073)",1
+Speech,ORG,"(2415, 2421)",1
+SpillBucket — An Amazon S3,MISC,"(1373, 1399)",1
+Spillbucket,MISC,"(1574, 1585)",1
+Spring Cloud,MISC,"(4798, 4810)",1
+Spring Cloud,PERSON,"(4798, 4810)",1
+Stalin,PER,"(621, 627)",1
+Medium,ORG,"(5981, 5987)",1
+Medium,ORG,"(1323, 1329)",1
+Medium,ORG,"(5081, 5087)",1
+Star Wars,MISC,"(3242, 3251)",1
+Startup,LOC,"(5072, 5079)",1
+Medium,ORG,"(3415, 3421)",1
+State,ORG,"(8517, 8522)",1
+State of AI,ORG,"(8517, 8528)",1
+State of AI,ORG,"(13508, 13519)",1
+Stephen Pressfield,PER,"(855, 873)",1
+Medium,ORG,"(2112, 2118)",1
+Medium,ORG,"(1924, 1930)",1
+Stephen Pressfield,PERSON,"(855, 873)",1
+Medium,ORG,"(1740, 1746)",1
+Medium,ORG,"(1427, 1433)",1
+Suessy,PERSON,"(347, 353)",1
+McKeown,PER,"(1920, 1927)",1
+Sundar Pichai,PER,"(27, 40)",1
+Max Perutz,PER,"(1894, 1904)",1
+T.,NORP,"(1249, 1251)",1
+Matteo Carandini,PER,"(1079, 1095)",1
+Matteo Carandini,LOC,"(1109, 1125)",1
+T. gondii,PER,"(1249, 1258)",1
+TARDIS,ORG,"(4157, 4163)",1
+TED Talk,PER,"(445, 453)",1
+Matteo Carandini,LOC,"(1079, 1095)",1
+Takano,PER,"(4409, 4415)",1
+Team Human,ORG,"(3376, 3386)",1
+Tears,PER,"(488, 493)",1
+Telegraph,FAC,"(1843, 1852)",1
+Telegraph,ORG,"(1843, 1852)",1
+Ten minutes,TIME,"(922, 933)",1
+Ten minutes,TIME,"(1607, 1618)",1
+TensorFlow Lite,MISC,"(1973, 1988)",1
+TensorFlow Lite,MISC,"(2246, 2261)",1
+Matric,ORG,"(710, 716)",1
+Matric,LOC,"(710, 716)",1
+TensorFlow Lite,PRODUCT,"(1973, 1988)",1
+Tensorflow,PRODUCT,"(2691, 2701)",1
+Tested Advertising Methods,WORK_OF_ART,"(8789, 8815)",1
+Thank you!,MISC,"(778, 788)",1
+The 3 A.M. Epiphany,MISC,"(6249, 6268)",1
+The 3 A.M. Epiphany,WORK_OF_ART,"(6249, 6268)",1
+Matplotlib,PERSON,"(634, 644)",1
+The Advantages of Dissent,ORG,"(4523, 4548)",1
+The Art of Being Unmistakable,ORG,"(1742, 1771)",1
+Matteo Carandini,PER,"(1109, 1125)",1
+Max Perutz,PERSON,"(1894, 1904)",1
+Sundar Pichai,PER,"(665, 678)",1
+May,DATE,"(2572, 2575)",1
+"McKinsey,2018",ORG,"(5373, 5386)",1
+McKeown,PERSON,"(1920, 1927)",1
+"Slow Down
+
+Speed",PERSON,"(6825, 6841)",1
+McKeown,PER,"(978, 985)",1
+Sunday Candy,MISC,"(1151, 1163)",1
+Sunday Candy,WORK_OF_ART,"(1151, 1163)",1
+Sunderhauf,PERSON,"(5875, 5885)",1
+SuperIntelligence,MISC,"(3555, 3572)",1
+SuperIntelligence,ORG,"(3555, 3572)",1
+Superman,PER,"(376, 384)",1
+Superman,PERSON,"(376, 384)",1
+Sustainable Element-Technology Nexus,MISC,"(4, 40)",1
+Swiss,MISC,"(2849, 2854)",1
+Swiss,NORP,"(2849, 2854)",1
+Switch,NORP,"(2900, 2906)",1
+Switzerland,GPE,"(899, 910)",1
+McKee,PRODUCT,"(5186, 5191)",1
+McKee,PER,"(5186, 5191)",1
+Switzerland,LOC,"(899, 910)",1
+Synesthesia,GPE,"(6463, 6474)",1
+Synesthesia,MISC,"(6463, 6474)",1
+Systrom,PER,"(3402, 3409)",1
+Systrom,PERSON,"(3402, 3409)",1
+Mayo Clinic,ORG,"(2458, 2469)",1
+Mayo Clinic,LOC,"(2458, 2469)",1
+26-May-19,DATE,"(169, 181)",1
+May-20,DATE,"(281, 289)",1
+So Goa,ORG,"(6795, 6801)",1
+Six years ago,DATE,"(78, 91)",1
+Skillshare,PRODUCT,"(3179, 3189)",1
+Schulz,PER,"(7011, 7017)",1
+Sandy Newmark,PER,"(7055, 7068)",1
+Mesensei,ORG,"(2727, 2735)",1
+Sandy Newmark,PERSON,"(7055, 7068)",1
+Sanger-Katz,ORG,"(3851, 3862)",1
+Sanger-Katz,PER,"(3851, 3862)",1
+Saturday,DATE,"(6261, 6269)",1
+Schizophrenia,GPE,"(209, 222)",1
+Schizophrenia,MISC,"(1012, 1025)",1
+Schmidt DataX Fund,ORG,"(11311, 11329)",1
+Schmidt DataX Fund,ORG,"(11612, 11630)",1
+Mesensei,ORG,"(2193, 2201)",1
+Schonfeld,PER,"(4302, 4311)",1
+Mesensei,ORG,"(1531, 1539)",1
+San Francisco,LOC,"(40, 53)",1
+Schulz,PERSON,"(7011, 7017)",1
+Science,GPE,"(3166, 3173)",1
+Mesensei,ORG,"(1391, 1399)",1
+Science Advances,ORG,"(473, 489)",1
+Scientific Advertising,ORG,"(4488, 4510)",1
+Mesensei,ORG,"(607, 615)",1
+Mesensei,ORG,"(433, 441)",1
+Mesensei,ORG,"(387, 395)",1
+Mesensei,ORG,"(0, 8)",1
+Mesensei,EVENT,"(607, 615)",1
+Scientific American,ORG,"(1406, 1425)",1
+Mesensei,EVENT,"(433, 441)",1
+San Francisco,LOC,"(5671, 5684)",1
+San Francisco,GPE,"(5671, 5684)",1
+Medium,ORG,"(10054, 10060)",1
+SUDEP,ORG,"(3236, 3241)",1
+SSM,MISC,"(675, 678)",1
+SSM,ORG,"(675, 678)",1
+SUDEP,MISC,"(803, 808)",1
+SUDEP,MISC,"(3105, 3110)",1
+SUDEP,MISC,"(3212, 3217)",1
+SUDEP,MISC,"(3302, 3307)",1
+Mesensei,PER,"(2417, 2425)",1
+SUDEP,MISC,"(3686, 3691)",1
+SUDEP,MISC,"(4006, 4011)",1
+SUDEP,MISC,"(4896, 4901)",1
+SUDEP,ORG,"(811, 816)",1
+SUDEP,ORG,"(3212, 3217)",1
+SUDEP,ORG,"(3302, 3307)",1
+San Francisco,GPE,"(40, 53)",1
+Mesensei,PER,"(1017, 1025)",1
+SUDEP,ORG,"(3499, 3504)",1
+SUDEP,ORG,"(4294, 4299)",1
+SUDEP,ORG,"(4896, 4901)",1
+Safi Bahcall,MISC,"(9004, 9016)",1
+Safi Bahcall’s,PERSON,"(9004, 9018)",1
+Salesforce,MISC,"(8238, 8248)",1
+Salesforce,PRODUCT,"(8238, 8248)",1
+Salmonella,MISC,"(4858, 4868)",1
+Salmonella,PERSON,"(4858, 4868)",1
+San Fran,GPE,"(7938, 7946)",1
+San Fran,LOC,"(7938, 7946)",1
+Scott Pruitt,PER,"(7163, 7175)",1
+Scott Pruitt,PERSON,"(7163, 7175)",1
+Seasonal Affective Disorder,WORK_OF_ART,"(4139, 4166)",1
+Meetup,MISC,"(3403, 3409)",1
+Shades of Grey,ORG,"(10004, 10018)",1
+Shane O’Mara,PER,"(309, 321)",1
+Shawn Achor,PER,"(4908, 4919)",1
+Shawn Achor,PERSON,"(4908, 4919)",1
+Sherman Act,MISC,"(1608, 1619)",1
+Meredith,ORG,"(5010, 5018)",1
+"Melatonin
+
+Apart",ORG,"(2632, 2648)",1
+Megan Moreno,PERSON,"(7545, 7557)",1
+Megan Moreno,PER,"(7545, 7557)",1
+Meetup,ORG,"(3403, 3409)",1
+Signal,ORG,"(9829, 9835)",1
+Meetup,ORG,"(3061, 3067)",1
+Meetup,MISC,"(3061, 3067)",1
+Seattle,GPE,"(4520, 4527)",1
+Medium’s,ORG,"(1369, 1377)",1
+Medium,WORK_OF_ART,"(1647, 1653)",1
+Simon,GPE,"(3711, 3716)",1
+Medium,WORK_OF_ART,"(951, 957)",1
+Simon,PER,"(3711, 3716)",1
+Medium,WORK_OF_ART,"(207, 213)",1
+Medium,PER,"(207, 213)",1
+Simplest Form of Mindfulness Is Also the Most Effective  Most of us,MISC,"(4, 71)",1
+Six,CARDINAL,"(45, 48)",1
+Matplotlib,MISC,"(634, 644)",1
+Sixth,ORDINAL,"(4429, 4434)",1
+Skillshare,ORG,"(3179, 3189)",1
+Meredith,PER,"(5010, 5018)",1
+Shades of Grey,MISC,"(10004, 10018)",1
+Seth Godin,PERSON,"(3544, 3554)",1
+Seth Godin,PERSON,"(508, 518)",1
+Seattle,LOC,"(4520, 4527)",1
+Second,ORDINAL,"(2107, 2113)",1
+Second,ORDINAL,"(3318, 3324)",1
+Second,ORDINAL,"(3822, 3828)",1
+Merry Christmas,MISC,"(4934, 4949)",1
+Secondly,ORDINAL,"(1766, 1774)",1
+Secondly,ORDINAL,"(4850, 4858)",1
+"See, I Told You I Knew How The Brain Worked”",MISC,"(4983, 5027)",1
+Seitz,PER,"(7674, 7679)",1
+Seitz,PERSON,"(7320, 7325)",1
+Seitz,PERSON,"(7674, 7679)",1
+Seitz et al.,MISC,"(6784, 6796)",1
+Seitz et al.,MISC,"(7320, 7332)",1
+September,DATE,"(631, 640)",1
+September,DATE,"(8500, 8509)",1
+Sep-22,DATE,"(0, 12)",1
+September of 2013,DATE,"(2028, 2045)",1
+Sergueï Fetissov,PER,"(4189, 4205)",1
+Sergueï Fetissov,PERSON,"(4189, 4205)",1
+Servian,MISC,"(3811, 3818)",1
+Servian,NORP,"(3411, 3418)",1
+Servian,NORP,"(3811, 3818)",1
+Servian,ORG,"(3411, 3418)",1
+Seth Godin,PER,"(508, 518)",1
+Seth Godin,PER,"(3544, 3554)",1
+"The Article with Over 100,000",LAW,"(977, 1006)",1
+The Brian Kiteley Exercise,PERSON,"(5800, 5826)",1
+The Atlantic,LOC,"(526, 538)",1
+Tristan Harris’ Center for Humane,PERSON,"(3309, 3342)",1
+Manhattan,GPE,"(2234, 2243)",1
+Toxoplasma,GPE,"(1046, 1056)",1
+Mandel Ngan-Pool,PER,"(3168, 3184)",1
+TransferConfig,ORG,"(2718, 2732)",1
+Maley,PERSON,"(6230, 6235)",1
+TransferConfig,ORG,"(4558, 4572)",1
+TransferConfig,PRODUCT,"(2805, 2819)",1
+Transplant Surgery,FAC,"(1183, 1201)",1
+Triclosan,MISC,"(5480, 5489)",1
+Maley,PERSON,"(5403, 5408)",1
+Triclosan,PERSON,"(1178, 1187)",1
+Triclosan,PERSON,"(5480, 5489)",1
+Maley,PERSON,"(4525, 4530)",1
+Tristan Harris’ Center for Humane Technology,ORG,"(3309, 3353)",1
+SQL,ORG,"(235, 238)",1
+Trois-Rivières,LOC,"(2391, 2405)",1
+Trois-Rivières,ORG,"(2391, 2405)",1
+Maley,PERSON,"(3603, 3608)",1
+Trump,PER,"(4426, 4431)",1
+Trump,PER,"(7127, 7132)",1
+"Trump, Jr.",ORG,"(4426, 4436)",1
+Trump’s,ORG,"(7127, 7134)",1
+Trustworthy AI,PERSON,"(13560, 13574)",1
+Truth,GPE,"(7094, 7099)",1
+Truth,MISC,"(7094, 7099)",1
+Tucker J. Marion,PER,"(1750, 1766)",1
+Tucker J. Marion,PERSON,"(1750, 1766)",1
+Tucker Max,LOC,"(4552, 4562)",1
+Manhattan,LOC,"(2234, 2243)",1
+Tony Hsieh,PERSON,"(6518, 6528)",1
+Tony Hsieh,PER,"(6518, 6528)",1
+Marcel Proust,PER,"(489, 502)",1
+Tim Christophersen,PERSON,"(1401, 1419)",1
+Tim Cook,PER,"(8, 16)",1
+Tim Cook,PER,"(646, 654)",1
+Tim Cook,PERSON,"(8, 16)",1
+Tim Cook,PERSON,"(646, 654)",1
+Tim Ferriss,PER,"(1994, 2005)",1
+Marcel Proust,PER,"(1914, 1927)",1
+Tim Ferriss,PERSON,"(1994, 2005)",1
+Time,ORG,"(377, 381)",1
+Times,ORG,"(1146, 1151)",1
+Tino Tereshko,PER,"(2983, 2996)",1
+Tino Tereshko,PERSON,"(2983, 2996)",1
+Titan,GPE,"(7014, 7019)",1
+Titan,ORG,"(7014, 7019)",1
+Tobias,PER,"(399, 405)",1
+Today,DATE,"(1883, 1888)",1
+Today,DATE,"(2801, 2806)",1
+Today,DATE,"(4083, 4088)",1
+Told Me to Think Happy Thoughts,MISC,"(65, 96)",1
+Tom,PER,"(2925, 2928)",1
+Tom,PERSON,"(2925, 2928)",1
+Tom Buchanan,PER,"(3288, 3300)",1
+Tom Buchanan,PERSON,"(3288, 3300)",1
+Tom French,PER,"(7376, 7386)",1
+Tom French,PERSON,"(7376, 7386)",1
+Tommaso Troiani,PER,"(304, 319)",1
+Tommaso Troiani,PERSON,"(304, 319)",1
+Tucker Max’s,ORG,"(4552, 4564)",1
+Maley,PERSON,"(1760, 1765)",1
+Maley,PER,"(6230, 6235)",1
+UK,LOC,"(1125, 1127)",1
+MailChimp,MISC,"(4794, 4803)",1
+UK,LOC,"(1790, 1792)",1
+UK,LOC,"(6748, 6750)",1
+Magic,ORG,"(1355, 1360)",1
+URL,ORG,"(7175, 7178)",1
+URL  A URL,MISC,"(7017, 7027)",1
+US,GPE,"(271, 273)",1
+US,GPE,"(715, 717)",1
+US,GPE,"(789, 791)",1
+US,GPE,"(849, 851)",1
+US,GPE,"(869, 871)",1
+US,GPE,"(2867, 2869)",1
+US,GPE,"(5137, 5139)",1
+US,GPE,"(6730, 6732)",1
+US,LOC,"(271, 273)",1
+US,LOC,"(715, 717)",1
+US,LOC,"(789, 791)",1
+US,LOC,"(849, 851)",1
+US,LOC,"(869, 871)",1
+US,LOC,"(2867, 2869)",1
+Mae Wu,PERSON,"(2443, 2449)",1
+US,LOC,"(5137, 5139)",1
+Mae Wu,PER,"(2443, 2449)",1
+US,LOC,"(6730, 6732)",1
+Mad Mockingbird,PRODUCT,"(7757, 7772)",1
+USA,GPE,"(3696, 3699)",1
+USA,LOC,"(3696, 3699)",1
+UK,LOC,"(1768, 1770)",1
+UK,LOC,"(676, 678)",1
+Maley,PER,"(5403, 5408)",1
+UK,GPE,"(6748, 6750)",1
+Maley,PER,"(4525, 4530)",1
+Maley,PER,"(3603, 3608)",1
+Tuukka Ylälahti,PER,"(2690, 2705)",1
+Maley,PER,"(1760, 1765)",1
+Twitter,MISC,"(1763, 1770)",1
+Malcolm Gladwell,PERSON,"(14172, 14188)",1
+Twitter,MISC,"(3561, 3568)",1
+Twitter,ORG,"(4268, 4275)",1
+Twitter,PERSON,"(4268, 4275)",1
+Twitter,PRODUCT,"(2891, 2898)",1
+Twitter,PRODUCT,"(3561, 3568)",1
+Two,CARDINAL,"(1263, 1266)",1
+Two,CARDINAL,"(3204, 3207)",1
+Two,CARDINAL,"(9232, 9235)",1
+Two Journaling Methods That Boost My Productivity and Creativity,WORK_OF_ART,"(8526, 8590)",1
+Malcolm Gladwell,PER,"(14172, 14188)",1
+Two Journaling Methods to Boost Your Productivity and Creativity,WORK_OF_ART,"(8447, 8511)",1
+Two Weeks,DATE,"(5104, 5113)",1
+U.S.,GPE,"(2712, 2716)",1
+U.S.,GPE,"(9565, 9569)",1
+U.S.,LOC,"(2712, 2716)",1
+U.S.,LOC,"(9565, 9569)",1
+UK,GPE,"(676, 678)",1
+UK,GPE,"(1125, 1127)",1
+MailChimp,ORG,"(4794, 4803)",1
+UK,GPE,"(1768, 1770)",1
+UK,GPE,"(1790, 1792)",1
+Tim Christophersen,PERSON,"(1007, 1025)",1
+Tim Christophersen,PER,"(1401, 1419)",1
+Tim Christophersen,PER,"(1007, 1025)",1
+Maslow’s,ORG,"(1353, 1361)",1
+Maslow,PER,"(1353, 1359)",1
+Maslow,PER,"(1095, 1101)",1
+Martin,PERSON,"(1264, 1270)",1
+Martin,PERSON,"(1047, 1053)",1
+Martin,PER,"(1264, 1270)",1
+Martin,PER,"(1047, 1053)",1
+Martin,PER,"(960, 966)",1
+The Hunger Games,MISC,"(986, 1002)",1
+The Hunger Games,WORK_OF_ART,"(986, 1002)",1
+The Impact of Starvation,WORK_OF_ART,"(6805, 6829)",1
+The Island,LOC,"(7462, 7472)",1
+The Island,WORK_OF_ART,"(7462, 7472)",1
+The Lean Startup,ORG,"(633, 649)",1
+The Lean Startup,WORK_OF_ART,"(633, 649)",1
+The Magic Flute,MISC,"(1844, 1859)",1
+Mars Dorian,PER,"(2130, 2141)",1
+The Magic Flute,WORK_OF_ART,"(1844, 1859)",1
+Mars Dorian,NORP,"(2130, 2141)",1
+"The Mechanics of Sleep In Learning
+
+First of all",WORK_OF_ART,"(782, 830)",1
+The Montreal AI Ethics Institute,ORG,"(8316, 8348)",1
+The Natural Supplement For Our Mental Health,ORG,"(11, 55)",1
+Marko Loukkola,PER,"(2793, 2807)",1
+The NeuroPixels Movie,MISC,"(943, 964)",1
+The NeuroPixels Movie,MISC,"(1153, 1174)",1
+Marko Loukkola,LOC,"(2793, 2807)",1
+Marketing Data,ORG,"(3310, 3324)",1
+Mark Zuckerberg,PERSON,"(716, 731)",1
+Maslow,PER,"(1903, 1909)",1
+The Hidden Treasure Beneath My Library,WORK_OF_ART,"(1977, 2015)",1
+Mark Zuckerberg,PER,"(716, 731)",1
+Masri,PERSON,"(4462, 4467)",1
+The Church of Jesus Christ,ORG,"(641, 667)",1
+The Church of Jesus Christ of Latter-day Saints,ORG,"(641, 688)",1
+The Department of Veterans Affairs,ORG,"(3336, 3370)",1
+The Easiest Way Possible,ORG,"(33, 57)",1
+The Easiest Way Possible  A guide,MISC,"(33, 66)",1
+The FDA Banned These Chemicals,ORG,"(0, 30)",1
+The Famous Case of Phineas Gage’s Astonishing Brain Injury,WORK_OF_ART,"(2076, 2134)",1
+The Father of Advertising,ORG,"(7340, 7365)",1
+The George R.R. Martin Exercise for Writing Effective Dialogue  At the Neuchâtel Fantastic Film Festival,MISC,"(791, 895)",1
+The Graveyard Book,LAW,"(5003, 5021)",1
+The Graveyard Book,MISC,"(5003, 5021)",1
+The Great Gatsby,FAC,"(93, 109)",1
+The Great Gatsby,FAC,"(497, 513)",1
+The Great Gatsby,FAC,"(2789, 2805)",1
+The Great Gatsby,FAC,"(5683, 5699)",1
+The Great Gatsby,MISC,"(93, 109)",1
+The Great Gatsby,MISC,"(497, 513)",1
+Mathilde Iweins,PER,"(3431, 3446)",1
+Mathilde Iweins,ORG,"(3431, 3446)",1
+The Great Gatsby,MISC,"(1186, 1202)",1
+The Great Gatsby,MISC,"(2789, 2805)",1
+The Great Gatsby,MISC,"(5683, 5699)",1
+The Great Gatsby,WORK_OF_ART,"(1186, 1202)",1
+The Guardian,ORG,"(2551, 2563)",1
+The Happiness Advantage,MISC,"(4872, 4895)",1
+The Happiness Advantage,WORK_OF_ART,"(4872, 4895)",1
+The Hidden Treasure Beneath My Library,MISC,"(1977, 2015)",1
+Mark Zuckerberg,PERSON,"(78, 93)",1
+Mark Zuckerberg,PER,"(78, 93)",1
+Thomas Edison,PERSON,"(1020, 1033)",1
+Thing — the Novel,MISC,"(4657, 4674)",1
+Marilyn Monroe,PERSON,"(3226, 3240)",1
+Marilyn Monroe,PER,"(3388, 3402)",1
+Think Week,MISC,"(1764, 1774)",1
+Third,ORDINAL,"(2582, 2587)",1
+Marilyn Monroe,PER,"(3226, 3240)",1
+Third,ORDINAL,"(3972, 3977)",1
+Third,ORDINAL,"(4374, 4379)",1
+Thirty years ago,DATE,"(6589, 6605)",1
+Marie,PERSON,"(4999, 5004)",1
+Thirty years late,DATE,"(3244, 3261)",1
+Marie,PER,"(4999, 5004)",1
+This One Habit Changed My Life,MISC,"(3193, 3223)",1
+This One Habit Changed My Life,WORK_OF_ART,"(3193, 3223)",1
+Margulis,PERSON,"(1721, 1729)",1
+This Powerful Strategy Will Boost Your Productivity,WORK_OF_ART,"(5830, 5881)",1
+This summer,DATE,"(6571, 6582)",1
+This year,DATE,"(2227, 2236)",1
+Margulis,PER,"(1721, 1729)",1
+Margot Sanger-Katz,PERSON,"(3463, 3481)",1
+Margot Sanger-Katz,PER,"(3463, 3481)",1
+Mar-20,DATE,"(2789, 2799)",1
+Thomas Crowther,PER,"(1898, 1913)",1
+Thomas Crowther,PER,"(2277, 2292)",1
+Thomas Crowther,PERSON,"(1898, 1913)",1
+Thomas Crowther,PERSON,"(2277, 2292)",1
+March,DATE,"(2069, 2074)",1
+Thomas Edison,PER,"(1020, 1033)",1
+Think Week,EVENT,"(1764, 1774)",1
+These days,DATE,"(3565, 3575)",1
+Mark Manson,PERSON,"(4521, 4532)",1
+Theresa Buhse,PERSON,"(2427, 2440)",1
+The Only Book About Writing You’ll Ever Need  I’ve read it,MISC,"(9, 67)",1
+The Power of Sleep in Learning,ORG,"(0, 30)",1
+Mark Manson,PER,"(4521, 4532)",1
+The Seer Stone,ORG,"(3117, 3131)",1
+The Seer Stone,ORG,"(3459, 3473)",1
+The Seer Stone,WORK_OF_ART,"(3117, 3131)",1
+The Seer Stone,WORK_OF_ART,"(3459, 3473)",1
+The Selected Poems of,WORK_OF_ART,"(3584, 3605)",1
+The Social Experiment,MISC,"(1112, 1133)",1
+The Social Experiment,ORG,"(1112, 1133)",1
+The Sorrows of Young Werther,MISC,"(1406, 1434)",1
+The Sorrows of Young Werther,WORK_OF_ART,"(1406, 1434)",1
+Marilyn Monroe,PERSON,"(3388, 3402)",1
+"The Spike
+
+Twitter",FAC,"(7195, 7213)",1
+The Startup,ORG,"(5068, 5079)",1
+The Telegraph,ORG,"(7795, 7808)",1
+The Ultimate Guide to Going Low Carb,WORK_OF_ART,"(9864, 9900)",1
+The Ultimate Guide to Going Low Carb,WORK_OF_ART,"(9906, 9942)",1
+The Unappreciated Complexity and Power of Walking,ORG,"(23, 72)",1
+The Utah County Crisis Line,ORG,"(2379, 2406)",1
+"The Vagal Tone
+
+In",EVENT,"(2418, 2436)",1
+The first week,DATE,"(2231, 2245)",1
+The morning,TIME,"(0, 11)",1
+The next six weeks,DATE,"(2762, 2780)",1
+Theme,WORK_OF_ART,"(5194, 5199)",1
+Theme of Your Story  Here,MISC,"(4521, 4546)",1
+Theresa Buhse,PER,"(2427, 2440)",1
+SQL Queries,ORG,"(3122, 3133)",1
+SEO,ORG,"(9484, 9487)",1
+SQL,ORG,"(85, 88)",1
+Papageno,MISC,"(1742, 1750)",1
+Paris,LOC,"(676, 681)",1
+Partnership Program,MISC,"(806, 825)",1
+Patagonia,GPE,"(7267, 7276)",1
+Patagonia,LOC,"(7267, 7276)",1
+Path,MISC,"(2736, 2740)",1
+Paul Warchol,PER,"(3450, 3462)",1
+Paul Warchol,PERSON,"(3450, 3462)",1
+Pearl Harbour,LOC,"(391, 404)",1
+Pearl Harbour,PERSON,"(391, 404)",1
+Penguin,ORG,"(4498, 4505)",1
+Penguin,PERSON,"(4498, 4505)",1
+Nespresso,ORG,"(8233, 8242)",1
+Penguin Random House,ORG,"(3202, 3222)",1
+Nespresso,MISC,"(8233, 8242)",1
+Peter Henderson,PER,"(1040, 1055)",1
+Peter Henderson,PERSON,"(1040, 1055)",1
+Pexels,GPE,"(121, 127)",1
+Pexels,GPE,"(126, 132)",1
+Pexels,GPE,"(151, 157)",1
+Pexels,GPE,"(161, 167)",1
+Pexels,LOC,"(151, 157)",1
+Pexels  The,ORG,"(121, 132)",1
+PhD,ORG,"(4606, 4609)",1
+PhD,PER,"(4374, 4377)",1
+Neil Gaiman,PERSON,"(4738, 4749)",1
+PhD,WORK_OF_ART,"(4374, 4377)",1
+PhD,WORK_OF_ART,"(4606, 4609)",1
+Paris,GPE,"(676, 681)",1
+Papageno,MISC,"(1144, 1152)",1
+Pakistan,LOC,"(891, 899)",1
+Papageno,GPE,"(1742, 1750)",1
+Pakistan,LOC,"(2898, 2906)",1
+Pakistan,LOC,"(3306, 3314)",1
+Pakistan,LOC,"(4619, 4627)",1
+Pakistan,LOC,"(4774, 4782)",1
+Pakistan,LOC,"(4871, 4879)",1
+Pakistan,LOC,"(5122, 5130)",1
+Pakistan,LOC,"(6103, 6111)",1
+Pakistan,LOC,"(6634, 6642)",1
+Pakistan,LOC,"(6975, 6983)",1
+Pakistan,LOC,"(7079, 7087)",1
+Pakistan,LOC,"(7234, 7242)",1
+New York,LOC,"(4406, 4414)",1
+New York,LOC,"(1256, 1264)",1
+New York,GPE,"(4406, 4414)",1
+Pakistani,MISC,"(6273, 6282)",1
+New York,GPE,"(1256, 1264)",1
+New England Journal of Medicine,ORG,"(2949, 2980)",1
+Pakistani,NORP,"(6273, 6282)",1
+Neurodevelopment  In,MISC,"(4338, 4358)",1
+Netflix,ORG,"(642, 649)",1
+Netflix,MISC,"(642, 649)",1
+Nestlé,ORG,"(8086, 8092)",1
+Pancreatic Surgery,ORG,"(1060, 1078)",1
+Pandas,MISC,"(596, 602)",1
+Pandas,ORG,"(596, 602)",1
+Nestlé,GPE,"(8086, 8092)",1
+Papageno,GPE,"(1144, 1152)",1
+Phillip Wolff,PER,"(3589, 3602)",1
+Phillip Wolff,PERSON,"(3589, 3602)",1
+Phineas Gage,ORG,"(34, 46)",1
+Phineas Gage,ORG,"(521, 533)",1
+Porges,ORG,"(477, 483)",1
+Porges,PER,"(477, 483)",1
+Post,ORG,"(4263, 4267)",1
+Post,ORG,"(4680, 4684)",1
+"Post Forms on Medium
+
+Okay",ORG,"(2545, 2571)",1
+Pramila Jayapal,PER,"(3142, 3157)",1
+Pramila Jayapal,PER,"(3241, 3256)",1
+Pramila Jayapal,PERSON,"(3142, 3157)",1
+Pramila Jayapal,PERSON,"(3241, 3256)",1
+Predictably Irrational,WORK_OF_ART,"(2482, 2504)",1
+Prem,MISC,"(5178, 5182)",1
+Prem,ORG,"(4833, 4837)",1
+Prem,ORG,"(4946, 4950)",1
+Prem,ORG,"(5178, 5182)",1
+Preview,GPE,"(461, 468)",1
+Prevotella,MISC,"(5223, 5233)",1
+Princeton University,ORG,"(11053, 11073)",1
+Product Category,PERSON,"(5241, 5257)",1
+Project HuBrIS,MISC,"(3400, 3414)",1
+Proust,GPE,"(1444, 1450)",1
+Proust,PER,"(1444, 1450)",1
+Pryluk,ORG,"(3609, 3615)",1
+Pryluk,PER,"(1792, 1798)",1
+Pryluk,PER,"(2576, 2582)",1
+Pryluk,PERSON,"(1792, 1798)",1
+Pryluk,PERSON,"(2576, 2582)",1
+Neguine Rezaii,PERSON,"(1900, 1914)",1
+Neil Gaiman,PER,"(996, 1007)",1
+Pixar,ORG,"(7706, 7711)",1
+Pixar,ORG,"(7433, 7438)",1
+Phineas Gage,PER,"(2137, 2149)",1
+Phineas Gage,ORG,"(585, 597)",1
+Phineas Gage,ORG,"(985, 997)",1
+Phineas Gage,ORG,"(1540, 1552)",1
+Phineas Gage,ORG,"(1866, 1878)",1
+Neil Gaiman,PERSON,"(996, 1007)",1
+Phineas Gage,PER,"(34, 46)",1
+Phineas Gage,PER,"(521, 533)",1
+Phineas Gage,PER,"(585, 597)",1
+Phineas Gage,PER,"(985, 997)",1
+Phineas Gage,PER,"(1540, 1552)",1
+Phineas Gage,PER,"(1866, 1878)",1
+Phineas Gage,PER,"(2095, 2107)",1
+Phineas Gage’s Astonishing Brain Injury,ORG,"(2137, 2176)",1
+Neil Gaiman,PER,"(4738, 4749)",1
+Pichai,PER,"(5083, 5089)",1
+Pichai,PER,"(5504, 5510)",1
+Pichai,PERSON,"(5083, 5089)",1
+Pichai,PERSON,"(5504, 5510)",1
+Pimple Popper,PER,"(4412, 4425)",1
+Pimple Popper,PERSON,"(4412, 4425)",1
+Pixabay,ORG,"(154, 161)",1
+Pixabay,ORG,"(189, 196)",1
+Pixabay License,MISC,"(1099, 1114)",1
+Pixabay License,MISC,"(3537, 3552)",1
+Pixabay License,ORG,"(1099, 1114)",1
+Pixabay License,ORG,"(3537, 3552)",1
+Pakistan,LOC,"(1913, 1921)",1
+Pakistan,LOC,"(344, 352)",1
+SQL,MISC,"(85, 88)",1
+Noam Chomsky,PER,"(5938, 5950)",1
+Nobel,WORK_OF_ART,"(1661, 1666)",1
+Nobel Prize,MISC,"(1720, 1731)",1
+Nobel Prize,WORK_OF_ART,"(867, 878)",1
+Nobel and IgNobel Prizes,MISC,"(1661, 1685)",1
+North American,MISC,"(1919, 1933)",1
+North American,NORP,"(1919, 1933)",1
+North American,NORP,"(3047, 3061)",1
+North American Prodrome Longitudinal Study,MISC,"(3047, 3089)",1
+Not Time Management,ORG,"(76, 95)",1
+Not Time Management,ORG,"(497, 516)",1
+Not Time Management,ORG,"(1545, 1564)",1
+Notes,PRODUCT,"(6764, 6769)",1
+Novel,ORG,"(4669, 4674)",1
+Nov-14,DATE,"(32, 45)",1
+Number] Lessons I Learned From,WORK_OF_ART,"(9946, 9976)",1
+Number] Mistakes People Make,WORK_OF_ART,"(9687, 9715)",1
+Number] Strategies That Will Help You,WORK_OF_ART,"(10099, 10136)",1
+OC43,MISC,"(907, 911)",1
+New York City,GPE,"(242, 255)",1
+Occam,ORG,"(653, 658)",1
+Occam,ORG,"(4100, 4105)",1
+Occam’s,ORG,"(0, 7)",1
+New York City,GPE,"(165, 178)",1
+Oliver Wyman,ORG,"(3434, 3446)",1
+Oliver Wyman,ORG,"(3468, 3480)",1
+Oliver Wyman,PERSON,"(3434, 3446)",1
+Oliver Wyman,PERSON,"(3468, 3480)",1
+Noam Chomsky,PERSON,"(5938, 5950)",1
+New York City,GPE,"(1706, 1719)",1
+Pakistan,LOC,"(120, 128)",1
+New York City,GPE,"(1836, 1849)",1
+New York City,LOC,"(242, 255)",1
+New York Times,ORG,"(3489, 3503)",1
+New Yorkers,MISC,"(295, 306)",1
+New Yorkers,NORP,"(295, 306)",1
+New Zealand,GPE,"(1952, 1963)",1
+New Zealand,GPE,"(4484, 4495)",1
+New Zealand,GPE,"(4939, 4950)",1
+New Zealand,LOC,"(1952, 1963)",1
+New Zealand,LOC,"(4484, 4495)",1
+New Zealand,LOC,"(4939, 4950)",1
+New York City,LOC,"(165, 178)",1
+Next,ORG,"(2068, 2072)",1
+Nick Bilton,PER,"(3594, 3605)",1
+Nick Bilton,PERSON,"(3594, 3605)",1
+Nick Carraway,PER,"(1219, 1232)",1
+Nick Carraway’s,PERSON,"(1219, 1234)",1
+Nikola Jovanovic,PER,"(9, 25)",1
+Nikola Jovanovic,PERSON,"(9, 25)",1
+Nikolas,GPE,"(1813, 1820)",1
+Nikolas,PER,"(1813, 1820)",1
+Ninety-nine percent,PERCENT,"(1865, 1884)",1
+Ninja Writers,MISC,"(3104, 3117)",1
+Ninja Writers,ORG,"(3104, 3117)",1
+Nir Eyal,ORG,"(3584, 3592)",1
+Nir Eyal,PER,"(3584, 3592)",1
+Noah Silliman,PER,"(796, 809)",1
+Noah Silliman,PERSON,"(796, 809)",1
+On Writing Well,MISC,"(4664, 4679)",1
+On Writing Well,WORK_OF_ART,"(4664, 4679)",1
+One,CARDINAL,"(359, 362)",1
+One,CARDINAL,"(843, 846)",1
+PCamp,MISC,"(2304, 2309)",1
+PCamp,ORG,"(2304, 2309)",1
+PEP8,GPE,"(2364, 2368)",1
+PEP8,MISC,"(2364, 2368)",1
+PLoS,PERSON,"(3199, 3203)",1
+PLoS Two,MISC,"(3199, 3207)",1
+PS,ORG,"(1553, 1555)",1
+PV Subbareddy,ORG,"(3770, 3783)",1
+PV Subbareddy,PERSON,"(3770, 3783)",1
+PaaS,MISC,"(6235, 6239)",1
+Pakistan,GPE,"(52, 60)",1
+Pakistan,GPE,"(120, 128)",1
+Pakistan,GPE,"(344, 352)",1
+Pakistan,GPE,"(891, 899)",1
+Pakistan,GPE,"(1913, 1921)",1
+Pakistan,GPE,"(2898, 2906)",1
+Pakistan,GPE,"(3306, 3314)",1
+Pakistan,GPE,"(4619, 4627)",1
+Pakistan,GPE,"(4774, 4782)",1
+Pakistan,GPE,"(4871, 4879)",1
+Pakistan,GPE,"(5122, 5130)",1
+Pakistan,GPE,"(6103, 6111)",1
+Pakistan,GPE,"(6634, 6642)",1
+Pakistan,GPE,"(6975, 6983)",1
+Pakistan,GPE,"(7079, 7087)",1
+Pakistan,GPE,"(7234, 7242)",1
+Pakistan,LOC,"(52, 60)",1
+P.S. Not a compelling story,WORK_OF_ART,"(2481, 2508)",1
+P-Codrea,ORG,"(4129, 4137)",1
+P-Codrea,MISC,"(4129, 4137)",1
+One,CARDINAL,"(6936, 6939)",1
+One,CARDINAL,"(892, 895)",1
+One,CARDINAL,"(902, 905)",1
+One,CARDINAL,"(1008, 1011)",1
+One,CARDINAL,"(1295, 1298)",1
+One,CARDINAL,"(1449, 1452)",1
+One,CARDINAL,"(2097, 2100)",1
+One,CARDINAL,"(2299, 2302)",1
+One,CARDINAL,"(3297, 3300)",1
+One,CARDINAL,"(3389, 3392)",1
+One,CARDINAL,"(4790, 4793)",1
+One,CARDINAL,"(5434, 5437)",1
+One,CARDINAL,"(6383, 6386)",1
+One,CARDINAL,"(9083, 9086)",1
+Our Internet Overlords,ORG,"(4297, 4319)",1
+One,CARDINAL,"(10299, 10302)",1
+One,CARDINAL,"(10457, 10460)",1
+One,CARDINAL,"(12618, 12621)",1
+One Hour,TIME,"(44, 52)",1
+One day,DATE,"(647, 654)",1
+One day,DATE,"(2709, 2716)",1
+One hour,TIME,"(649, 657)",1
+One percent,PERCENT,"(1218, 1229)",1
+Only 5–10%,PERCENT,"(227, 237)",1
+OpenCV  Let’s,MISC,"(1460, 1473)",1
+OpenClipart-Vectors,ORG,"(129, 148)",1
+Orange Bowl,MISC,"(94, 105)",1
+Neguine Rezaii,PERSON,"(1364, 1378)",1
+Neguine Rezaii,PER,"(1900, 1914)",1
+Pryluk,PERSON,"(3609, 3615)",1
+Mouse,ORG,"(739, 744)",1
+Morris,PERSON,"(4058, 4064)",1
+Morris,PERSON,"(3722, 3728)",1
+Morris,PERSON,"(2052, 2058)",1
+Morris,PERSON,"(1574, 1580)",1
+Morris,PERSON,"(981, 987)",1
+Morris,PER,"(4350, 4356)",1
+Morris,PER,"(3722, 3728)",1
+Morris,PER,"(2052, 2058)",1
+Morris,PER,"(1574, 1580)",1
+Morris,PER,"(981, 987)",1
+Morning Changed My Life,MISC,"(3281, 3304)",1
+Morning Brew,PERSON,"(6915, 6927)",1
+Mormons,ORG,"(3314, 3321)",1
+Mormons,ORG,"(2972, 2979)",1
+Mormons,MISC,"(3314, 3321)",1
+Mormons,MISC,"(2972, 2979)",1
+Mormon Tabernacle Choir Performed in an Anti-Gay Marriage Event,MISC,"(80, 143)",1
+Mormon Tabernacle Choir,ORG,"(685, 708)",1
+Robot Delivery  Refraction AI,ORG,"(6473, 6502)",1
+Mormon,ORG,"(1415, 1421)",1
+Mormon,MISC,"(1415, 1421)",1
+More Than 95%,PERCENT,"(30, 43)",1
+Montreal AI Ethics Institute,ORG,"(8354, 8382)",1
+Montreal AI Ethics Institute,ORG,"(8320, 8348)",1
+Monthly,DATE,"(977, 984)",1
+Moleskine,NORP,"(4410, 4419)",1
+Moleskine,NORP,"(2092, 2101)",1
+Morris,PERSON,"(4350, 4356)",1
+Mouse,PERSON,"(739, 744)",1
+"Psychiatric Disorders
+
+Photo",ORG,"(4436, 4464)",1
+Mozart,PERSON,"(1834, 1840)",1
+Nadler,PER,"(2891, 2897)",1
+Nadler,PER,"(2221, 2227)",1
+Nadine Shaabana,PER,"(85, 100)",1
+USD,MISC,"(4924, 4927)",1
+Nadine Shaabana,ORG,"(85, 100)",1
+NY Times,ORG,"(6587, 6595)",1
+NL63,MISC,"(900, 904)",1
+NGO’s,DATE,"(4611, 4616)",1
+NGO,ORG,"(4611, 4614)",1
+NEXT,ORG,"(7188, 7192)",1
+NEXT,ORG,"(6902, 6906)",1
+NEXT,ORG,"(2930, 2934)",1
+NEXT,ORG,"(772, 776)",1
+NEXT,ORG,"(32, 36)",1
+NEO.LIFE,ORG,"(7377, 7385)",1
+NAPLS,ORG,"(3091, 3096)",1
+Robert McKee Exercise For Writing With Originality,MISC,"(4013, 4063)",1
+N. Virginia,PERSON,"(487, 498)",1
+N. Virginia,LOC,"(487, 498)",1
+My Creative Space,PERSON,"(1799, 1816)",1
+Robert McKee’s,PERSON,"(4065, 4079)",1
+Muhammad Yasin,PERSON,"(5541, 5555)",1
+Robin Williams,PER,"(787, 801)",1
+Muhammad Yasin,PER,"(5541, 5555)",1
+Robin Williams,PERSON,"(787, 801)",1
+Robot,WORK_OF_ART,"(14249, 14254)",1
+Much Sleep Do You Need?,MISC,"(4, 27)",1
+Robotics,ORG,"(14268, 14276)",1
+Robotics  MIT,ORG,"(12303, 12316)",1
+Robotics for Waste Recycling,ORG,"(7388, 7416)",1
+Rolf Halden,PER,"(1954, 1965)",1
+Ryan Holiday’s,ORG,"(4673, 4687)",1
+S. 2011,ORG,"(485, 492)",1
+S3,CARDINAL,"(5063, 5065)",1
+S3,ORG,"(5063, 5065)",1
+S3 API,PRODUCT,"(3860, 3866)",1
+S3 API,PRODUCT,"(3998, 4004)",1
+SAD,MISC,"(4168, 4171)",1
+SAD,ORG,"(4175, 4178)",1
+SAD,ORG,"(4410, 4413)",1
+SAD,ORG,"(4609, 4612)",1
+SARS,MISC,"(762, 766)",1
+SARS,MISC,"(2189, 2193)",1
+SARS,MISC,"(2214, 2218)",1
+SARS,MISC,"(2363, 2367)",1
+SARS-CoV-2,MISC,"(621, 631)",1
+SARS-CoV-2,MISC,"(1102, 1112)",1
+Mesensei,PERSON,"(1017, 1025)",1
+SARS-CoV-2,MISC,"(1534, 1544)",1
+SARS-CoV-2,MISC,"(1965, 1975)",1
+SARS-CoV-2,MISC,"(2148, 2158)",1
+SARS-CoV-2,MISC,"(3110, 3120)",1
+SARS-CoV-2,MISC,"(4418, 4428)",1
+SEO,ORG,"(3453, 3456)",1
+SEO,ORG,"(3758, 3761)",1
+SEO,ORG,"(9267, 9270)",1
+New York City,LOC,"(1706, 1719)",1
+Mesensei,PERSON,"(387, 395)",1
+Ryan Holiday,PERSON,"(3570, 3582)",1
+Ryan Holiday,PER,"(4673, 4685)",1
+Ryan Holiday,PER,"(3570, 3582)",1
+Michael Kan,PER,"(307, 318)",1
+Rolf Halden,PERSON,"(1954, 1965)",1
+Rolls Royce,ORG,"(5096, 5107)",1
+Rolls Royce and Finferries,PRODUCT,"(5096, 5122)",1
+Roman Kraft,ORG,"(2417, 2428)",1
+Roman Kraft,PERSON,"(2417, 2428)",1
+Roseburia,MISC,"(5435, 5444)",1
+Mistakes People Make When Saving for Retirement”) The Ultimate Guide To____ (“The Ultimate Guide to Going Low Carb”)  (“The Ultimate Guide to Going,MISC,"(9786, 9933)",1
+Minnesota,LOC,"(2471, 2480)",1
+Minnesota,GPE,"(2471, 2480)",1
+Mind Management,ORG,"(480, 495)",1
+Roughly 306.4 billion,CARDINAL,"(303, 324)",1
+Rowling,PER,"(138, 145)",1
+Mich.,LOC,"(7021, 7026)",1
+Mesensei,PERSON,"(1531, 1539)",1
+Royal College of Surgeons,ORG,"(960, 985)",1
+Rubbish Out  Rowling,MISC,"(736, 756)",1
+Rui,PER,"(1724, 1727)",1
+Rui,PERSON,"(1724, 1727)",1
+Russia,GPE,"(776, 782)",1
+Russia,LOC,"(776, 782)",1
+Ryan,PER,"(4983, 4987)",1
+Ryan,PERSON,"(4983, 4987)",1
+Mich.,GPE,"(7021, 7026)",1
+Mexican,NORP,"(7256, 7263)",1
+Mexican,MISC,"(7256, 7263)",1
+Mesensei,PERSON,"(2417, 2425)",1
+Nadler,PERSON,"(2221, 2227)",1
+Nadler,PERSON,"(3225, 3231)",1
+Robert McKee,PER,"(4065, 4077)",1
+Rampal Singh,PERSON,"(133, 145)",1
+Quora,PERSON,"(599, 604)",1
+Quora,PERSON,"(1060, 1065)",1
+Quora,PERSON,"(1664, 1669)",1
+RDS,MISC,"(4569, 4572)",1
+RDS,ORG,"(4913, 4916)",1
+Ned Hallowell,PER,"(6628, 6641)",1
+REV-1,MISC,"(6536, 6541)",1
+REV-1,MISC,"(6813, 6818)",1
+REV-1,MISC,"(7172, 7177)",1
+REV-1,ORG,"(6536, 6541)",1
+RGB,ORG,"(1156, 1159)",1
+RNA,ORG,"(4430, 4433)",1
+RO,ORG,"(2378, 2380)",1
+RO,ORG,"(2563, 2565)",1
+Rae Tian,PER,"(111, 119)",1
+Rae Tian,PERSON,"(111, 119)",1
+Rafael Yuste,PER,"(1488, 1500)",1
+Rafael Yuste,PER,"(3990, 4002)",1
+Rafael Yuste,PERSON,"(1488, 1500)",1
+Rafael Yuste,PERSON,"(3990, 4002)",1
+Raining.fm,MISC,"(4912, 4922)",1
+Raining.fm,ORG,"(4912, 4922)",1
+Ramachandran,MISC,"(3242, 3254)",1
+Ramachandran,PERSON,"(3242, 3254)",1
+Ramon,PERSON,"(1473, 1478)",1
+Natural Resources Defense Council,ORG,"(2470, 2503)",1
+Ramon y Cajal,PER,"(1473, 1486)",1
+Quora,PERSON,"(239, 244)",1
+Quora,ORG,"(1060, 1065)",1
+Quora,ORG,"(239, 244)",1
+Querying Data,ORG,"(0, 13)",1
+Psychological Review,ORG,"(1196, 1216)",1
+Pulitzer-Prize,ORG,"(7354, 7368)",1
+Push Scenes Forward,ORG,"(2432, 2451)",1
+Push Your Mind Harder,MISC,"(28, 49)",1
+Python,GPE,"(6551, 6557)",1
+Python,GPE,"(7822, 7828)",1
+Python,MISC,"(140, 146)",1
+Python,MISC,"(7822, 7828)",1
+Query,MISC,"(944, 949)",1
+Query,MISC,"(1984, 1989)",1
+Query,ORG,"(944, 949)",1
+Query,ORG,"(1984, 1989)",1
+Neguine Rezaii,PER,"(1364, 1378)",1
+Quora,ORG,"(19, 24)",1
+Querying Data,ORG,"(2525, 2538)",1
+Querying Data,ORG,"(3092, 3105)",1
+Quora,GPE,"(19, 24)",1
+Quora,GPE,"(152, 157)",1
+Quora,GPE,"(1283, 1288)",1
+Negative Comments,ORG,"(30, 47)",1
+Quora,GPE,"(1338, 1343)",1
+Quora,LOC,"(1283, 1288)",1
+Quora,MISC,"(599, 604)",1
+Ned Hallowell,PERSON,"(6628, 6641)",1
+Quora,MISC,"(1338, 1343)",1
+Quora,MISC,"(1664, 1669)",1
+Rampal Singh,PER,"(133, 145)",1
+Randolf DiDomenico,PER,"(6607, 6625)",1
+Rivlin et al.,PERSON,"(3454, 3467)",1
+Randolf DiDomenico,PERSON,"(6607, 6625)",1
+Republicans,MISC,"(1014, 1025)",1
+Republicans,MISC,"(1399, 1410)",1
+Republicans,NORP,"(1014, 1025)",1
+Republicans,NORP,"(1399, 1410)",1
+Restless Leg Syndrome,MISC,"(2618, 2639)",1
+Restless Leg Syndrome,ORG,"(2618, 2639)",1
+Retha Ferguson,GPE,"(101, 115)",1
+Retha Ferguson,PER,"(101, 115)",1
+Rezaii,PER,"(1623, 1629)",1
+Napoleon Hill,ORG,"(89, 102)",1
+Rezaii,PERSON,"(1623, 1629)",1
+Rheinberger,PER,"(2157, 2168)",1
+Rheinberger,PERSON,"(2157, 2168)",1
+Napoleon Bonaparte,PER,"(1635, 1653)",1
+Rhett Wilkinson Follow,PERSON,"(146, 168)",1
+Rhett Wilkinson Follow,PERSON,"(167, 189)",1
+Ricardo Gomez Angel,PER,"(1763, 1782)",1
+Ricardo Gomez Angel,PERSON,"(1763, 1782)",1
+Richard Davignon,PER,"(5168, 5184)",1
+Richard Davignon,PERSON,"(5168, 5184)",1
+Richard Dawkins,PER,"(1497, 1512)",1
+Napoleon Bonaparte,ORG,"(1635, 1653)",1
+Richard Dawkins,PERSON,"(1497, 1512)",1
+Richerson,GPE,"(3975, 3984)",1
+Richerson,MISC,"(3975, 3984)",1
+Rings,ORG,"(6264, 6269)",1
+Rivlin,PER,"(3454, 3460)",1
+Napoleon Hill,PER,"(89, 102)",1
+National Alliance on Mental Illness,ORG,"(4654, 4689)",1
+Republican,NORP,"(5157, 5167)",1
+Reagan Freeman,PERSON,"(117, 131)",1
+Rashida Kamal,PER,"(3, 16)",1
+Rashida Kamal,PER,"(951, 964)",1
+Rashida Kamal,PERSON,"(3, 16)",1
+Rashida Kamal,PERSON,"(951, 964)",1
+Ravi Mehta,PER,"(1712, 1722)",1
+Ravi Mehta,PERSON,"(1712, 1722)",1
+Ray Bradbury,PER,"(79, 91)",1
+Ray Bradbury,PER,"(7865, 7877)",1
+Ray Bradbury,PERSON,"(79, 91)",1
+Ray Bradbury,PERSON,"(7865, 7877)",1
+Natural Care of Children,ORG,"(7180, 7204)",1
+Reagan Freeman,PER,"(117, 131)",1
+Reasons Why Keeping a Journal Will Make You More Productive,MISC,"(6474, 6533)",1
+Republican,NORP,"(4111, 4121)",1
+Recognize Patterns,ORG,"(8097, 8115)",1
+National Research Cloud,ORG,"(5577, 5600)",1
+Reddit,GPE,"(2170, 2176)",1
+Reddit,ORG,"(2170, 2176)",1
+Refraction AI,MISC,"(7290, 7303)",1
+Refraction AI,ORG,"(6745, 6758)",1
+National Institutes of Health,ORG,"(3113, 3142)",1
+René de Ruijter,ORG,"(323, 338)",1
+René de Ruijter,PER,"(323, 338)",1
+Republican,MISC,"(4111, 4121)",1
+Republican,MISC,"(5157, 5167)",1
+National Book Award,MISC,"(10038, 10057)",1
+#,CARDINAL,"(1659, 1660)",1
+Up to 40%,PERCENT,"(3993, 4002)",1
+USD,ORG,"(4924, 4927)",1
+several minutes,TIME,"(2372, 2387)",1
+six,CARDINAL,"(1333, 1336)",1
+six,CARDINAL,"(836, 839)",1
+several weeks ago,DATE,"(886, 903)",1
+several months,DATE,"(2586, 2600)",1
+several months,DATE,"(289, 303)",1
+several minutes,TIME,"(2423, 2438)",1
+several hours,TIME,"(1292, 1305)",1
+six months,DATE,"(1700, 1710)",1
+several decades,DATE,"(3876, 3891)",1
+seven years,DATE,"(431, 442)",1
+seven year old,DATE,"(2500, 2514)",1
+seven,CARDINAL,"(7846, 7851)",1
+seven,CARDINAL,"(5639, 5644)",1
+seven,CARDINAL,"(864, 869)",1
+six,CARDINAL,"(1416, 1419)",1
+six weeks,DATE,"(60, 69)",1
+second,ORDINAL,"(7187, 7193)",1
+summer,DATE,"(5903, 5909)",1
+tai chi world champion,ORG,"(2047, 2069)",1
+synth,ORDINAL,"(3477, 3482)",1
+synesthesia,GPE,"(7489, 7500)",1
+synesthesia,GPE,"(6697, 6708)",1
+symptoms months later,DATE,"(6718, 6739)",1
+summer to autumn,DATE,"(6402, 6418)",1
+summer,DATE,"(1241, 1247)",1
+six years old,DATE,"(1548, 1561)",1
+structure days,DATE,"(2292, 2306)",1
+statista.com,MISC,"(388, 400)",1
+solidarity,ORG,"(3640, 3650)",1
+smart inventory management,ORG,"(4498, 4524)",1
+sixth,ORDINAL,"(1061, 1066)",1
+sixth,ORDINAL,"(791, 796)",1
+septum,GPE,"(802, 808)",1
+second,ORDINAL,"(6408, 6414)",1
+one-minute,TIME,"(186, 196)",1
+only sleep 6 hours,TIME,"(1662, 1680)",1
+over 4.5 billion,MONEY,"(269, 285)",1
+"over $50,000",MONEY,"(8491, 8503)",1
+our days,DATE,"(4760, 4768)",1
+our day,DATE,"(768, 775)",1
+only two days,DATE,"(4723, 4736)",1
+only to three,CARDINAL,"(923, 936)",1
+only one,CARDINAL,"(562, 570)",1
+over a month,DATE,"(2049, 2061)",1
+only five minutes,TIME,"(836, 853)",1
+only 6 seconds,TIME,"(165, 179)",1
+only 50%,PERCENT,"(2189, 2197)",1
+only 14%,PERCENT,"(8586, 8594)",1
+only 0.025 percent,PERCENT,"(205, 223)",1
+one-year,DATE,"(1597, 1605)",1
+over 70%,PERCENT,"(425, 433)",1
+overnight,TIME,"(1761, 1770)",1
+second,ORDINAL,"(6351, 6357)",1
+second,ORDINAL,"(880, 886)",1
+second,ORDINAL,"(4872, 4878)",1
+second,ORDINAL,"(4028, 4034)",1
+second,ORDINAL,"(3525, 3531)",1
+second,ORDINAL,"(2589, 2595)",1
+second,ORDINAL,"(2541, 2547)",1
+second,ORDINAL,"(1788, 1794)",1
+second,ORDINAL,"(754, 760)",1
+overnight,TIME,"(3755, 3764)",1
+s3.upload_fileobj,LOC,"(4432, 4449)",1
+s3 bucket,PERSON,"(2695, 2704)",1
+roughly 2.6 gigawatts,QUANTITY,"(639, 660)",1
+robotics⁷,PERSON,"(7943, 7952)",1
+reptilian,NORP,"(2768, 2777)",1
+pictures¹.,PERSON,"(2006, 2016)",1
+ten,CARDINAL,"(403, 406)",1
+ten,CARDINAL,"(7090, 7093)",1
+than half a dozen,CARDINAL,"(4183, 4200)",1
+the Healthy Building Network,ORG,"(8882, 8910)",1
+the Joint Artificial Intelligence Center,ORG,"(2410, 2450)",1
+the Istio Mesh Expansion,ORG,"(6341, 6365)",1
+"the International Society for Evolution, Ecology and",ORG,"(709, 761)",1
+the House Judiciary Committee’s,ORG,"(427, 458)",1
+the House Judiciary Committee,ORG,"(374, 403)",1
+the History of Neuroscience,ORG,"(263, 290)",1
+the Hallowell Centers,ORG,"(6658, 6679)",1
+the Latter-day Saint,EVENT,"(470, 490)",1
+the Green Science Policy Institute,ORG,"(7708, 7742)",1
+the Greater Boston Food Bank,ORG,"(12466, 12494)",1
+the Glue Environment,ORG,"(5858, 5878)",1
+the Global Landscape Forum,ORG,"(2249, 2275)",1
+the Glenn Beck,FAC,"(2809, 2823)",1
+the Frequency Illusion and Collective Consciousness,EVENT,"(984, 1035)",1
+the Language of Action,ORG,"(3269, 3291)",1
+the Latter-day Saint,ORG,"(2537, 2557)",1
+that day,DATE,"(304, 312)",1
+the Natural Care of Children,ORG,"(7176, 7204)",1
+the Orange Bowl,EVENT,"(90, 105)",1
+the Nobel Prize,WORK_OF_ART,"(1716, 1731)",1
+the New York Times,ORG,"(3485, 3503)",1
+the New England Journal of Medicine,ORG,"(2945, 2980)",1
+the Neuchâtel Fantastic Film Festival,ORG,"(858, 895)",1
+the Natural Resources Defense Council,ORG,"(2466, 2503)",1
+the National Institutes of Health,ORG,"(3109, 3142)",1
+the Latter-day Saint,ORG,"(2879, 2899)",1
+the National Alliance on Mental Illness,ORG,"(4650, 4689)",1
+the NY Times,ORG,"(6583, 6595)",1
+the Mormon Tabernacle Choir Performed,ORG,"(76, 113)",1
+the Medium Partnership Program,ORG,"(302, 332)",1
+the Medium Partner Program,ORG,"(70, 96)",1
+the Long Island Crisis Center,ORG,"(2478, 2507)",1
+the Frequency Illusion,ORG,"(3294, 3316)",1
+the Food and Drug Administration,ORG,"(376, 408)",1
+the Florence Statement,ORG,"(3289, 3311)",1
+"the Active Voice
+
+With",ORG,"(3753, 3775)",1
+the Arizona Cancer and Evolution Center,ORG,"(642, 681)",1
+the Archives of Suicide Research,ORG,"(721, 753)",1
+the Antitrust Division of the Department of Justice,ORG,"(1844, 1895)",1
+the American Psychology Association,ORG,"(502, 537)",1
+the American Dream,ORG,"(308, 326)",1
+the Allen Brain Institute,ORG,"(4206, 4231)",1
+"the 4,000 square foot",QUANTITY,"(13055, 13076)",1
+the Federal Trade Commission Act,ORG,"(1625, 1657)",1
+the 2020 Presidential Election,ORG,"(2869, 2899)",1
+the 19th of December 2020,DATE,"(210, 235)",1
+the 19th century’s,DATE,"(1173, 1191)",1
+the 19th century’s,DATE,"(1097, 1115)",1
+the 11th hour,TIME,"(2842, 2855)",1
+that day,DATE,"(1033, 1041)",1
+the Art of Being Unmistakable,ORG,"(2199, 2228)",1
+the Ava Robotics,LOC,"(12445, 12461)",1
+the BestSelf journal,ORG,"(10336, 10356)",1
+the Biodesign Center for Environmental Health Engineering,ORG,"(1979, 2036)",1
+the Center for Pediatric Integrative Medicine,ORG,"(7085, 7130)",1
+the Center for Statistics and Machine Learning,ORG,"(12012, 12058)",1
+the Clayton Act,LAW,"(1587, 1602)",1
+the Defense Department’s,ORG,"(2312, 2336)",1
+the Deloitte AI Institute,ORG,"(13244, 13269)",1
+the Department of Defense,ORG,"(668, 693)",1
+the Department of Defense,ORG,"(2205, 2230)",1
+the Department of Neurology,ORG,"(1392, 1419)",1
+the Department of Neurology,ORG,"(1926, 1953)",1
+the Department of Psychiatry and,ORG,"(1687, 1719)",1
+the Endowment Effect,ORG,"(2379, 2399)",1
+the Environmental Protection Agency,ORG,"(1696, 1731)",1
+the Federal Trade Commission,ORG,"(1805, 1833)",1
+one-month,DATE,"(1979, 1988)",1
+one-fifth,CARDINAL,"(327, 336)",1
+the Royal College of Surgeons,ORG,"(956, 985)",1
+one,CARDINAL,"(458, 461)",1
+one,CARDINAL,"(901, 904)",1
+one,CARDINAL,"(844, 847)",1
+one,CARDINAL,"(713, 716)",1
+one,CARDINAL,"(696, 699)",1
+one,CARDINAL,"(545, 548)",1
+one,CARDINAL,"(519, 522)",1
+one,CARDINAL,"(361, 364)",1
+one,CARDINAL,"(963, 966)",1
+one,CARDINAL,"(359, 362)",1
+one,CARDINAL,"(292, 295)",1
+one,CARDINAL,"(188, 191)",1
+one,CARDINAL,"(126, 129)",1
+one,CARDINAL,"(89, 92)",1
+one,CARDINAL,"(83, 86)",1
+one,CARDINAL,"(903, 906)",1
+one,CARDINAL,"(1033, 1036)",1
+normal hours,TIME,"(1579, 1591)",1
+one,CARDINAL,"(1849, 1852)",1
+one,CARDINAL,"(2215, 2218)",1
+one,CARDINAL,"(2209, 2212)",1
+one,CARDINAL,"(2094, 2097)",1
+one,CARDINAL,"(2000, 2003)",1
+one,CARDINAL,"(1950, 1953)",1
+one,CARDINAL,"(1909, 1912)",1
+one,CARDINAL,"(1621, 1624)",1
+one,CARDINAL,"(1183, 1186)",1
+one,CARDINAL,"(1599, 1602)",1
+one,CARDINAL,"(1538, 1541)",1
+one,CARDINAL,"(1383, 1386)",1
+one,CARDINAL,"(1273, 1276)",1
+one,CARDINAL,"(1210, 1213)",1
+one,CARDINAL,"(1209, 1212)",1
+npj Schizophrenia,ORG,"(205, 222)",1
+night,TIME,"(3777, 3782)",1
+one to 10,CARDINAL,"(2427, 2436)",1
+monotone,ORG,"(6402, 6410)",1
+more than 1.3 million,QUANTITY,"(263, 284)",1
+"more than 1,600",CARDINAL,"(3039, 3054)",1
+more per hour,TIME,"(2641, 2654)",1
+months on end,DATE,"(236, 249)",1
+months,DATE,"(681, 687)",1
+months,DATE,"(230, 236)",1
+minutes,TIME,"(2154, 2161)",1
+"more than 2,000",CARDINAL,"(2125, 2140)",1
+millions,CARDINAL,"(4268, 4276)",1
+millions,CARDINAL,"(2096, 2104)",1
+millions,CARDINAL,"(1658, 1666)",1
+mid-March,DATE,"(1012, 1021)",1
+mid-April,DATE,"(1025, 1034)",1
+melatonin,ORG,"(2792, 2801)",1
+more than 2 billion,MONEY,"(563, 582)",1
+more than 200,CARDINAL,"(3147, 3160)",1
+next year,DATE,"(7433, 7442)",1
+nearly 5 years,DATE,"(730, 744)",1
+next year,DATE,"(1863, 1872)",1
+next week,DATE,"(1837, 1846)",1
+next month,DATE,"(3152, 3162)",1
+next month,DATE,"(1848, 1858)",1
+neuralgia,GPE,"(6122, 6131)",1
+nearly 60 years ago,DATE,"(1853, 1872)",1
+multi-year,DATE,"(7769, 7779)",1
+more than 240,CARDINAL,"(321, 334)",1
+mornings,TIME,"(2177, 2185)",1
+morning,TIME,"(3667, 3674)",1
+more than thirty-five years,CARDINAL,"(1129, 1156)",1
+more than one,CARDINAL,"(5157, 5170)",1
+more than 30,CARDINAL,"(5664, 5676)",1
+more than 3.2 billion,MONEY,"(87, 108)",1
+one,CARDINAL,"(2274, 2277)",1
+one,CARDINAL,"(2284, 2287)",1
+one,CARDINAL,"(2357, 2360)",1
+one,CARDINAL,"(5289, 5292)",1
+one,CARDINAL,"(5949, 5952)",1
+one,CARDINAL,"(5873, 5876)",1
+one,CARDINAL,"(5704, 5707)",1
+one,CARDINAL,"(5632, 5635)",1
+one,CARDINAL,"(5492, 5495)",1
+one,CARDINAL,"(5301, 5304)",1
+one,CARDINAL,"(5268, 5271)",1
+one,CARDINAL,"(6557, 6560)",1
+one,CARDINAL,"(5241, 5244)",1
+one,CARDINAL,"(5237, 5240)",1
+one,CARDINAL,"(5173, 5176)",1
+one,CARDINAL,"(5126, 5129)",1
+one,CARDINAL,"(5100, 5103)",1
+one,CARDINAL,"(5064, 5067)",1
+one,CARDINAL,"(6442, 6445)",1
+one,CARDINAL,"(6742, 6745)",1
+one,CARDINAL,"(2368, 2371)",1
+one,CARDINAL,"(13839, 13842)",1
+one hour,TIME,"(963, 971)",1
+one foot,QUANTITY,"(6082, 6090)",1
+one foot,QUANTITY,"(6053, 6061)",1
+one day,DATE,"(11698, 11705)",1
+one day,DATE,"(4136, 4143)",1
+one day,DATE,"(2521, 2528)",1
+one,CARDINAL,"(13832, 13835)",1
+one,CARDINAL,"(6805, 6808)",1
+one,CARDINAL,"(7861, 7864)",1
+one,CARDINAL,"(7670, 7673)",1
+one,CARDINAL,"(7439, 7442)",1
+one,CARDINAL,"(7411, 7414)",1
+one,CARDINAL,"(7252, 7255)",1
+one,CARDINAL,"(6903, 6906)",1
+one,CARDINAL,"(5044, 5047)",1
+one,CARDINAL,"(4977, 4980)",1
+one,CARDINAL,"(4904, 4907)",1
+one,CARDINAL,"(2681, 2684)",1
+one,CARDINAL,"(3441, 3444)",1
+one,CARDINAL,"(3401, 3404)",1
+one,CARDINAL,"(3173, 3176)",1
+one,CARDINAL,"(2947, 2950)",1
+one,CARDINAL,"(2925, 2928)",1
+one,CARDINAL,"(2810, 2813)",1
+one,CARDINAL,"(2676, 2679)",1
+one,CARDINAL,"(4793, 4796)",1
+one,CARDINAL,"(2613, 2616)",1
+one,CARDINAL,"(2546, 2549)",1
+one,CARDINAL,"(2449, 2452)",1
+one,CARDINAL,"(2437, 2440)",1
+one,CARDINAL,"(2391, 2394)",1
+one,CARDINAL,"(2387, 2390)",1
+one,CARDINAL,"(3475, 3478)",1
+one,CARDINAL,"(3627, 3630)",1
+one,CARDINAL,"(3817, 3820)",1
+one,CARDINAL,"(3888, 3891)",1
+one,CARDINAL,"(3928, 3931)",1
+one,CARDINAL,"(3955, 3958)",1
+one,CARDINAL,"(3966, 3969)",1
+one,CARDINAL,"(4012, 4015)",1
+one,CARDINAL,"(4134, 4137)",1
+one,CARDINAL,"(4255, 4258)",1
+one,CARDINAL,"(4261, 4264)",1
+one,CARDINAL,"(4346, 4349)",1
+one,CARDINAL,"(4402, 4405)",1
+one,CARDINAL,"(4538, 4541)",1
+one,CARDINAL,"(4582, 4585)",1
+one,CARDINAL,"(4596, 4599)",1
+one,CARDINAL,"(4729, 4732)",1
+the Partnership Program,ORG,"(802, 825)",1
+the Society for Neuroscience conference’s,ORG,"(156, 197)",1
+max,PERSON,"(4469, 4472)",1
+two,CARDINAL,"(558, 561)",1
+two,CARDINAL,"(1315, 1318)",1
+two,CARDINAL,"(1067, 1070)",1
+two,CARDINAL,"(1035, 1038)",1
+two,CARDINAL,"(925, 928)",1
+two,CARDINAL,"(716, 719)",1
+two,CARDINAL,"(560, 563)",1
+two,CARDINAL,"(552, 555)",1
+two,CARDINAL,"(1387, 1390)",1
+two,CARDINAL,"(404, 407)",1
+twenty-five,CARDINAL,"(8880, 8891)",1
+twenty years,DATE,"(5047, 5059)",1
+twelve-hour,TIME,"(600, 611)",1
+triclosan,PERSON,"(9118, 9127)",1
+triclosan,PERSON,"(2255, 2264)",1
+two,CARDINAL,"(1338, 1341)",1
+two,CARDINAL,"(1789, 1792)",1
+triclosan,PERSON,"(1040, 1049)",1
+two,CARDINAL,"(3128, 3131)",1
+two,CARDINAL,"(5063, 5066)",1
+two,CARDINAL,"(4881, 4884)",1
+two,CARDINAL,"(4551, 4554)",1
+two,CARDINAL,"(4351, 4354)",1
+two,CARDINAL,"(4010, 4013)",1
+two,CARDINAL,"(3441, 3444)",1
+two,CARDINAL,"(2984, 2987)",1
+two,CARDINAL,"(1844, 1847)",1
+two,CARDINAL,"(2931, 2934)",1
+two,CARDINAL,"(2584, 2587)",1
+two,CARDINAL,"(2504, 2507)",1
+two,CARDINAL,"(2492, 2495)",1
+two,CARDINAL,"(2398, 2401)",1
+two,CARDINAL,"(1940, 1943)",1
+triclosan,PERSON,"(1550, 1559)",1
+triclosan,PERSON,"(587, 596)",1
+three months or nine months,DATE,"(2547, 2574)",1
+today,DATE,"(407, 412)",1
+today,DATE,"(1812, 1817)",1
+today,DATE,"(1783, 1788)",1
+today,DATE,"(941, 946)",1
+today,DATE,"(839, 844)",1
+today,DATE,"(786, 791)",1
+today,DATE,"(414, 419)",1
+today,DATE,"(224, 229)",1
+today,DATE,"(2343, 2348)",1
+today,DATE,"(145, 150)",1
+today,DATE,"(138, 143)",1
+today,DATE,"(105, 110)",1
+three years,DATE,"(6022, 6033)",1
+three years,DATE,"(5157, 5168)",1
+three weeks later,DATE,"(6211, 6228)",1
+today,DATE,"(2042, 2047)",1
+today,DATE,"(2415, 2420)",1
+transversus abominis,PERSON,"(7571, 7591)",1
+today,DATE,"(5626, 5631)",1
+transcription,CARDINAL,"(3886, 3899)",1
+tool³,ORG,"(3403, 3408)",1
+tomorrow,DATE,"(3033, 3041)",1
+tomorrow,DATE,"(2210, 2218)",1
+today,DATE,"(8487, 8492)",1
+today,DATE,"(5786, 5791)",1
+today,DATE,"(4624, 4629)",1
+today,DATE,"(2565, 2570)",1
+today,DATE,"(4139, 4144)",1
+today,DATE,"(4020, 4025)",1
+today,DATE,"(3777, 3782)",1
+today,DATE,"(3267, 3272)",1
+today,DATE,"(3061, 3066)",1
+today,DATE,"(2617, 2622)",1
+two,CARDINAL,"(5153, 5156)",1
+two,CARDINAL,"(6215, 6218)",1
+two,CARDINAL,"(6550, 6553)",1
+workday,DATE,"(2023, 2030)",1
+years,DATE,"(2099, 2104)",1
+years,DATE,"(318, 323)",1
+year-old,DATE,"(4020, 4028)",1
+"year, month,day",DATE,"(2509, 2524)",1
+"www.verywellmind.com/phineas-gage-2795244#targetText=The%20rod%20penetrated%20Gage's%20left,be%20seen%20by%20a%20doctor",ORG,"(2206, 2325)",1
+www.enigma.com,MISC,"(1095, 1109)",1
+winter,DATE,"(4644, 4650)",1
+years earlier,DATE,"(3004, 3017)",1
+winter,DATE,"(4447, 4453)",1
+winter,DATE,"(4335, 4341)",1
+winter,DATE,"(2003, 2009)",1
+winter,DATE,"(1270, 1276)",1
+winter,DATE,"(647, 653)",1
+width,GPE,"(4435, 4440)",1
+years,DATE,"(3280, 3285)",1
+yesterday,DATE,"(3395, 3404)",1
+two,CARDINAL,"(6637, 6640)",1
+zero,CARDINAL,"(8624, 8628)",1
+"’s Not Frightening Anymore
+
+Photo",WORK_OF_ART,"(4420, 4453)",1
+Émile Durkheim,PERSON,"(3446, 3460)",1
+Émile Durkheim,PER,"(3446, 3460)",1
+¹⁰Data Science Community,ORG,"(14327, 14351)",1
+²AI Governance,PERSON,"(14139, 14153)",1
+zero,CARDINAL,"(9211, 9215)",1
+zero,CARDINAL,"(8528, 8532)",1
+yesterday,DATE,"(10586, 10595)",1
+zero,CARDINAL,"(8269, 8273)",1
+zero,CARDINAL,"(2593, 2597)",1
+zero,CARDINAL,"(2554, 2558)",1
+zero,CARDINAL,"(2355, 2359)",1
+zero,CARDINAL,"(1368, 1372)",1
+zero,CARDINAL,"(598, 602)",1
+width,GPE,"(4151, 4156)",1
+weeks,DATE,"(2880, 2885)",1
+weeks,DATE,"(1808, 1813)",1
+two decades,DATE,"(2226, 2237)",1
+under 60,DATE,"(3977, 3985)",1
+two weeks per year,DATE,"(2217, 2235)",1
+two weeks,DATE,"(2326, 2335)",1
+two in the morning,TIME,"(3550, 3568)",1
+two hundred,CARDINAL,"(4232, 4243)",1
+two hours,TIME,"(2176, 2185)",1
+two days per week,DATE,"(2195, 2212)",1
+weeks,DATE,"(1639, 1644)",1
+two days earlier,DATE,"(6175, 6191)",1
+two days ago,DATE,"(173, 185)",1
+two days,DATE,"(1405, 1413)",1
+two,CARDINAL,"(11500, 11503)",1
+two,CARDINAL,"(10455, 10458)",1
+two,CARDINAL,"(9071, 9074)",1
+under 60,DATE,"(4261, 4269)",1
+under six months old,DATE,"(2752, 2772)",1
+under six months old,DATE,"(5294, 5314)",1
+under two years old,DATE,"(2492, 2511)",1
+up to $10K,MONEY,"(1052, 1062)",1
+up to 5000,CARDINAL,"(2774, 2784)",1
+up to two hours,TIME,"(1040, 1055)",1
+us,GPE,"(476, 478)",1
+use_threads,GPE,"(4092, 4103)",1
+vBloc,ORG,"(2523, 2528)",1
+vBloc,ORG,"(2950, 2955)",1
+webinar,ORG,"(2228, 2235)",1
+weekly,DATE,"(1104, 1110)",1
+weekly,DATE,"(1168, 1174)",1
+weekly,DATE,"(1274, 1280)",1
+weeks,DATE,"(672, 677)",1
+weeks,DATE,"(1526, 1531)",1
+three to four,CARDINAL,"(6772, 6785)",1
+three months ago,DATE,"(1608, 1624)",1
+the Spillbucket/Spillprefix,ORG,"(1570, 1597)",1
+the days,DATE,"(2658, 2666)",1
+the first two years,DATE,"(5115, 5134)",1
+the final seconds of,TIME,"(69, 89)",1
+the final seconds,TIME,"(1086, 1103)",1
+the end of the day,DATE,"(2598, 2616)",1
+the early 2000s,DATE,"(202, 217)",1
+the early 1980s,DATE,"(1797, 1812)",1
+the day-to-day,DATE,"(1537, 1551)",1
+the first year,DATE,"(1497, 1511)",1
+the day,DATE,"(11859, 11866)",1
+the day,DATE,"(10380, 10387)",1
+the day,DATE,"(9607, 9614)",1
+the day,DATE,"(4456, 4463)",1
+the day,DATE,"(4408, 4415)",1
+the day,DATE,"(1757, 1764)",1
+the first two years,DATE,"(5638, 5657)",1
+the first year,DATE,"(3596, 3610)",1
+the day,DATE,"(858, 865)",1
+the morning,TIME,"(3527, 3538)",1
+the night,TIME,"(3243, 3252)",1
+the next thirty years,DATE,"(703, 724)",1
+the next day,DATE,"(1473, 1485)",1
+the next 30–50 years,DATE,"(2399, 2419)",1
+the next 12 months,DATE,"(7419, 7437)",1
+the morning,TIME,"(5293, 5304)",1
+the morning,TIME,"(3083, 3094)",1
+the first year,DATE,"(4595, 4609)",1
+the morning,TIME,"(2255, 2266)",1
+the month,DATE,"(2084, 2093)",1
+the late 1700s,DATE,"(1350, 1364)",1
+the last two years,DATE,"(1442, 1460)",1
+the last decade,DATE,"(474, 489)",1
+the last 500 years,DATE,"(5654, 5672)",1
+the day,DATE,"(1646, 1653)",1
+the day,DATE,"(679, 686)",1
+three months,DATE,"(4487, 4499)",1
+the United States,GPE,"(3040, 3057)",1
+the University of Oregon,ORG,"(4963, 4987)",1
+the University of Massachusetts,ORG,"(6653, 6684)",1
+the University of Massachusetts,ORG,"(5780, 5811)",1
+the United States,GPE,"(8265, 8282)",1
+the United States,GPE,"(6466, 6483)",1
+the United States,GPE,"(3756, 3773)",1
+the United States,GPE,"(2903, 2920)",1
+the University of Toronto,ORG,"(4483, 4508)",1
+the United States,GPE,"(2243, 2260)",1
+the United States,GPE,"(2165, 2182)",1
+the United States,GPE,"(580, 597)",1
+the United States,GPE,"(480, 497)",1
+the United States,GPE,"(103, 120)",1
+the Theme of Your Story,FAC,"(4517, 4540)",1
+the University of Quebec,ORG,"(2363, 2387)",1
+the University of Warwick,ORG,"(9715, 9740)",1
+the day,DATE,"(520, 527)",1
+the World Health Organization,ORG,"(2553, 2582)",1
+the day,DATE,"(365, 372)",1
+the darkest days,DATE,"(1418, 1434)",1
+the beginning of autumn,DATE,"(20, 43)",1
+the beginning of 2019,DATE,"(1648, 1669)",1
+the bad days,DATE,"(3904, 3916)",1
+the afternoon,TIME,"(2112, 2125)",1
+the White House,ORG,"(3530, 3545)",1
+the Utah County Crisis Line,ORG,"(373, 400)",1
+the Werther Effect,ORG,"(1262, 1280)",1
+the Werther Effect,ORG,"(1014, 1032)",1
+"the Virus
+
+Photo",ORG,"(2397, 2413)",1
+the Utah Valley PostMormons,ORG,"(3022, 3049)",1
+the Utah Valley PostMormons,ORG,"(2680, 2707)",1
+the Utah County Crisis Line,ORG,"(2162, 2189)",1
+the night,TIME,"(5487, 5496)",1
+the night,TIME,"(5645, 5654)",1
+the past 6 months,DATE,"(1635, 1652)",1
+three,CARDINAL,"(910, 915)",1
+three,CARDINAL,"(3153, 3158)",1
+three,CARDINAL,"(2113, 2118)",1
+three,CARDINAL,"(1964, 1969)",1
+three,CARDINAL,"(1089, 1094)",1
+three,CARDINAL,"(1008, 1013)",1
+three,CARDINAL,"(954, 959)",1
+three,CARDINAL,"(640, 645)",1
+three,CARDINAL,"(3329, 3334)",1
+three,CARDINAL,"(506, 511)",1
+three,CARDINAL,"(340, 345)",1
+thousands of years ago,DATE,"(5210, 5232)",1
+thousands,CARDINAL,"(2832, 2841)",1
+thousands,CARDINAL,"(1841, 1850)",1
+thousand,CARDINAL,"(7905, 7913)",1
+three,CARDINAL,"(3185, 3190)",1
+three,CARDINAL,"(3391, 3396)",1
+the past four years,DATE,"(8218, 8237)",1
+three,CARDINAL,"(7691, 7696)",1
+three months,DATE,"(1686, 1698)",1
+three dozen,CARDINAL,"(346, 357)",1
+three days,DATE,"(372, 382)",1
+three and a half days,DATE,"(3887, 3908)",1
+three,CARDINAL,"(11430, 11435)",1
+three,CARDINAL,"(10466, 10471)",1
+three,CARDINAL,"(7236, 7241)",1
+three,CARDINAL,"(3396, 3401)",1
+three,CARDINAL,"(6943, 6948)",1
+three,CARDINAL,"(6604, 6609)",1
+three,CARDINAL,"(6515, 6520)",1
+three,CARDINAL,"(5226, 5231)",1
+three,CARDINAL,"(4571, 4576)",1
+three,CARDINAL,"(4294, 4299)",1
+thousand,CARDINAL,"(3695, 3703)",1
+thousand,CARDINAL,"(204, 212)",1
+this year,DATE,"(4374, 4383)",1
+the spring,DATE,"(5082, 5092)",1
+the winter seasons,DATE,"(4254, 4272)",1
+the whole week,DATE,"(1056, 1070)",1
+the weeks,DATE,"(454, 463)",1
+the very end of 2018,DATE,"(6053, 6073)",1
+the summer,DATE,"(6421, 6431)",1
+the summer,DATE,"(6280, 6290)",1
+the six weeks,DATE,"(3979, 3992)",1
+this year,DATE,"(4228, 4237)",1
+the senior year,DATE,"(2342, 2357)",1
+the same year,DATE,"(1689, 1702)",1
+the same night,TIME,"(1575, 1589)",1
+the same months the previous year,DATE,"(3327, 3360)",1
+the quanta of Christmas,DATE,"(393, 416)",1
+the past three months,DATE,"(1518, 1539)",1
+the year,DATE,"(2726, 2734)",1
+the year 2120,DATE,"(89, 102)",1
+these days,DATE,"(47, 57)",1
+third,ORDINAL,"(1188, 1193)",1
+third,ORDINAL,"(1194, 1199)",1
+thirteen,CARDINAL,"(1639, 1647)",1
+thirteen,CARDINAL,"(3097, 3105)",1
+this afternoon,TIME,"(644, 658)",1
+this day,DATE,"(3365, 3373)",1
+this day,DATE,"(6031, 6039)",1
+this day,DATE,"(6208, 6216)",1
+this minute,TIME,"(10393, 10404)",1
+this morning,TIME,"(2952, 2964)",1
+this past quarter,DATE,"(8749, 8766)",1
+this week,DATE,"(4187, 4196)",1
+this year,DATE,"(816, 825)",1
+this year,DATE,"(1744, 1753)",1
+medulla,PERSON,"(2136, 2143)",1
+max,PERSON,"(4185, 4188)",1
+USER_THREADS,GPE,"(3003, 3015)",1
+Yael,PERSON,"(316, 320)",1
+Yelp,MISC,"(473, 477)",1
+Yearly,DATE,"(989, 995)",1
+Yasin,PERSON,"(6054, 6059)",1
+Yasin,PER,"(6054, 6059)",1
+Yael Eisenstat,PERSON,"(26, 40)",1
+Yael Eisenstat,PER,"(26, 40)",1
+Yael,ORG,"(316, 320)",1
+Yesterday,DATE,"(1263, 1272)",1
+YUCK,ORG,"(1575, 1579)",1
+Wu,PERSON,"(2775, 2777)",1
+Wu,PER,"(2775, 2777)",1
+Writing Unique,ORG,"(5831, 5845)",1
+Writing Narrative Nonfiction,ORG,"(110, 138)",1
+Writing Effective Dialogue,ORG,"(827, 853)",1
+Yelp,ORG,"(473, 477)",1
+Yogendra Singh,PER,"(131, 145)",1
+Write Something People Will Actually Read  “Just write,MISC,"(7, 61)",1
+YouTube,MISC,"(5320, 5327)",1
+YouTube,ORG,"(6043, 6050)",1
+YouTube,ORG,"(5320, 5327)",1
+YouTube,ORG,"(5223, 5230)",1
+YouTube,ORG,"(2141, 2148)",1
+YouTube,ORG,"(1898, 1905)",1
+YouTube,ORG,"(1037, 1044)",1
+YouTube,MISC,"(5223, 5230)",1
+Yogendra Singh,PERSON,"(131, 145)",1
+YouTube,MISC,"(2141, 2148)",1
+YouTube,MISC,"(1898, 1905)",1
+YouTube,MISC,"(1037, 1044)",1
+You Need To Show Up Every Single Day,MISC,"(0, 36)",1
+Yole Développement,PERSON,"(5639, 5657)",1
+Yole Développement,ORG,"(5639, 5657)",1
+Writing Captivating Headlines,ORG,"(2041, 2070)",1
+Worldbuilding  I,ORG,"(2260, 2276)",1
+Werther,PERSON,"(1466, 1473)",1
+What a Museum Security Guard Taught Me About Art,WORK_OF_ART,"(2191, 2239)",1
+Why Reading Makes You a Better Writer,WORK_OF_ART,"(9646, 9683)",1
+Why Reading Makes You a Better Writer,WORK_OF_ART,"(9603, 9640)",1
+Whites,MISC,"(835, 841)",1
+White House,LOC,"(3534, 3545)",1
+White,MISC,"(621, 626)",1
+When Your Child Does Not Need Antibiotics,WORK_OF_ART,"(7601, 7642)",1
+What a Museum Security Guard Taught Me About Art,MISC,"(8125, 8173)",1
+Wikipedia,ORG,"(1231, 1240)",1
+What a Museum Security Guard Taught Me About Art,MISC,"(2191, 2239)",1
+What People Expect From You  Here,MISC,"(14, 47)",1
+What Crocodiles,MISC,"(8641, 8656)",1
+Western,NORP,"(6332, 6339)",1
+Western,MISC,"(6332, 6339)",1
+Werther Effect,MISC,"(1266, 1280)",1
+Wikipedia,MISC,"(1231, 1240)",1
+Wildbook,MISC,"(2419, 2427)",1
+World Health Organization,ORG,"(2557, 2582)",1
+Winners Take All: The Elite Charade of Changing the World,WORK_OF_ART,"(5396, 5453)",1
+Workgroup,ORG,"(2825, 2834)",1
+Workgroup,ORG,"(2767, 2776)",1
+Workgroup,MISC,"(2767, 2776)",1
+Word2Vec,MISC,"(2311, 2319)",1
+Wisconsin,LOC,"(4101, 4110)",1
+Wisconsin,GPE,"(4101, 4110)",1
+Winners Take All: The Elite Charade of Changing the World,MISC,"(5396, 5453)",1
+Wildbook,ORG,"(2419, 2427)",1
+Williams,PERSON,"(994, 1002)",1
+Williams,PER,"(994, 1002)",1
+William Zinsser,PERSON,"(4681, 4696)",1
+William Zinsser,PER,"(4681, 4696)",1
+William Dodson,PERSON,"(1448, 1462)",1
+William Dodson,PER,"(1448, 1462)",1
+Your Introduction  Hart,MISC,"(1107, 1130)",1
+Your Work,PERSON,"(6620, 6629)",1
+Yup,MISC,"(1303, 1306)",1
+a dozen,CARDINAL,"(4937, 4944)",1
+a few weeks ago,DATE,"(10037, 10052)",1
+a few months,DATE,"(1944, 1956)",1
+a few months,DATE,"(1583, 1595)",1
+a few months,DATE,"(653, 665)",1
+a few moments,TIME,"(1203, 1216)",1
+a few days,DATE,"(2002, 2012)",1
+a decade ago,DATE,"(1483, 1495)",1
+a half dozen,CARDINAL,"(1476, 1488)",1
+a decade,DATE,"(2774, 2782)",1
+a day,DATE,"(2763, 2768)",1
+a Savvy Dealmaking,PERSON,"(1863, 1881)",1
+a Rental Analysis Dashboard,ORG,"(744, 771)",1
+a Low Carb Diet,ORG,"(5117, 5132)",1
+a Business Transformation,ORG,"(2316, 2341)",1
+a few years,DATE,"(669, 680)",1
+a minute,TIME,"(3119, 3127)",1
+Zach Schonfeld,PER,"(2168, 2182)",1
+a week,DATE,"(2365, 2371)",1
+a year from now,DATE,"(1715, 1730)",1
+a year ago,DATE,"(1626, 1636)",1
+a year,DATE,"(6454, 6460)",1
+a year,DATE,"(4811, 4817)",1
+a year,DATE,"(4078, 4084)",1
+a year,DATE,"(2299, 2305)",1
+a week,DATE,"(2347, 2353)",1
+a minute,TIME,"(3868, 3876)",1
+a week,DATE,"(1609, 1615)",1
+a week,DATE,"(1123, 1129)",1
+a spring,DATE,"(5014, 5022)",1
+a quarter,CARDINAL,"(946, 955)",1
+a night,TIME,"(3286, 3293)",1
+a month ago,DATE,"(1595, 1606)",1
+Zuckerberg,PERSON,"(4811, 4821)",1
+Zuckerberg,PERSON,"(4239, 4249)",1
+Zuckerberg,PERSON,"(4129, 4139)",1
+Zoom,WORK_OF_ART,"(416, 420)",1
+Zuckerberg,ORG,"(4341, 4351)",1
+Zuckerberg,ORG,"(3290, 3300)",1
+Zuckerberg,ORG,"(2756, 2766)",1
+Zuckerberg,ORG,"(2204, 2214)",1
+Zuckerberg,ORG,"(1077, 1087)",1
+Zoom,WORK_OF_ART,"(4611, 4615)",1
+Zoom,MISC,"(4611, 4615)",1
+Zuckerberg,PERSON,"(3767, 3777)",1
+Zoom,MISC,"(416, 420)",1
+Zhu,PER,"(1737, 1740)",1
+Zephyrnet  The State of AI Ethics,MISC,"(8777, 8810)",1
+Zenventory,WORK_OF_ART,"(4612, 4622)",1
+Zen,PER,"(93, 96)",1
+Zach Schonfeld,PERSON,"(2168, 2182)",1
+Zuckerberg,ORG,"(4736, 4746)",1
+Zuckerberg,PER,"(1077, 1087)",1
+Zuckerberg,PER,"(1357, 1367)",1
+Zuckerberg,PER,"(1994, 2004)",1
+Zuckerberg,PER,"(2204, 2214)",1
+Zuckerberg,PER,"(2352, 2362)",1
+Zuckerberg,PER,"(2756, 2766)",1
+Zuckerberg,PER,"(3290, 3300)",1
+Zuckerberg,PER,"(3767, 3777)",1
+Zuckerberg,PER,"(4129, 4139)",1
+Zuckerberg,PER,"(4239, 4249)",1
+Zuckerberg,PER,"(4341, 4351)",1
+Zuckerberg,PER,"(4736, 4746)",1
+Zuckerberg,PER,"(4811, 4821)",1
+Zuckerberg,PERSON,"(1357, 1367)",1
+Zuckerberg,PERSON,"(1994, 2004)",1
+Zuckerberg,PERSON,"(2352, 2362)",1
+Werther Effect,MISC,"(1018, 1032)",1
+Werther,PERSON,"(1286, 1293)",1
+about 10 millions,CARDINAL,"(5794, 5811)",1
+Upscribe,MISC,"(3682, 3690)",1
+Upscribe,ORG,"(3042, 3050)",1
+Upscribe,ORG,"(2964, 2972)",1
+Upscribe,ORG,"(2604, 2612)",1
+Upscribe,ORG,"(536, 544)",1
+Upscribe,ORG,"(491, 499)",1
+Upscribe,MISC,"(4215, 4223)",1
+Upscribe,MISC,"(3522, 3530)",1
+Upscribe,ORG,"(3682, 3690)",1
+Upscribe,MISC,"(3042, 3050)",1
+Upscribe,MISC,"(2604, 2612)",1
+Upscribe,MISC,"(491, 499)",1
+Macjournal,PERSON,"(5216, 5226)",1
+Unsplash  Merry Christmas,MISC,"(24, 49)",1
+Unsplash  Land degradation,MISC,"(29, 55)",1
+Upscribe,ORG,"(3522, 3530)",1
+Upscribe,ORG,"(3874, 3882)",1
+Unsplash  Do you,MISC,"(92, 108)",1
+Utah,LOC,"(1866, 1870)",1
+Utah Valley PostMormons,ORG,"(3026, 3049)",1
+Utah Valley PostMormons,ORG,"(2684, 2707)",1
+Utah County Crisis Line,ORG,"(2383, 2406)",1
+Utah County Crisis Line,ORG,"(2166, 2189)",1
+Utah County Crisis Line,LOC,"(377, 400)",1
+Utah County,GPE,"(418, 429)",1
+Utah,LOC,"(773, 777)",1
+Upscribe,ORG,"(4215, 4223)",1
+Utah,LOC,"(572, 576)",1
+Utah,LOC,"(296, 300)",1
+Utah,GPE,"(1866, 1870)",1
+Utah,GPE,"(773, 777)",1
+Utah,GPE,"(572, 576)",1
+Utah,GPE,"(296, 300)",1
+Unsplash  J.K,PER,"(123, 136)",1
+"Unsplash
+
+Yoga",ORG,"(149, 163)",1
+Werther,PER,"(1466, 1473)",1
+Understanding The Mind of The Worm,WORK_OF_ART,"(3922, 3956)",1
+United States,LOC,"(2169, 2182)",1
+United States,LOC,"(584, 597)",1
+United States,LOC,"(484, 497)",1
+United States,LOC,"(107, 120)",1
+Unicef,ORG,"(5117, 5123)",1
+Unexpected,ORG,"(1074, 1084)",1
+Understanding The Mind of The Worm,MISC,"(3922, 3956)",1
+United States,LOC,"(3044, 3057)",1
+Uber,ORG,"(4919, 4923)",1
+Uber,LOC,"(4919, 4923)",1
+UVPM,ORG,"(3160, 3164)",1
+UVPM,ORG,"(2818, 2822)",1
+UVPM,MISC,"(3160, 3164)",1
+UVPM,MISC,"(2818, 2822)",1
+United States,LOC,"(2907, 2920)",1
+United States,LOC,"(3760, 3773)",1
+"Unsplash
+
+Selective Attention
+
+Attention",ORG,"(1786, 1826)",1
+University of Oregon,ORG,"(4967, 4987)",1
+"Unsplash
+
+J.K. Rowling",ORG,"(123, 145)",1
+"Unsplash
+
+First",ORG,"(2781, 2796)",1
+Unmistakable: Why Only is Better Than Best,MISC,"(3921, 3963)",1
+University of Warwick,ORG,"(9719, 9740)",1
+University of Toronto,ORG,"(4487, 4508)",1
+University of Quebec,ORG,"(2367, 2387)",1
+University of Massachusetts,ORG,"(6657, 6684)",1
+United States,LOC,"(6470, 6483)",1
+University of Massachusetts,ORG,"(5784, 5811)",1
+University,ORG,"(11595, 11605)",1
+United Way of Utah County,LOC,"(404, 429)",1
+United Way,ORG,"(404, 414)",1
+United States’,ORG,"(2247, 2261)",1
+United States,LOC,"(8269, 8282)",1
+V1,PRODUCT,"(9535, 9537)",1
+VA,GPE,"(3956, 3958)",1
+VA,GPE,"(4193, 4195)",1
+Vivien Ngo,PER,"(1010, 1020)",1
+WHO,MISC,"(6787, 6790)",1
+Voila,PERSON,"(4003, 4008)",1
+Voila,MISC,"(4003, 4008)",1
+Vivien Ngo  Enigma,PER,"(21, 39)",1
+"Vivien Ngo
+
+Enigma",PERSON,"(21, 39)",1
+Vivien Ngo,PERSON,"(1010, 1020)",1
+Vivid,PRODUCT,"(6140, 6145)",1
+WHO,ORG,"(6650, 6653)",1
+"Vitamin D
+
+Apart",PERSON,"(4830, 4846)",1
+Visual Studio Code,ORG,"(245, 263)",1
+Virus,ORG,"(1155, 1160)",1
+Virus,MISC,"(1155, 1160)",1
+Virginia,LOC,"(4463, 4471)",1
+Virginia,GPE,"(4463, 4471)",1
+WHO,ORG,"(1960, 1963)",1
+Waitzkin,PER,"(2309, 2317)",1
+VA,ORG,"(3956, 3958)",1
+"Ways to Make Money Fast
+
+Learn",ORG,"(827, 857)",1
+Werther,MISC,"(1286, 1293)",1
+Weiner,PER,"(1106, 1112)",1
+Weekly AI Update,ORG,"(1328, 1344)",1
+Weekly,DATE,"(969, 975)",1
+Wednesday,DATE,"(240, 249)",1
+WebMD,MISC,"(1030, 1035)",1
+Ways To Guarantee,ORG,"(2771, 2788)",1
+Waitzkin,PER,"(2524, 2532)",1
+Washington,LOC,"(3322, 3332)",1
+Washington,GPE,"(3322, 3332)",1
+Wallis,PERSON,"(1996, 2002)",1
+Wallis,PER,"(1996, 2002)",1
+Waitzkin’s,ORG,"(2524, 2534)",1
+Waitzkin,PERSON,"(2309, 2317)",1
+Vincent Van Gogh,PERSON,"(1614, 1630)",1
+Vincent Van Gogh,PER,"(1614, 1630)",1
+Views,ORG,"(1007, 1012)",1
+VPC,ORG,"(5735, 5738)",1
+Val Demings,PERSON,"(2107, 2118)",1
+Val Demings,PERSON,"(893, 904)",1
+Val Demings,PER,"(2107, 2118)",1
+Val Demings,ORG,"(893, 904)",1
+VT,LOC,"(9688, 9690)",1
+VT,GPE,"(9688, 9690)",1
+VMWare,ORG,"(5358, 5364)",1
+Videofruit,ORG,"(5762, 5772)",1
+VMWare,ORG,"(943, 949)",1
+VMWare,MISC,"(5358, 5364)",1
+VMWare,MISC,"(943, 949)",1
+VC,ORG,"(2303, 2305)",1
+VBA,ORG,"(3768, 3771)",1
+VA,ORG,"(4193, 4195)",1
+Velostrata,GPE,"(5252, 5262)",1
+Velostrata,ORG,"(5252, 5262)",1
+Velostrata,ORG,"(5282, 5292)",1
+Verlyn Klinkenborg,PER,"(758, 776)",1
+Verlyn Klinkenborg,PERSON,"(758, 776)",1
+Vermont,GPE,"(638, 645)",1
+Vermont,LOC,"(638, 645)",1
+Verywell Mind,PER,"(2178, 2191)",1
+Verywell Mind,PERSON,"(2178, 2191)",1
+Veterans,NORP,"(1181, 1189)",1
+Veterans,NORP,"(3438, 3446)",1
+Veterans,NORP,"(3978, 3986)",1
+Veterans,ORG,"(3438, 3446)",1
+Veterans,ORG,"(3978, 3986)",1
+Victor A. Schwab,PER,"(10621, 10637)",1
+Victor A. Schwab,PERSON,"(10621, 10637)",1
+Videofruit,MISC,"(5762, 5772)",1
+"about $2,400",MONEY,"(3493, 3505)",1
+about 10000 square miles,QUANTITY,"(4046, 4070)",1
+max,PERSON,"(2164, 2167)",1
+first,ORDINAL,"(5401, 5406)",1
+first,ORDINAL,"(6189, 6194)",1
+first,ORDINAL,"(6071, 6076)",1
+first,ORDINAL,"(5940, 5945)",1
+first,ORDINAL,"(5868, 5873)",1
+first,ORDINAL,"(5472, 5477)",1
+first,ORDINAL,"(5432, 5437)",1
+first,ORDINAL,"(5315, 5320)",1
+first,ORDINAL,"(6423, 6428)",1
+first,ORDINAL,"(5195, 5200)",1
+first,ORDINAL,"(5168, 5173)",1
+first,ORDINAL,"(5147, 5152)",1
+first,ORDINAL,"(5136, 5141)",1
+first,ORDINAL,"(5113, 5118)",1
+first,ORDINAL,"(5057, 5062)",1
+first,ORDINAL,"(6210, 6215)",1
+first,ORDINAL,"(6578, 6583)",1
+first,ORDINAL,"(4898, 4903)",1
+five,CARDINAL,"(973, 977)",1
+five,CARDINAL,"(7811, 7815)",1
+five,CARDINAL,"(3909, 3913)",1
+five,CARDINAL,"(2400, 2404)",1
+five,CARDINAL,"(1891, 1895)",1
+five,CARDINAL,"(1811, 1815)",1
+five,CARDINAL,"(1763, 1767)",1
+five,CARDINAL,"(98, 102)",1
+first,ORDINAL,"(6872, 6877)",1
+first,ORDINAL,"(12969, 12974)",1
+first,ORDINAL,"(12048, 12053)",1
+first,ORDINAL,"(11431, 11436)",1
+first,ORDINAL,"(8811, 8816)",1
+first,ORDINAL,"(8678, 8683)",1
+first,ORDINAL,"(8282, 8287)",1
+first,ORDINAL,"(4927, 4932)",1
+first,ORDINAL,"(4595, 4600)",1
+first,ORDINAL,"(1141, 1146)",1
+first,ORDINAL,"(1992, 1997)",1
+first,ORDINAL,"(2897, 2902)",1
+first,ORDINAL,"(2838, 2843)",1
+first,ORDINAL,"(2529, 2534)",1
+first,ORDINAL,"(2176, 2181)",1
+first,ORDINAL,"(2145, 2150)",1
+first,ORDINAL,"(2052, 2057)",1
+first,ORDINAL,"(1921, 1926)",1
+first,ORDINAL,"(3068, 3073)",1
+first,ORDINAL,"(1751, 1756)",1
+first,ORDINAL,"(1509, 1514)",1
+first,ORDINAL,"(1470, 1475)",1
+first,ORDINAL,"(1391, 1396)",1
+first,ORDINAL,"(1345, 1350)",1
+first,ORDINAL,"(1338, 1343)",1
+first,ORDINAL,"(3058, 3063)",1
+first,ORDINAL,"(3085, 3090)",1
+first,ORDINAL,"(4579, 4584)",1
+first,ORDINAL,"(3910, 3915)",1
+first,ORDINAL,"(4385, 4390)",1
+first,ORDINAL,"(4364, 4369)",1
+first,ORDINAL,"(4363, 4368)",1
+first,ORDINAL,"(4176, 4181)",1
+first,ORDINAL,"(3914, 3919)",1
+first,ORDINAL,"(3913, 3918)",1
+first,ORDINAL,"(3886, 3891)",1
+first,ORDINAL,"(3113, 3118)",1
+first,ORDINAL,"(3651, 3656)",1
+first,ORDINAL,"(3562, 3567)",1
+first,ORDINAL,"(3374, 3379)",1
+first,ORDINAL,"(3243, 3248)",1
+first,ORDINAL,"(3198, 3203)",1
+first,ORDINAL,"(3129, 3134)",1
+five,CARDINAL,"(11060, 11064)",1
+five days,DATE,"(2164, 2173)",1
+five hundred,CARDINAL,"(2531, 2543)",1
+keyword,PERSON,"(8388, 8395)",1
+last week,DATE,"(431, 440)",1
+last night,TIME,"(539, 549)",1
+last minute,TIME,"(1949, 1960)",1
+last mile,QUANTITY,"(5246, 5255)",1
+last a century,DATE,"(4437, 4451)",1
+keyword,PERSON,"(8714, 8721)",1
+keyword,PERSON,"(7626, 7633)",1
+last year,DATE,"(2085, 2094)",1
+just 1 hour,TIME,"(474, 485)",1
+its first week,DATE,"(4158, 4172)",1
+interactions⁴,ORG,"(4556, 4569)",1
+hundreds or thousands,CARDINAL,"(7559, 7580)",1
+hundreds,CARDINAL,"(11605, 11613)",1
+hundreds,CARDINAL,"(4608, 4616)",1
+last week,DATE,"(1100, 1109)",1
+last year,DATE,"(5010, 5019)",1
+five-fold,CARDINAL,"(3631, 3640)",1
+many decades,DATE,"(147, 159)",1
+many years,DATE,"(1463, 1473)",1
+many years,DATE,"(6, 16)",1
+many nights,TIME,"(1713, 1724)",1
+many months later,DATE,"(6106, 6123)",1
+many months,DATE,"(1304, 1315)",1
+many decades ago,DATE,"(1494, 1510)",1
+linear,ORG,"(4566, 4572)",1
+last-mile,QUANTITY,"(6934, 6943)",1
+linear,ORG,"(2787, 2793)",1
+lifetime,DATE,"(2407, 2415)",1
+less than 5000,CARDINAL,"(10077, 10091)",1
+later ages,DATE,"(5487, 5497)",1
+late at night,TIME,"(4236, 4249)",1
+late at night,TIME,"(3125, 3138)",1
+hundreds,CARDINAL,"(2801, 2809)",1
+hundreds,CARDINAL,"(1205, 1213)",1
+hundreds,CARDINAL,"(988, 996)",1
+four,CARDINAL,"(3205, 3209)",1
+four minute,TIME,"(991, 1002)",1
+four,CARDINAL,"(8037, 8041)",1
+four,CARDINAL,"(7231, 7235)",1
+four,CARDINAL,"(5823, 5827)",1
+four,CARDINAL,"(5011, 5015)",1
+four,CARDINAL,"(4501, 4505)",1
+four,CARDINAL,"(1472, 1476)",1
+hundreds,CARDINAL,"(625, 633)",1
+four,CARDINAL,"(1195, 1199)",1
+four,CARDINAL,"(1180, 1184)",1
+four,CARDINAL,"(856, 860)",1
+four,CARDINAL,"(501, 505)",1
+four,CARDINAL,"(409, 413)",1
+four,CARDINAL,"(357, 361)",1
+four months later,DATE,"(3623, 3640)",1
+four years later,DATE,"(240, 256)",1
+four-hour,TIME,"(1682, 1691)",1
+four-minute,TIME,"(1042, 1053)",1
+fourth,ORDINAL,"(593, 599)",1
+ghrelin,GPE,"(4058, 4065)",1
+globus,ORG,"(777, 783)",1
+half,CARDINAL,"(1030, 1034)",1
+half an hour,TIME,"(13150, 13162)",1
+his years,DATE,"(367, 376)",1
+history nerd,PERSON,"(413, 425)",1
+hour,TIME,"(5281, 5285)",1
+hours,TIME,"(13, 18)",1
+hours,TIME,"(665, 670)",1
+hours,TIME,"(770, 775)",1
+hours,TIME,"(1238, 1243)",1
+hours,TIME,"(1744, 1749)",1
+first,ORDINAL,"(1210, 1215)",1
+first,ORDINAL,"(1127, 1132)",1
+about 17 billion,MONEY,"(5849, 5865)",1
+at least one,CARDINAL,"(7016, 7028)",1
+"billions of Dollars, Pounds",MONEY,"(10667, 10694)",1
+billions,CARDINAL,"(6690, 6698)",1
+between the ages of 18–44,DATE,"(2223, 2248)",1
+between 7–9 hours,TIME,"(2487, 2504)",1
+at least ten,CARDINAL,"(1371, 1383)",1
+at least one,CARDINAL,"(8816, 8828)",1
+at least one,CARDINAL,"(695, 707)",1
+calorie,PERSON,"(303, 310)",1
+at least five percent,PERCENT,"(3645, 3666)",1
+at least five,CARDINAL,"(3299, 3312)",1
+at least a thousand,CARDINAL,"(8, 27)",1
+at least 4 to,CARDINAL,"(427, 440)",1
+as much as 85 percent,PERCENT,"(5588, 5609)",1
+as many hours,TIME,"(1921, 1934)",1
+breezy bloggy,PERSON,"(350, 363)",1
+cfg,GPE,"(2999, 3002)",1
+around one-third,CARDINAL,"(7479, 7495)",1
+daily,DATE,"(2513, 2518)",1
+day,DATE,"(2361, 2364)",1
+day,DATE,"(1596, 1599)",1
+daily,DATE,"(7986, 7991)",1
+daily,DATE,"(7944, 7949)",1
+daily,DATE,"(6260, 6265)",1
+daily,DATE,"(4347, 4352)",1
+daily,DATE,"(1375, 1380)",1
+coronaviruses¹¹,ORG,"(13115, 13130)",1
+daily,DATE,"(1301, 1306)",1
+daily,DATE,"(804, 809)",1
+daily,DATE,"(644, 649)",1
+daily,DATE,"(581, 586)",1
+daily,DATE,"(287, 292)",1
+cv2.imread('sample1.jpg',ORG,"(1672, 1696)",1
+as little as six weeks,DATE,"(3073, 3095)",1
+around one-third,CARDINAL,"(7187, 7203)",1
+first,ORDINAL,"(1026, 1031)",1
+about three weeks later,DATE,"(2302, 2325)",1
+all day,DATE,"(872, 879)",1
+al.,GPE,"(2062, 2065)",1
+afternoon,TIME,"(250, 259)",1
+acoustic,NORP,"(43, 51)",1
+achieve deliverables,PERSON,"(6151, 6171)",1
+about two percent,PERCENT,"(4332, 4349)",1
+about 90%,PERCENT,"(4324, 4333)",1
+all day,DATE,"(2222, 2229)",1
+about 90%,PERCENT,"(4040, 4049)",1
+about 90 million years ago,DATE,"(5376, 5402)",1
+about 50,CARDINAL,"(4063, 4071)",1
+about 3,CARDINAL,"(657, 664)",1
+about 29%,PERCENT,"(576, 585)",1
+about 24,CARDINAL,"(8186, 8194)",1
+all day,DATE,"(1720, 1727)",1
+"almost 11,500,000",CARDINAL,"(7747, 7764)",1
+"approximately 1,000",CARDINAL,"(2685, 2704)",1
+an hour and a half,TIME,"(1672, 1690)",1
+anti-Asian,NORP,"(2132, 2142)",1
+anti-Asian,MISC,"(2132, 2142)",1
+anorexia nervosa,PERSON,"(2196, 2212)",1
+anorexia,PERSON,"(267, 275)",1
+anorexia,PERSON,"(93, 101)",1
+annual,DATE,"(2887, 2893)",1
+an hour,TIME,"(2149, 2156)",1
+almost 170,CARDINAL,"(3390, 3400)",1
+an hour,TIME,"(1615, 1622)",1
+an hour,TIME,"(451, 458)",1
+an extra hour,TIME,"(3533, 3546)",1
+"an estimated 23,000",CARDINAL,"(4836, 4855)",1
+amygdala hijack,PERSON,"(8832, 8847)",1
+almost two years ago,DATE,"(1269, 1289)",1
+day,DATE,"(2890, 2893)",1
+day,DATE,"(5153, 5156)",1
+day,DATE,"(5287, 5290)",1
+ex-VMWare,ORG,"(7093, 7102)",1
+first,ORDINAL,"(37, 42)",1
+first,ORDINAL,"(15, 20)",1
+fewer hours,TIME,"(2694, 2705)",1
+fewer hours,TIME,"(2487, 2498)",1
+fed,ORG,"(2931, 2934)",1
+fed,ORG,"(876, 879)",1
+ex-Mormon,MISC,"(2901, 2910)",1
+first,ORDINAL,"(127, 132)",1
+ex-Mormon,MISC,"(2559, 2568)",1
+every year,DATE,"(3711, 3721)",1
+every three to four weeks,DATE,"(1029, 1054)",1
+every single day,DATE,"(371, 387)",1
+every night,TIME,"(1860, 1871)",1
+every morning,TIME,"(2182, 2195)",1
+first,ORDINAL,"(43, 48)",1
+first,ORDINAL,"(161, 166)",1
+day,DATE,"(5474, 5477)",1
+first,ORDINAL,"(690, 695)",1
+first,ORDINAL,"(943, 948)",1
+first,ORDINAL,"(936, 941)",1
+first,ORDINAL,"(870, 875)",1
+first,ORDINAL,"(858, 863)",1
+first,ORDINAL,"(749, 754)",1
+first,ORDINAL,"(737, 742)",1
+first,ORDINAL,"(546, 551)",1
+first,ORDINAL,"(192, 197)",1
+first,ORDINAL,"(455, 460)",1
+first,ORDINAL,"(386, 391)",1
+first,ORDINAL,"(341, 346)",1
+first,ORDINAL,"(310, 315)",1
+first,ORDINAL,"(249, 254)",1
+first,ORDINAL,"(205, 210)",1
+every few years,DATE,"(1763, 1778)",1
+every day,DATE,"(10414, 10423)",1
+every day,DATE,"(7427, 7436)",1
+dozenth,ORDINAL,"(6419, 6426)",1
+each year,DATE,"(965, 974)",1
+each week,DATE,"(3184, 3193)",1
+each week,DATE,"(2842, 2851)",1
+each week,DATE,"(2340, 2349)",1
+each day,DATE,"(3948, 3956)",1
+each day,DATE,"(355, 363)",1
+dozens,CARDINAL,"(4552, 4558)",1
+every day,DATE,"(7402, 7411)",1
+dozens,CARDINAL,"(440, 446)",1
+doc,ORG,"(2106, 2109)",1
+decades,DATE,"(4166, 4173)",1
+decades,DATE,"(350, 357)",1
+days,DATE,"(3241, 3245)",1
+day one,DATE,"(5687, 5694)",1
+each year,DATE,"(4902, 4911)",1
+earlier this century,DATE,"(740, 760)",1
+early 1990’s,DATE,"(2574, 2586)",1
+early every day,DATE,"(1141, 1156)",1
+early in the morning,TIME,"(4201, 4221)",1
+egalitarian,NORP,"(7204, 7215)",1
+eight,CARDINAL,"(3215, 3220)",1
+eight hours,TIME,"(2099, 2110)",1
+eleven,CARDINAL,"(3281, 3287)",1
+ethics¹²,CARDINAL,"(13589, 13597)",1
+every day,DATE,"(128, 137)",1
+every day,DATE,"(346, 355)",1
+every day,DATE,"(574, 583)",1
+every day,DATE,"(1094, 1103)",1
+every day,DATE,"(1402, 1411)",1
+every day,DATE,"(2408, 2417)",1
+every day,DATE,"(6708, 6717)",1
+Mad Mockingbird,PER,"(7757, 7772)",1
+LDS,MISC,"(1533, 1536)",1
+Macjournal,MISC,"(5216, 5226)",1
+Americans,NORP,"(2937, 2946)",1
+Amy Shamblen,PERSON,"(76, 88)",1
+Amy Shamblen,PER,"(76, 88)",1
+Amherst,ORG,"(6688, 6695)",1
+Amherst,FAC,"(6688, 6695)",1
+Americans,NORP,"(7980, 7989)",1
+Americans,NORP,"(4856, 4865)",1
+Americans,NORP,"(309, 318)",1
+Machine Learning Transforming Veterans Benefits,WORK_OF_ART,"(3228, 3275)",1
+Americans,MISC,"(7980, 7989)",1
+Americans,MISC,"(4856, 4865)",1
+Americans,MISC,"(2937, 2946)",1
+Americans,MISC,"(309, 318)",1
+American Psychology Association,ORG,"(506, 537)",1
+American Dream,MISC,"(312, 326)",1
+Anand Giridharadas,PERSON,"(5371, 5389)",1
+Anand Giridharadas’,PER,"(5371, 5390)",1
+Andrew Radford,PER,"(7718, 7732)",1
+Andrew Radford,PERSON,"(7718, 7732)",1
+Andrew Yang,PER,"(3546, 3557)",1
+Andrew Yang’s,PERSON,"(3546, 3559)",1
+Android,GPE,"(2222, 2229)",1
+Android,MISC,"(2222, 2229)",1
+Andy,PER,"(2370, 2374)",1
+Andy,PERSON,"(2370, 2374)",1
+Ann Arbor,GPE,"(7010, 7019)",1
+Ann Arbor,GPE,"(7091, 7100)",1
+Ann Arbor,LOC,"(7010, 7019)",1
+Ann Arbor,LOC,"(7091, 7100)",1
+Ann-Sophie Barwich,ORG,"(96, 114)",1
+Anne Frank,PER,"(2066, 2076)",1
+Anne Frank,PERSON,"(2066, 2076)",1
+American,NORP,"(9679, 9687)",1
+American,NORP,"(6232, 6240)",1
+American,NORP,"(5090, 5098)",1
+America,LOC,"(3126, 3133)",1
+Amazon,ORG,"(4330, 4336)",1
+Amazon,ORG,"(5415, 5421)",1
+"Amazon Athena
+
+",ORG,"(31, 46)",1
+Amazon DynamoDB,MISC,"(984, 999)",1
+Amazon DynamoDB,MISC,"(2024, 2039)",1
+AmazonAthenaPreviewFunctionality,MISC,"(2638, 2670)",1
+America,GPE,"(892, 899)",1
+America,GPE,"(1028, 1035)",1
+America,GPE,"(3126, 3133)",1
+America,GPE,"(3724, 3731)",1
+America,GPE,"(4257, 4264)",1
+America,GPE,"(9363, 9370)",1
+America,LOC,"(892, 899)",1
+America,LOC,"(1028, 1035)",1
+America,LOC,"(3724, 3731)",1
+American,NORP,"(4083, 4091)",1
+America,LOC,"(4257, 4264)",1
+America,LOC,"(9363, 9370)",1
+American,MISC,"(614, 622)",1
+American,MISC,"(649, 657)",1
+American,MISC,"(742, 750)",1
+American,MISC,"(2855, 2863)",1
+American,MISC,"(4083, 4091)",1
+American,MISC,"(5090, 5098)",1
+American,MISC,"(6232, 6240)",1
+American,MISC,"(9679, 9687)",1
+American,NORP,"(614, 622)",1
+American,NORP,"(649, 657)",1
+American,NORP,"(742, 750)",1
+American,NORP,"(2855, 2863)",1
+Anne Lammot,PER,"(6088, 6099)",1
+Anne Lammot,PERSON,"(6088, 6099)",1
+Anne Schuchat,PER,"(2784, 2797)",1
+Athena,GPE,"(3197, 3203)",1
+Article “Perfect,LAW,"(2994, 3010)",1
+Artificial Intelligence Laboratory,ORG,"(12340, 12374)",1
+Asian,MISC,"(1894, 1899)",1
+Asian,MISC,"(7242, 7247)",1
+Asian,NORP,"(1894, 1899)",1
+Asian,NORP,"(2054, 2059)",1
+Asian,NORP,"(2077, 2082)",1
+Asian,NORP,"(7242, 7247)",1
+Asian-American,MISC,"(2077, 2091)",1
+Asian-Americans,MISC,"(2054, 2069)",1
+Atari,MISC,"(6987, 6992)",1
+Atari,PRODUCT,"(6987, 6992)",1
+Athena,GPE,"(2982, 2988)",1
+Athena,GPE,"(3059, 3065)",1
+Athena,MISC,"(2982, 2988)",1
+Artbreeder AI,MISC,"(448, 461)",1
+Athena,MISC,"(3059, 3065)",1
+Athena,MISC,"(3197, 3203)",1
+Athena,MISC,"(3284, 3290)",1
+Athena,ORG,"(53, 59)",1
+Athena,ORG,"(422, 428)",1
+Athena,ORG,"(2707, 2713)",1
+Athena,ORG,"(3109, 3115)",1
+Athena,ORG,"(3284, 3290)",1
+Athena  Amazon Athena,ORG,"(38, 59)",1
+Atlantic,LOC,"(530, 538)",1
+August,DATE,"(1532, 1538)",1
+02-Aug-16,DATE,"(3980, 3994)",1
+Austin Distel,PER,"(144, 157)",1
+Austin Distel,PERSON,"(144, 157)",1
+Article Content,LAW,"(7833, 7848)",1
+Artbreeder,ORG,"(1885, 1895)",1
+Anne Schuchat,PERSON,"(2784, 2797)",1
+Apple,ORG,"(0, 5)",1
+Anorexia,MISC,"(433, 441)",1
+Anorexia,MISC,"(718, 726)",1
+Anorexia,PERSON,"(433, 441)",1
+Anorexia,PERSON,"(718, 726)",1
+Anorexia Etiology Revisited,WORK_OF_ART,"(484, 511)",1
+Anorexia Nervosa,PERSON,"(6877, 6893)",1
+Anthony Bourdain,PER,"(4691, 4707)",1
+Anthony Bourdain’s,PERSON,"(4691, 4709)",1
+Antiquity,MISC,"(217, 226)",1
+Antiquity,ORG,"(217, 226)",1
+Antitrust Division,ORG,"(1848, 1866)",1
+Anton Chekhov,PER,"(859, 872)",1
+Anton Chekhov,PERSON,"(859, 872)",1
+Appendix,NORP,"(8891, 8899)",1
+Apple’s,ORG,"(0, 7)",1
+Artbreeder,MISC,"(1885, 1895)",1
+ApplicationSettings,MISC,"(1265, 1284)",1
+ApplicationSettings,ORG,"(1265, 1284)",1
+April,DATE,"(1603, 1608)",1
+Archives of Suicide Research,ORG,"(725, 753)",1
+Are You Threatening Me?  Nadler,MISC,"(3200, 3231)",1
+Area X,PERSON,"(1084, 1090)",1
+Ariely,ORG,"(3627, 3633)",1
+Ariely,PER,"(2943, 2949)",1
+Arizona Cancer and Evolution Center,ORG,"(646, 681)",1
+Arlene Blum,PER,"(7669, 7680)",1
+Arlene Blum,PERSON,"(7669, 7680)",1
+Arnold Zwicky,PER,"(1224, 1237)",1
+Arnold Zwicky,PERSON,"(1224, 1237)",1
+Art of Being Unmistakable,MISC,"(2203, 2228)",1
+Amazon,ORG,"(3381, 3387)",1
+Amazon,ORG,"(2697, 2703)",1
+Amazon,ORG,"(2380, 2386)",1
+API,ORG,"(6312, 6315)",1
+AI Psychosis,ORG,"(3871, 3883)",1
+AI Research,ORG,"(14226, 14237)",1
+"AI Research
+
+",ORG,"(5560, 5573)",1
+AI governance²,PERSON,"(3049, 3063)",1
+AJ Leon,PER,"(7961, 7968)",1
+AJ Leon,PERSON,"(7961, 7968)",1
+AMAs,ORG,"(11143, 11147)",1
+AMAs,ORG,"(11521, 11525)",1
+AP,ORG,"(263, 265)",1
+AP-NORC Center,ORG,"(263, 277)",1
+API,MISC,"(6333, 6336)",1
+API,ORG,"(1864, 1867)",1
+API,ORG,"(1917, 1920)",1
+API,ORG,"(3588, 3591)",1
+API,ORG,"(6333, 6336)",1
+AI Framework for Ethics,ORG,"(14384, 14407)",1
+API,ORG,"(7313, 7316)",1
+API,ORG,"(8362, 8365)",1
+APIs,MISC,"(7508, 7512)",1
+APIs,MISC,"(7538, 7542)",1
+APIs,MISC,"(9370, 9374)",1
+APIs,MISC,"(9477, 9481)",1
+APIs,MISC,"(9507, 9511)",1
+AWS,ORG,"(3158, 3161)",1
+AWS,ORG,"(3426, 3429)",1
+AWS,ORG,"(5679, 5682)",1
+AWS,ORG,"(6571, 6574)",1
+AWS Glue,MISC,"(5387, 5395)",1
+AWS Glue,MISC,"(6944, 6952)",1
+AWS Glue,ORG,"(5387, 5395)",1
+AI Psychosis,MISC,"(3871, 3883)",1
+AI Ethics Report,ORG,"(14288, 14304)",1
+AWS Glue,PRODUCT,"(1184, 1192)",1
+AI,ORG,"(6059, 6061)",1
+AI,ORG,"(459, 461)",1
+AI,ORG,"(884, 886)",1
+AI,ORG,"(1032, 1034)",1
+AI,ORG,"(1160, 1162)",1
+AI,ORG,"(1265, 1267)",1
+AI,ORG,"(1457, 1459)",1
+AI,ORG,"(1531, 1533)",1
+AI,ORG,"(1872, 1874)",1
+AI,ORG,"(1993, 1995)",1
+AI,ORG,"(3202, 3204)",1
+AI,ORG,"(4194, 4196)",1
+AI,ORG,"(4521, 4523)",1
+AI,ORG,"(4684, 4686)",1
+AI,ORG,"(5010, 5012)",1
+AI,ORG,"(6075, 6077)",1
+AI Ethics,ORG,"(8801, 8810)",1
+AI,ORG,"(6361, 6363)",1
+AI,ORG,"(6500, 6502)",1
+AI,ORG,"(6756, 6758)",1
+AI,ORG,"(8746, 8748)",1
+AI,ORG,"(9638, 9640)",1
+AI,ORG,"(10029, 10031)",1
+AI,ORG,"(10122, 10124)",1
+AI,ORG,"(10912, 10914)",1
+AI,ORG,"(13427, 13429)",1
+AI,ORG,"(13517, 13519)",1
+AI,ORG,"(13802, 13804)",1
+AI,ORG,"(14090, 14092)",1
+AI Doctrine,ORG,"(4284, 4295)",1
+AI Ethics,ORG,"(8526, 8535)",1
+AWS Glue,ORG,"(6944, 6952)",1
+AWS Lambda,MISC,"(410, 420)",1
+Amazon,ORG,"(2178, 2184)",1
+Amar Cheema,PER,"(1746, 1757)",1
+Alex Boye,PERSON,"(2051, 2060)",1
+Alex Boye,PERSON,"(2127, 2136)",1
+Alexa Moody,ORG,"(1323, 1334)",1
+Alexa Moody,PER,"(1323, 1334)",1
+"Alfred North Whitehead
+
+Simplicity",PERSON,"(347, 381)",1
+Alfred North Whitehead  Simplicity,ORG,"(347, 381)",1
+Allen Brain Institute,ORG,"(4210, 4231)",1
+Allie Brosh,PER,"(153, 164)",1
+Allie Brosh,PERSON,"(153, 164)",1
+AlphaClue,MISC,"(1902, 1911)",1
+AlphaClue,ORG,"(1902, 1911)",1
+AlphaMonopoly,ORG,"(2463, 2476)",1
+Always Carry a Notebook  Inspiration,MISC,"(7780, 7816)",1
+Alzheimer,PER,"(5889, 5898)",1
+Amar Cheema,PERSON,"(1746, 1757)",1
+Alex Boye,PERSON,"(237, 246)",1
+Amazon,LOC,"(2697, 2703)",1
+Amazon,LOC,"(3381, 3387)",1
+Amazon,MISC,"(650, 656)",1
+Amazon,MISC,"(1840, 1846)",1
+Amazon,MISC,"(2178, 2184)",1
+Amazon,MISC,"(2380, 2386)",1
+Amazon,MISC,"(4330, 4336)",1
+Amazon,MISC,"(5415, 5421)",1
+Amazon,ORG,"(152, 158)",1
+Amazon,ORG,"(650, 656)",1
+Amazon,ORG,"(984, 990)",1
+Amazon,ORG,"(1390, 1396)",1
+Amazon,ORG,"(1840, 1846)",1
+Amazon,ORG,"(2024, 2030)",1
+Alex Boye,PERSON,"(650, 659)",1
+Alex Boye,PERSON,"(11, 20)",1
+AWS Lambda,ORG,"(410, 420)",1
+Adam Smith,PER,"(13708, 13718)",1
+AWS S3,MISC,"(6829, 6835)",1
+AWS S3,ORG,"(6829, 6835)",1
+AWS SSM,MISC,"(559, 566)",1
+Aaron Hernandez,PER,"(813, 828)",1
+Aaron Hernandez,PERSON,"(813, 828)",1
+Abraham Maslow,PER,"(954, 968)",1
+Abraham Maslow,PER,"(1058, 1072)",1
+Abraham Maslow,PERSON,"(1058, 1072)",1
+Abraham Maslow’s,PERSON,"(954, 970)",1
+Academy Award,MISC,"(4206, 4219)",1
+Academy Award,ORG,"(4206, 4219)",1
+Achilles,GPE,"(724, 732)",1
+Activation Energy,ORG,"(4817, 4834)",1
+Adam Smith,PER,"(13417, 13427)",1
+Adam Smith,PERSON,"(13417, 13427)",1
+Alex Boye,PER,"(2127, 2136)",1
+Adam Smith,PERSON,"(13708, 13718)",1
+Adela,PER,"(6756, 6761)",1
+Ader et al,MISC,"(3210, 3220)",1
+Ader et al,PERSON,"(3210, 3220)",1
+Administration,ORG,"(3838, 3852)",1
+Administration,ORG,"(3885, 3899)",1
+Administration,ORG,"(4178, 4192)",1
+Adobe Illustrator,ORG,"(650, 667)",1
+Alberta,GPE,"(5115, 5122)",1
+Alberta,LOC,"(5115, 5122)",1
+Alex Boye,PER,"(11, 20)",1
+Alex Boye,PER,"(237, 246)",1
+Alex Boye,PER,"(650, 659)",1
+Alex Boye,PER,"(2051, 2060)",1
+"Author
+
+Imagine",ORG,"(17, 32)",1
+Automated Optimizing Delivery and Shipping,ORG,"(4629, 4671)",1
+Ava Robotics,LOC,"(12638, 12650)",1
+CTAS,ORG,"(3303, 3307)",1
+COVID-19,MISC,"(4582, 4590)",1
+COVID-19,MISC,"(6050, 6058)",1
+COVID-19,MISC,"(6575, 6583)",1
+COVID-19,MISC,"(6697, 6705)",1
+COVID-19,ORG,"(371, 379)",1
+COVID-19,ORG,"(640, 648)",1
+CRISPR,MISC,"(1386, 1392)",1
+CRISPR,PERSON,"(1386, 1392)",1
+CSAIL,ORG,"(12503, 12508)",1
+CSR,MISC,"(5245, 5248)",1
+CSR,ORG,"(110, 113)",1
+CSR,ORG,"(5245, 5248)",1
+CSV,MISC,"(3490, 3493)",1
+CSV,ORG,"(3490, 3493)",1
+CTAS,ORG,"(3347, 3351)",1
+COVID-19,MISC,"(4211, 4219)",1
+CTAS,ORG,"(3394, 3398)",1
+CV,PERSON,"(829, 831)",1
+Cajal,ORG,"(1481, 1486)",1
+Calgary,GPE,"(5106, 5113)",1
+Calgary,LOC,"(5106, 5113)",1
+Canada,GPE,"(5124, 5130)",1
+Canada,LOC,"(5124, 5130)",1
+Canadian,MISC,"(3519, 3527)",1
+Canadian,NORP,"(3519, 3527)",1
+Candida,GPE,"(4873, 4880)",1
+Candida,GPE,"(5036, 5043)",1
+Candida,MISC,"(4873, 4880)",1
+Candida,MISC,"(5036, 5043)",1
+Candy Crush,MISC,"(6303, 6314)",1
+COVID-19,MISC,"(4494, 4502)",1
+COVID-19,MISC,"(3106, 3114)",1
+Canva,MISC,"(183, 188)",1
+COVID,MISC,"(5329, 5334)",1
+Bypass Virtually Every News,ORG,"(1083, 1110)",1
+CASP,MISC,"(3447, 3451)",1
+CASP Technique  Then,MISC,"(3368, 3388)",1
+CBC,ORG,"(2605, 2608)",1
+CCPS,MISC,"(3800, 3804)",1
+CCPS,ORG,"(1098, 1102)",1
+CCPS,ORG,"(3800, 3804)",1
+CMOS,ORG,"(1028, 1032)",1
+COVID,MISC,"(1126, 1131)",1
+COVID,MISC,"(1257, 1262)",1
+COVID,MISC,"(1500, 1505)",1
+COVID,MISC,"(4202, 4207)",1
+COVID,MISC,"(4296, 4301)",1
+COVID,MISC,"(4919, 4924)",1
+COVID,MISC,"(5588, 5593)",1
+COVID-19,MISC,"(2061, 2069)",1
+COVID,ORG,"(708, 713)",1
+COVID,ORG,"(1230, 1235)",1
+COVID,ORG,"(1257, 1262)",1
+COVID,ORG,"(2683, 2688)",1
+COVID,ORG,"(3646, 3651)",1
+COVID,ORG,"(3742, 3747)",1
+COVID,ORG,"(4530, 4535)",1
+COVID,ORG,"(5588, 5593)",1
+COVID,ORG,"(5682, 5687)",1
+COVID,ORG,"(5874, 5879)",1
+COVID-19,MISC,"(371, 379)",1
+COVID-19,MISC,"(516, 524)",1
+COVID-19,MISC,"(640, 648)",1
+COVID-19,MISC,"(2019, 2027)",1
+Candy Crush,PERSON,"(6303, 6314)",1
+Canva,PERSON,"(183, 188)",1
+"Business Insider, Inc",ORG,"(353, 374)",1
+Christian B. Anfinsen,PER,"(1551, 1572)",1
+Chester Bennington,PERSON,"(192, 210)",1
+Chester Bennington,PERSON,"(2100, 2118)",1
+China,GPE,"(784, 789)",1
+China,GPE,"(3299, 3304)",1
+China,GPE,"(7423, 7428)",1
+China,LOC,"(784, 789)",1
+China,LOC,"(3299, 3304)",1
+China,LOC,"(7423, 7428)",1
+Chinese,MISC,"(2013, 2020)",1
+Chinese,NORP,"(2013, 2020)",1
+Chloe Albanesius,ORG,"(288, 304)",1
+Chloe Albanesius & Michael Kan,ORG,"(288, 318)",1
+Christian,MISC,"(2469, 2478)",1
+Christian,NORP,"(2469, 2478)",1
+Christian B. Anfinsen,PERSON,"(1551, 1572)",1
+Chester Bennington,PER,"(192, 210)",1
+Christmas,DATE,"(40, 49)",1
+Christmas,DATE,"(1228, 1237)",1
+Christmas,DATE,"(1922, 1931)",1
+Christmas,DATE,"(4940, 4949)",1
+Clarianchalets  CCPS,ORG,"(3919, 3939)",1
+Claude C. Hopkins,PER,"(4523, 4540)",1
+Claude C. Hopkins,PERSON,"(4523, 4540)",1
+Claudia Wallis,PER,"(1388, 1402)",1
+Claudia Wallis at Scientific American,ORG,"(1388, 1425)",1
+Clayton Act,MISC,"(1591, 1602)",1
+Clickbait,MISC,"(1678, 1687)",1
+Clickbait,PERSON,"(1678, 1687)",1
+Cloud Armor,MISC,"(6978, 6989)",1
+Cloud Armor DDOS,PERSON,"(6978, 6994)",1
+Chester Bennington,PER,"(2100, 2118)",1
+Chester,PERSON,"(2909, 2916)",1
+"Canva
+
+A",ORG,"(175, 183)",1
+Chekhov,PER,"(1452, 1459)",1
+"Canva
+
+Subscribe",ORG,"(172, 188)",1
+Canva  A,ORG,"(175, 183)",1
+Canva  Subscribe,ORG,"(172, 188)",1
+"Canva Pro
+
+“",PERSON,"(160, 172)",1
+Canva Pro  “Young,MISC,"(160, 177)",1
+Carlo Maley,PER,"(617, 628)",1
+Carlo Maley,PERSON,"(617, 628)",1
+"Casey Botticello
+
+Domain",PERSON,"(396, 420)",1
+Casey Botticello  Domain,ORG,"(396, 420)",1
+Center for Pediatric Integrative Medicine,ORG,"(7089, 7130)",1
+Center for Statistics and Machine Learning,ORG,"(12016, 12058)",1
+Chapter 12,LAW,"(4444, 4454)",1
+Chapter 12,MISC,"(4444, 4454)",1
+Chase,ORG,"(2929, 2934)",1
+Chekhov,PERSON,"(1452, 1459)",1
+Chester,PERSON,"(2848, 2855)",1
+Cherry,PER,"(355, 361)",1
+Cherry,PER,"(941, 947)",1
+Cherry,PER,"(2023, 2029)",1
+Cherry,PERSON,"(355, 361)",1
+Cherry,PERSON,"(941, 947)",1
+Cherry,PERSON,"(2023, 2029)",1
+Chester,LOC,"(4125, 4132)",1
+Chester,ORG,"(4125, 4132)",1
+Chester,PER,"(212, 219)",1
+Chester,PER,"(489, 496)",1
+Chester,PER,"(2848, 2855)",1
+Chester,PER,"(2909, 2916)",1
+Chester,PERSON,"(212, 219)",1
+Chester,PERSON,"(489, 496)",1
+Buwa,PER,"(146, 150)",1
+Burning Man,PERSON,"(6018, 6029)",1
+Ava Robotics,ORG,"(12449, 12461)",1
+Best Seller,PERSON,"(2885, 2896)",1
+Bellevue,LOC,"(3312, 3320)",1
+Bellevue,ORG,"(3312, 3320)",1
+Bend Not Break,MISC,"(1451, 1465)",1
+Bend Not Break,WORK_OF_ART,"(1451, 1465)",1
+Benedict Cumberbatch,PER,"(1941, 1961)",1
+Benedict Cumberbatch,PER,"(2060, 2080)",1
+Benedict Cumberbatch,PERSON,"(1941, 1961)",1
+Benedict Cumberbatch,PERSON,"(2060, 2080)",1
+Bennington,GPE,"(2208, 2218)",1
+Bennington,PER,"(2208, 2218)",1
+Berkay Gumustekin,PER,"(1952, 1969)",1
+Berkay Gumustekin,PERSON,"(1952, 1969)",1
+Berkeley,GPE,"(7746, 7754)",1
+Berkeley,LOC,"(7746, 7754)",1
+BestSelf,ORG,"(10340, 10348)",1
+Beat,PER,"(7757, 7761)",1
+Beta,ORG,"(5827, 5831)",1
+Better Than Best,ORG,"(3947, 3963)",1
+Between 2013 and 2015,DATE,"(2934, 2955)",1
+Between 2013 and 2018,DATE,"(1368, 1389)",1
+Beyond Pesticides,ORG,"(8527, 8544)",1
+BeyondCorp,MISC,"(6767, 6777)",1
+BeyondCorp,ORG,"(6767, 6777)",1
+Bifidobacteria,GPE,"(5313, 5327)",1
+Bifidobacteria,MISC,"(5313, 5327)",1
+BigQuery Product Manager,ORG,"(3001, 3025)",1
+Bill Gates,PER,"(1573, 1583)",1
+Bill Gates,PER,"(2112, 2122)",1
+Bill Gates,PERSON,"(1573, 1583)",1
+Bill Gates,PERSON,"(2112, 2122)",1
+Behavioral Sciences at Emory University School of Medicine,ORG,"(1720, 1778)",1
+Beat,ORG,"(7757, 7761)",1
+Biodesign Center for Environmental Health Engineering,ORG,"(1983, 2036)",1
+Bachelard,PER,"(1966, 1975)",1
+B & C,ORG,"(3512, 3517)",1
+B.S.,GPE,"(450, 454)",1
+BDNF,MISC,"(6872, 6876)",1
+BLM,ORG,"(4882, 4885)",1
+BMI,MISC,"(1734, 1737)",1
+BMI,ORG,"(1734, 1737)",1
+BMI,ORG,"(1927, 1930)",1
+BMI,ORG,"(1975, 1978)",1
+BMI,ORG,"(2144, 2147)",1
+BMI,ORG,"(2591, 2594)",1
+BMI,ORG,"(4110, 4113)",1
+BMI-promoting,MISC,"(4110, 4123)",1
+BQ,ORG,"(3137, 3139)",1
+Bachelard,ORG,"(1966, 1975)",1
+Bacillus,MISC,"(3395, 3403)",1
+Bas Uterwijk,PERSON,"(155, 167)",1
+Backyard Brains,PERSON,"(1239, 1254)",1
+Bacteria-Fighting Antibodies Attack,ORG,"(2115, 2150)",1
+Bacteria-Fighting Antibodies Attack the Brain  Morris,MISC,"(2115, 2168)",1
+Bacteroides,GPE,"(4980, 4991)",1
+Bacteroides,MISC,"(4980, 4991)",1
+Bacteroidetes,MISC,"(5333, 5346)",1
+Bacteroidetes,ORG,"(5333, 5346)",1
+Banishing Writer’s Block,ORG,"(2146, 2170)",1
+Banyan,GPE,"(2170, 2176)",1
+Banyan,MISC,"(2170, 2176)",1
+Barnes and Noble,LOC,"(2788, 2804)",1
+Barnes and Noble,ORG,"(2788, 2804)",1
+Bas Uterwijk,MISC,"(1491, 1503)",1
+Bas Uterwijk,ORG,"(155, 167)",1
+BioAssays,ORG,"(801, 810)",1
+Blacks,MISC,"(679, 685)",1
+Burning Man,ORG,"(6018, 6029)",1
+British,MISC,"(760, 767)",1
+Boye,PERSON,"(2346, 2350)",1
+Boye,PERSON,"(2640, 2644)",1
+Boye,PERSON,"(2794, 2798)",1
+Brandt,ORG,"(4935, 4941)",1
+Brandt,ORG,"(7514, 7520)",1
+Brandt,ORG,"(7652, 7658)",1
+Brandt,ORG,"(8710, 8716)",1
+Brandt,PER,"(4935, 4941)",1
+Brandt,PER,"(7514, 7520)",1
+Brandt,PER,"(7652, 7658)",1
+Brandt,PER,"(8710, 8716)",1
+Brian Kiteley,PER,"(6277, 6290)",1
+Brian Kiteley,PERSON,"(6277, 6290)",1
+Brian Kiteley Exercise for Writing Unique,MISC,"(5804, 5845)",1
+British,NORP,"(760, 767)",1
+Boye,PERSON,"(2018, 2022)",1
+Broadway,FAC,"(2733, 2741)",1
+Broadway,LOC,"(2733, 2741)",1
+Bruno Schulz,PER,"(6714, 6726)",1
+Bruno Schulz’s,ORG,"(6714, 6728)",1
+Bryan,PER,"(5895, 5900)",1
+Bryan,PERSON,"(5895, 5900)",1
+Bryan Harris,PER,"(5716, 5728)",1
+Bryan Harris,PERSON,"(5716, 5728)",1
+Buhse,ORG,"(3019, 3024)",1
+Buhse,PER,"(3019, 3024)",1
+"Burgers
+
+Food",ORG,"(2374, 2387)",1
+Burgers  Food,ORG,"(2374, 2387)",1
+Burlington,GPE,"(9676, 9686)",1
+Burlington,LOC,"(9676, 9686)",1
+Boye,PERSON,"(2226, 2230)",1
+Boye,PERSON,"(1892, 1896)",1
+Blacks,MISC,"(5271, 5277)",1
+Boye,PER,"(873, 877)",1
+Blacks,MISC,"(5337, 5343)",1
+Blog,ORG,"(1716, 1720)",1
+Blogging,GPE,"(6393, 6401)",1
+Blogging Bible,MISC,"(2393, 2407)",1
+Blogging Bible,MISC,"(6228, 6242)",1
+Blogging Bible,WORK_OF_ART,"(2393, 2407)",1
+Blogging Bible,WORK_OF_ART,"(6228, 6242)",1
+Bloomsbury,LOC,"(4932, 4942)",1
+Bob,PER,"(525, 528)",1
+Bob,PERSON,"(525, 528)",1
+Book Of AI,MISC,"(4471, 4481)",1
+Bootstrap’s CSS,MISC,"(1665, 1680)",1
+Bootstrap’s CSS,ORG,"(1665, 1680)",1
+Boye,PER,"(412, 416)",1
+Boye,PER,"(925, 929)",1
+Boye,PERSON,"(1333, 1337)",1
+Boye,PER,"(1282, 1286)",1
+Boye,PER,"(1333, 1337)",1
+Boye,PER,"(1391, 1395)",1
+Boye,PER,"(1830, 1834)",1
+Boye,PER,"(1892, 1896)",1
+Boye,PER,"(1956, 1960)",1
+Boye,PER,"(2018, 2022)",1
+Boye,PER,"(2226, 2230)",1
+Boye,PER,"(2326, 2330)",1
+Boye,PER,"(2346, 2350)",1
+Boye,PER,"(2640, 2644)",1
+Boye,PER,"(2794, 2798)",1
+Boye,PERSON,"(873, 877)",1
+Boye,PERSON,"(925, 929)",1
+AI,ORG,"(350, 352)",1
+AI,MISC,"(13802, 13804)",1
+AI,MISC,"(4521, 4523)",1
+2001,DATE,"(4123, 4127)",1
+20 minutes,TIME,"(3961, 3971)",1
+20 percent,PERCENT,"(5959, 5969)",1
+20 percent to 50 percent,PERCENT,"(4626, 4650)",1
+20 to 40%,PERCENT,"(275, 284)",1
+20%,PERCENT,"(343, 346)",1
+20%,PERCENT,"(3894, 3897)",1
+20%,PERCENT,"(5899, 5902)",1
+20%,PERCENT,"(7495, 7498)",1
+200,CARDINAL,"(316, 319)",1
+2000,DATE,"(2633, 2637)",1
+2000,DATE,"(5298, 5302)",1
+2001,DATE,"(730, 734)",1
+2001,DATE,"(940, 944)",1
+2001,DATE,"(3958, 3962)",1
+2002,DATE,"(2101, 2105)",1
+20,CARDINAL,"(6351, 6353)",1
+2003,DATE,"(1823, 1827)",1
+2004,DATE,"(3729, 3733)",1
+2005,DATE,"(4147, 4151)",1
+2007,DATE,"(3939, 3943)",1
+2007,DATE,"(4424, 4428)",1
+2008,DATE,"(2437, 2441)",1
+2008,DATE,"(5519, 5523)",1
+2008,DATE,"(6916, 6920)",1
+2009,DATE,"(3969, 3973)",1
+2010,DATE,"(230, 234)",1
+2010,DATE,"(584, 588)",1
+2010,DATE,"(1768, 1772)",1
+2010,DATE,"(2584, 2588)",1
+2010,DATE,"(3986, 3990)",1
+20 hours,TIME,"(5972, 5980)",1
+20,CARDINAL,"(5523, 5525)",1
+2012,DATE,"(175, 179)",1
+2,CARDINAL,"(4390, 4391)",1
+2,CARDINAL,"(1739, 1740)",1
+2,CARDINAL,"(1917, 1918)",1
+2,CARDINAL,"(1932, 1933)",1
+2,CARDINAL,"(2049, 2050)",1
+2,CARDINAL,"(2175, 2176)",1
+2,CARDINAL,"(2374, 2375)",1
+2,CARDINAL,"(2415, 2416)",1
+2,CARDINAL,"(2429, 2430)",1
+2,CARDINAL,"(2488, 2489)",1
+2,CARDINAL,"(2512, 2513)",1
+2,CARDINAL,"(2556, 2557)",1
+2,CARDINAL,"(2703, 2704)",1
+2,CARDINAL,"(2720, 2721)",1
+2,CARDINAL,"(3893, 3894)",1
+2,CARDINAL,"(5352, 5353)",1
+20,CARDINAL,"(5132, 5134)",1
+2,CARDINAL,"(5523, 5524)",1
+2,CARDINAL,"(5729, 5730)",1
+2,CARDINAL,"(7037, 7038)",1
+2,MONEY,"(2425, 2426)",1
+2,MONEY,"(4426, 4427)",1
+2 percent,PERCENT,"(5583, 5592)",1
+2 years,DATE,"(2871, 2878)",1
+2 ||,QUANTITY,"(1459, 1463)",1
+2-Book Deal,QUANTITY,"(2904, 2915)",1
+2,CARDINAL,"(2007, 2010)",1
+2.5-mile,QUANTITY,"(7131, 7139)",1
+02-Mar,CARDINAL,"(6481, 6484)",1
+20,CARDINAL,"(613, 615)",1
+20,CARDINAL,"(3780, 3782)",1
+2011,CARDINAL,"(842, 846)",1
+2012,DATE,"(502, 506)",1
+2,CARDINAL,"(777, 778)",1
+2019,DATE,"(7334, 7338)",1
+2018,DATE,"(3462, 3466)",1
+2018,DATE,"(4003, 4007)",1
+2018,DATE,"(5090, 5094)",1
+2018,DATE,"(6399, 6403)",1
+2018,DATE,"(7357, 7361)",1
+2018,DATE,"(7488, 7492)",1
+2019,DATE,"(3, 7)",1
+2019,DATE,"(1388, 1392)",1
+2019,DATE,"(2670, 2674)",1
+2019,DATE,"(3022, 3026)",1
+2019,DATE,"(4901, 4905)",1
+2019,DATE,"(5538, 5542)",1
+2019,DATE,"(5683, 5687)",1
+2019,DATE,"(6798, 6802)",1
+2020,DATE,"(82, 86)",1
+2018,DATE,"(707, 711)",1
+2020,DATE,"(4227, 4231)",1
+2020,DATE,"(6629, 6633)",1
+2020 Presidential Election,MISC,"(2873, 2899)",1
+2021,DATE,"(7131, 7135)",1
+2022,DATE,"(6065, 6069)",1
+2023,DATE,"(1408, 1412)",1
+2026,DATE,"(1614, 1618)",1
+2028,DATE,"(3549, 3553)",1
+2037,DATE,"(1732, 1736)",1
+2040,DATE,"(1854, 1858)",1
+2045,CARDINAL,"(2440, 2444)",1
+2049,DATE,"(2566, 2570)",1
+2051,DATE,"(2715, 2719)",1
+2052,DATE,"(3087, 3091)",1
+2018,DATE,"(1986, 1990)",1
+2017,DATE,"(4974, 4978)",1
+2012,DATE,"(1759, 1763)",1
+2015,DATE,"(2454, 2458)",1
+2012,DATE,"(1961, 1965)",1
+2012,DATE,"(1984, 1988)",1
+2012,DATE,"(2511, 2515)",1
+2013,DATE,"(3469, 3473)",1
+2013,DATE,"(7026, 7030)",1
+2013,DATE,"(7684, 7688)",1
+2014,CARDINAL,"(3727, 3731)",1
+2014,DATE,"(803, 807)",1
+2014,DATE,"(2875, 2879)",1
+2014,DATE,"(3537, 3541)",1
+2014,DATE,"(4048, 4052)",1
+2015,DATE,"(1078, 1082)",1
+2015,DATE,"(1735, 1739)",1
+2015,DATE,"(2315, 2319)",1
+2015,DATE,"(2792, 2796)",1
+2017,DATE,"(4380, 4384)",1
+2015,DATE,"(2899, 2903)",1
+2015,DATE,"(2988, 2992)",1
+2015,DATE,"(3017, 3021)",1
+2015,DATE,"(5135, 5139)",1
+2015’s Surf,MISC,"(1078, 1089)",1
+2016,DATE,"(711, 715)",1
+2016,DATE,"(876, 880)",1
+2016,DATE,"(1507, 1511)",1
+2016,DATE,"(2703, 2707)",1
+2016,DATE,"(4917, 4921)",1
+2016,DATE,"(6620, 6624)",1
+2017,DATE,"(830, 834)",1
+2017,DATE,"(2715, 2719)",1
+2017,DATE,"(2928, 2932)",1
+2,CARDINAL,"(1142, 1143)",1
+2,CARDINAL,"(611, 612)",1
+2053,DATE,"(3796, 3800)",1
+10,CARDINAL,"(7823, 7825)",1
+1,CARDINAL,"(5395, 5396)",1
+1,MONEY,"(2416, 2417)",1
+1,MONEY,"(4374, 4375)",1
+"1,000",CARDINAL,"(1731, 1736)",1
+1,CARDINAL,"(2000, 2003)",1
+1.2 million,CARDINAL,"(687, 698)",1
+1.5,CARDINAL,"(2162, 2166)",1
+10,CARDINAL,"(68, 70)",1
+10,CARDINAL,"(1462, 1464)",1
+10,CARDINAL,"(2624, 2626)",1
+10,CARDINAL,"(2768, 2770)",1
+10,CARDINAL,"(3939, 3941)",1
+10,CARDINAL,"(4077, 4079)",1
+10,CARDINAL,"(4960, 4962)",1
+10,CARDINAL,"(8084, 8086)",1
+1,CARDINAL,"(4462, 4463)",1
+10,CARDINAL,"(9837, 9839)",1
+10 Mistakes People Make When Saving for Retirement,WORK_OF_ART,"(9727, 9777)",1
+10 Mistakes People Make When Saving for Retirement,WORK_OF_ART,"(9783, 9833)",1
+10 million,CARDINAL,"(681, 691)",1
+10 nights,DATE,"(504, 513)",1
+10 percent,PERCENT,"(2258, 2268)",1
+10 to 34,CARDINAL,"(6454, 6462)",1
+10 years earlier,DATE,"(2421, 2437)",1
+10%,PERCENT,"(2061, 2064)",1
+10%,PERCENT,"(5326, 5329)",1
+10+,DATE,"(2140, 2143)",1
+10.1001,CARDINAL,"(7695, 7702)",1
+10.3389,CARDINAL,"(6936, 6943)",1
+100,CARDINAL,"(606, 609)",1
+1,CARDINAL,"(5209, 5210)",1
+1,CARDINAL,"(2942, 2943)",1
+100,CARDINAL,"(3261, 3264)",1
+0.23,CARDINAL,"(2663, 2667)",1
+#,CARDINAL,"(5863, 5864)",1
+#,CARDINAL,"(6301, 6302)",1
+#,CARDINAL,"(12703, 12704)",1
+#1 Beginning,MONEY,"(883, 895)",1
+#machinelearning,MONEY,"(3386, 3402)",1
+2020,DATE,"(874, 920)",1
+4,GPE,"(550, 552)",1
+0,ORG,"(899, 904)",1
+0,CARDINAL,"(771, 772)",1
+0,CARDINAL,"(3008, 3009)",1
+0.10%,PERCENT,"(1401, 1405)",1
+0.1,CARDINAL,"(2570, 2574)",1
+0.17,CARDINAL,"(1901, 1905)",1
+0.18,CARDINAL,"(2579, 2583)",1
+0.28,CARDINAL,"(2672, 2676)",1
+1,CARDINAL,"(1856, 1857)",1
+0.42,CARDINAL,"(1910, 1914)",1
+0–5 years old,DATE,"(2109, 2122)",1
+1,CARDINAL,"(12, 13)",1
+1,CARDINAL,"(160, 161)",1
+1,CARDINAL,"(241, 242)",1
+1,CARDINAL,"(305, 306)",1
+1,CARDINAL,"(339, 340)",1
+1,CARDINAL,"(368, 369)",1
+1,CARDINAL,"(548, 549)",1
+1,CARDINAL,"(889, 890)",1
+1,CARDINAL,"(1107, 1108)",1
+1,CARDINAL,"(1628, 1629)",1
+1,CARDINAL,"(1762, 1763)",1
+1,CARDINAL,"(1817, 1818)",1
+100,CARDINAL,"(2666, 2669)",1
+100,CARDINAL,"(3529, 3532)",1
+2,CARDINAL,"(459, 460)",1
+170%,PERCENT,"(3464, 3468)",1
+14,CARDINAL,"(8559, 8561)",1
+14.5 percent,PERCENT,"(4032, 4044)",1
+"140,000",MONEY,"(1623, 1630)",1
+"140,000",MONEY,"(1832, 1839)",1
+15 minutes,TIME,"(2284, 2294)",1
+15 percent,PERCENT,"(7333, 7343)",1
+15 years,DATE,"(1959, 1967)",1
+15-year,DATE,"(6964, 6971)",1
+16,CARDINAL,"(3434, 3436)",1
+16 years,DATE,"(236, 244)",1
+16-month,DATE,"(497, 505)",1
+"163,820",CARDINAL,"(2905, 2912)",1
+16–17,CARDINAL,"(2036, 2041)",1
+170,MONEY,"(3345, 3348)",1
+18,CARDINAL,"(3769, 3771)",1
+14,CARDINAL,"(3865, 3867)",1
+1943,DATE,"(1151, 1155)",1
+1962,DATE,"(3271, 3275)",1
+1962,DATE,"(4199, 4203)",1
+1963,DATE,"(2190, 2194)",1
+1972,DATE,"(1524, 1528)",1
+1974,DATE,"(1137, 1141)",1
+1983,DATE,"(2291, 2295)",1
+1984,DATE,"(109, 113)",1
+1984,DATE,"(1567, 1571)",1
+1994,DATE,"(3392, 3396)",1
+1994,DATE,"(4354, 4358)",1
+1995,DATE,"(3222, 3226)",1
+1999,DATE,"(1074, 1078)",1
+1pm,QUANTITY,"(8633, 8636)",1
+14,CARDINAL,"(5754, 5756)",1
+12–53%,PERCENT,"(5676, 5682)",1
+100 billion,CARDINAL,"(3266, 3277)",1
+100000,DATE,"(1961, 1967)",1
+100 percent,PERCENT,"(770, 781)",1
+100%,PERCENT,"(918, 922)",1
+100%,PERCENT,"(3058, 3062)",1
+100%,PERCENT,"(3653, 3657)",1
+"100,000",CARDINAL,"(1059, 1066)",1
+1000,CARDINAL,"(335, 339)",1
+1000,CARDINAL,"(408, 412)",1
+1000,CARDINAL,"(1541, 1545)",1
+1000,CARDINAL,"(1787, 1791)",1
+1000,CARDINAL,"(2748, 2752)",1
+1000,CARDINAL,"(2981, 2985)",1
+1000,CARDINAL,"(6379, 6383)",1
+1000,CARDINAL,"(11191, 11195)",1
+1000,MONEY,"(1205, 1209)",1
+100–200,CARDINAL,"(6690, 6697)",1
+128,CARDINAL,"(8549, 8552)",1
+100’s,CARDINAL,"(772, 777)",1
+107,CARDINAL,"(476, 479)",1
+10am things,TIME,"(8589, 8600)",1
+10th,ORDINAL,"(6006, 6010)",1
+10x,DATE,"(2216, 2219)",1
+10–12 percent,PERCENT,"(3569, 3582)",1
+11 years old,DATE,"(5184, 5196)",1
+11 years old,DATE,"(5421, 5433)",1
+12,CARDINAL,"(137, 139)",1
+12,CARDINAL,"(903, 905)",1
+12 percent,PERCENT,"(3304, 3314)",1
+12 years,DATE,"(2357, 2365)",1
+12 years old,DATE,"(3679, 3691)",1
+"12,062",CARDINAL,"(2476, 2482)",1
+2053,DATE,"(3210, 3214)",1
+2070,DATE,"(3894, 3898)",1
+AI,MISC,"(3049, 3051)",1
+70,DATE,"(1534, 1536)",1
+66%,PERCENT,"(10355, 10358)",1
+69,CARDINAL,"(4618, 4620)",1
+69,CARDINAL,"(4772, 4774)",1
+69,CARDINAL,"(4891, 4893)",1
+6:30 AM,TIME,"(1605, 1612)",1
+6am,TIME,"(8507, 8510)",1
+6th,ORDINAL,"(73, 76)",1
+6th October 2106,DATE,"(568, 584)",1
+7,CARDINAL,"(859, 860)",1
+7,CARDINAL,"(3517, 3518)",1
+7,CARDINAL,"(6605, 6606)",1
+7,CARDINAL,"(6807, 6808)",1
+7 Strategies That Will Help You Improve Your Writing Skills,WORK_OF_ART,"(10144, 10203)",1
+7:00 PM,TIME,"(1826, 1830)",1
+70%,PERCENT,"(543, 546)",1
+"65,480",CARDINAL,"(2881, 2887)",1
+70%,PERCENT,"(8466, 8469)",1
+"700,000",CARDINAL,"(4870, 4877)",1
+7000,CARDINAL,"(6311, 6315)",1
+70db,ORDINAL,"(2043, 2047)",1
+72,CARDINAL,"(8307, 8309)",1
+73%,PERCENT,"(6044, 6047)",1
+"74,946",CARDINAL,"(3748, 3754)",1
+"77-Year-Old Theory Can Help You Write Wonderful Headlines
+
+Look to Maslow’s",DATE,"(6, 81)",1
+77-Year-Old Theory Can Help You Write Wonderful Headlines  Look to Maslow,MISC,"(6, 79)",1
+78 percent,PERCENT,"(2206, 2216)",1
+7B,MONEY,"(1277, 1279)",1
+8,CARDINAL,"(865, 866)",1
+8,CARDINAL,"(7200, 7201)",1
+8,CARDINAL,"(11141, 11142)",1
+66,CARDINAL,"(2448, 2450)",1
+62.9 percent,PERCENT,"(740, 752)",1
+"8,793",CARDINAL,"(2934, 2939)",1
+54%,PERCENT,"(2279, 2282)",1
+5.63%,PERCENT,"(1449, 1454)",1
+50,CARDINAL,"(10001, 10003)",1
+50 million,CARDINAL,"(4913, 4923)",1
+50 percent,PERCENT,"(5153, 5163)",1
+50 to 60,CARDINAL,"(1977, 1985)",1
+50 to 70%,PERCENT,"(8048, 8057)",1
+50%,PERCENT,"(376, 379)",1
+50%,PERCENT,"(3910, 3913)",1
+500%,PERCENT,"(3926, 3930)",1
+50–160,CARDINAL,"(6676, 6682)",1
+50–60,CARDINAL,"(3920, 3925)",1
+52 years,DATE,"(1355, 1363)",1
+"52,000",CARDINAL,"(6421, 6427)",1
+53rd,ORDINAL,"(2956, 2960)",1
+55 Flood Tip,WORK_OF_ART,"(309, 321)",1
+616,CARDINAL,"(3545, 3548)",1
+586,CARDINAL,"(1402, 1405)",1
+5952,DATE,"(2851, 2855)",1
+5am,TIME,"(10021, 10024)",1
+5am,TIME,"(10080, 10083)",1
+5–15 minutes,TIME,"(6808, 6820)",1
+5–7,CARDINAL,"(2435, 2438)",1
+5–7,CARDINAL,"(3289, 3292)",1
+6,CARDINAL,"(5628, 5629)",1
+6,CARDINAL,"(6016, 6017)",1
+6 month,DATE,"(4897, 4904)",1
+6 months,DATE,"(753, 761)",1
+6/29/20,CARDINAL,"(2820, 2827)",1
+600,CARDINAL,"(4208, 4211)",1
+600,CARDINAL,"(4492, 4495)",1
+"8,368",CARDINAL,"(4219, 4224)",1
+80 percent,PERCENT,"(2202, 2212)",1
+5 year,DATE,"(4868, 4874)",1
+ADHD,MISC,"(4985, 4989)",1
+ADDitude,MISC,"(1524, 1532)",1
+ADDitude,ORG,"(1524, 1532)",1
+ADHD,MISC,"(558, 562)",1
+ADHD,MISC,"(1362, 1366)",1
+ADHD,MISC,"(1477, 1481)",1
+ADHD,MISC,"(1555, 1559)",1
+ADHD,MISC,"(2466, 2470)",1
+ADHD,MISC,"(3122, 3126)",1
+ADHD,MISC,"(3249, 3253)",1
+ADHD,MISC,"(3928, 3932)",1
+ADHD,MISC,"(4233, 4237)",1
+ADHD,MISC,"(4432, 4436)",1
+ADHD,MISC,"(4692, 4696)",1
+ADHD,MISC,"(4814, 4818)",1
+ADHD,MISC,"(5202, 5206)",1
+ACE2,ORG,"(887, 891)",1
+ADHD,MISC,"(5295, 5299)",1
+ADHD,MISC,"(5400, 5404)",1
+ADHD,MISC,"(5744, 5748)",1
+ADHD,MISC,"(6452, 6456)",1
+ADHD,MISC,"(6794, 6798)",1
+ADHD,MISC,"(7210, 7214)",1
+ADHD,MISC,"(7244, 7248)",1
+ADHD,MISC,"(7536, 7540)",1
+ADHD,MISC,"(7599, 7603)",1
+ADHD,MISC,"(8056, 8060)",1
+AI,GPE,"(811, 813)",1
+AI,GPE,"(5926, 5928)",1
+AI,MISC,"(1032, 1034)",1
+AI,MISC,"(1872, 1874)",1
+ACE2,ORG,"(1002, 1006)",1
+A few months,DATE,"(2999, 3011)",1
+80 to 90 percent,PERCENT,"(2483, 2499)",1
+09-Nov,CARDINAL,"(179, 183)",1
+"80,000",CARDINAL,"(1655, 1661)",1
+"80,000",MONEY,"(1551, 1557)",1
+84%,PERCENT,"(2133, 2136)",1
+86 percent,PERCENT,"(2143, 2153)",1
+86 percent,PERCENT,"(8437, 8447)",1
+871,CARDINAL,"(4518, 4521)",1
+8:30 a.m.,TIME,"(3168, 3177)",1
+9,CARDINAL,"(1225, 1226)",1
+9,CARDINAL,"(2315, 2316)",1
+9,CARDINAL,"(3088, 3089)",1
+9,CARDINAL,"(7777, 7778)",1
+9,MONEY,"(2758, 2759)",1
+9 year old,DATE,"(240, 250)",1
+9 year old,DATE,"(5559, 5569)",1
+09-Nov,CARDINAL,"(2673, 2677)",1
+A couple of years ago,DATE,"(2988, 3009)",1
+90 minutes,TIME,"(6666, 6676)",1
+90 minutes,TIME,"(8728, 8738)",1
+90 minutes,TIME,"(10611, 10621)",1
+90 percent,PERCENT,"(475, 485)",1
+90 percent,PERCENT,"(13101, 13111)",1
+90%,PERCENT,"(2017, 2020)",1
+93 percent,PERCENT,"(766, 776)",1
+97%,PERCENT,"(1473, 1476)",1
+99%,PERCENT,"(778, 781)",1
+"990,098",CARDINAL,"(5551, 5558)",1
+A Glossary of Literary Terms,WORK_OF_ART,"(6505, 6533)",1
+A Glossary of Literary Terms’,MISC,"(6505, 6534)",1
+A Peek At,WORK_OF_ART,"(4099, 4108)",1
+A Theory of Human Motivation,WORK_OF_ART,"(1163, 1191)",1
+"5,700",CARDINAL,"(2978, 2983)",1
+5 percent,PERCENT,"(2668, 2677)",1
+2085,DATE,"(4240, 4244)",1
+3,CARDINAL,"(3630, 3631)",1
+3,CARDINAL,"(778, 779)",1
+3,CARDINAL,"(825, 826)",1
+3,CARDINAL,"(1207, 1208)",1
+3,CARDINAL,"(1233, 1234)",1
+3,CARDINAL,"(1317, 1318)",1
+3,CARDINAL,"(1465, 1466)",1
+3,CARDINAL,"(1496, 1497)",1
+3,CARDINAL,"(1508, 1509)",1
+3,CARDINAL,"(1870, 1871)",1
+3,CARDINAL,"(2108, 2109)",1
+3,CARDINAL,"(2899, 2900)",1
+3,CARDINAL,"(2938, 2939)",1
+3,CARDINAL,"(3136, 3137)",1
+3,CARDINAL,"(3262, 3263)",1
+3,CARDINAL,"(3721, 3722)",1
+3,CARDINAL,"(430, 431)",1
+3,CARDINAL,"(4506, 4507)",1
+3,CARDINAL,"(5501, 5502)",1
+3,CARDINAL,"(6759, 6760)",1
+3,CARDINAL,"(9311, 9312)",1
+3,CARDINAL,"(11866, 11867)",1
+3,MONEY,"(3781, 3782)",1
+3 Oct. 2019,DATE,"(2193, 2204)",1
+3 percent,PERCENT,"(5519, 5528)",1
+3 years,DATE,"(7955, 7962)",1
+3 ||,QUANTITY,"(2188, 2192)",1
+"3,994",CARDINAL,"(4206, 4211)",1
+3,CARDINAL,"(2018, 2021)",1
+3.5 and 11 years of age,DATE,"(4700, 4723)",1
+30,CARDINAL,"(906, 908)",1
+3,CARDINAL,"(477, 478)",1
+3,CARDINAL,"(205, 206)",1
+30 Days,DATE,"(10088, 10095)",1
+"25,000",CARDINAL,"(92, 98)",1
+2090,DATE,"(4735, 4739)",1
+21 years old,DATE,"(5784, 5796)",1
+"21, 2019",DATE,"(194, 202)",1
+215,CARDINAL,"(2809, 2812)",1
+24,CARDINAL,"(4678, 4680)",1
+24,CARDINAL,"(5027, 5029)",1
+24 hours,TIME,"(121, 129)",1
+24 hours,TIME,"(1870, 1878)",1
+24 hours,TIME,"(2648, 2656)",1
+24-hour,TIME,"(503, 510)",1
+24-year-olds,DATE,"(763, 775)",1
+24-year-olds,DATE,"(1300, 1312)",1
+25,MONEY,"(3378, 3380)",1
+25 years old,DATE,"(599, 611)",1
+255,CARDINAL,"(784, 787)",1
+3,CARDINAL,"(184, 185)",1
+26%,PERCENT,"(7737, 7740)",1
+26th,ORDINAL,"(1985, 1989)",1
+"29,000 metric tons",QUANTITY,"(2905, 2923)",1
+29.20%,PERCENT,"(4942, 4947)",1
+299,MONEY,"(5049, 5052)",1
+2d,CARDINAL,"(1272, 1274)",1
+2nd,DATE,"(1080, 1083)",1
+2–3,CARDINAL,"(1113, 1116)",1
+2–3,CARDINAL,"(2530, 2533)",1
+2–3,CARDINAL,"(6908, 6911)",1
+2–3,CARDINAL,"(7401, 7404)",1
+2–3,CARDINAL,"(7513, 7516)",1
+3,CARDINAL,"(0, 1)",1
+3,CARDINAL,"(4, 5)",1
+30 Days,DATE,"(10029, 10036)",1
+30 minutes,TIME,"(3862, 3872)",1
+5:00 AM,QUANTITY,"(818, 822)",1
+5,CARDINAL,"(1557, 1558)",1
+40 hours,TIME,"(5899, 5907)",1
+40 percent,PERCENT,"(7279, 7289)",1
+41%,PERCENT,"(3670, 3673)",1
+45,CARDINAL,"(4734, 4736)",1
+45 percent,PERCENT,"(3448, 3458)",1
+"45,000",CARDINAL,"(727, 733)",1
+47,DATE,"(1078, 1080)",1
+473,CARDINAL,"(5030, 5033)",1
+48 percent,PERCENT,"(4233, 4243)",1
+49%,PERCENT,"(302, 305)",1
+5,CARDINAL,"(60, 61)",1
+5,CARDINAL,"(838, 839)",1
+5,CARDINAL,"(1291, 1292)",1
+5,CARDINAL,"(1540, 1541)",1
+5,CARDINAL,"(1793, 1794)",1
+40,CARDINAL,"(2958, 2960)",1
+5,CARDINAL,"(3807, 3808)",1
+5,CARDINAL,"(4620, 4621)",1
+5,CARDINAL,"(4626, 4627)",1
+5,CARDINAL,"(4814, 4815)",1
+5,CARDINAL,"(5198, 5199)",1
+5,CARDINAL,"(5584, 5585)",1
+5,CARDINAL,"(6472, 6473)",1
+5,CARDINAL,"(7818, 7819)",1
+5,CARDINAL,"(8647, 8648)",1
+5:00 AM,TIME,"(2010, 2014)",1
+5:00 AM,TIME,"(2539, 2543)",1
+5 AM every morning,TIME,"(3401, 3419)",1
+5 AM in the morning,TIME,"(83, 102)",1
+5 AM in the morning,TIME,"(4023, 4042)",1
+40 hours,TIME,"(5796, 5804)",1
+4+ hours,TIME,"(159, 167)",1
+30%,PERCENT,"(2578, 2581)",1
+4,CARDINAL,"(280, 281)",1
+"30,000",CARDINAL,"(2154, 2160)",1
+30-second,TIME,"(191, 200)",1
+300,CARDINAL,"(2254, 2257)",1
+300,CARDINAL,"(2333, 2336)",1
+302,CARDINAL,"(4093, 4096)",1
+30th April 2010,DATE,"(3111, 3126)",1
+31%,PERCENT,"(358, 361)",1
+33.79%,PERCENT,"(1416, 1422)",1
+3:45 p.m.,TIME,"(3197, 3206)",1
+3d,CARDINAL,"(1291, 1293)",1
+3rd,ORDINAL,"(213, 216)",1
+3rd,ORDINAL,"(7683, 7686)",1
+3–4,CARDINAL,"(6750, 6753)",1
+3–5,CARDINAL,"(2202, 2205)",1
+4,CARDINAL,"(291, 292)",1
+4%,PERCENT,"(3656, 3658)",1
+4,CARDINAL,"(1084, 1085)",1
+4,CARDINAL,"(2539, 2540)",1
+4,CARDINAL,"(3339, 3340)",1
+4,CARDINAL,"(3482, 3483)",1
+4,CARDINAL,"(3741, 3742)",1
+4,CARDINAL,"(4104, 4105)",1
+4,CARDINAL,"(4650, 4651)",1
+4,CARDINAL,"(7138, 7139)",1
+4,CARDINAL,"(9317, 9318)",1
+4 hours,TIME,"(2442, 2449)",1
+4 to 8 years,DATE,"(3112, 3124)",1
+4 to 8 years,DATE,"(3357, 3369)",1
+4 years,DATE,"(4755, 4762)",1
+4 ||,QUANTITY,"(2916, 2920)",1
+Cloud Build,PERSON,"(4495, 4506)",1
+Cloud Services Platform,WORK_OF_ART,"(5201, 5224)",1
+Cloud Services Platform,WORK_OF_ART,"(6210, 6233)",1
+Ireland,GPE,"(916, 923)",1
+Instagram,ORG,"(3747, 3756)",1
+Instagram,ORG,"(5292, 5301)",1
+Instagram,PER,"(3587, 3596)",1
+Instagram,PRODUCT,"(2383, 2392)",1
+Intel,ORG,"(4547, 4552)",1
+Interior,ORG,"(3378, 3386)",1
+"International Society for Evolution, Ecology and Cancer",ORG,"(713, 768)",1
+Internet,MISC,"(3691, 3699)",1
+Internet,MISC,"(5849, 5857)",1
+Internet,MISC,"(7857, 7865)",1
+Internet Live Stats,ORG,"(237, 256)",1
+Internet of Things,MISC,"(559, 577)",1
+Iowa,GPE,"(1342, 1346)",1
+Iowa,LOC,"(1342, 1346)",1
+Ireland,LOC,"(916, 923)",1
+Instagram,ORG,"(2901, 2910)",1
+Irvine,PER,"(779, 785)",1
+Irvine,PER,"(1208, 1214)",1
+Irvine,PER,"(1835, 1841)",1
+Irvine,PER,"(2211, 2217)",1
+Irvine,PER,"(2804, 2810)",1
+Irvine,PER,"(3374, 3380)",1
+Irvine,PER,"(3932, 3938)",1
+Irvine,PER,"(5822, 5828)",1
+Irvine,PERSON,"(779, 785)",1
+Irvine,PERSON,"(1208, 1214)",1
+Irvine,PERSON,"(1835, 1841)",1
+Irvine,PERSON,"(2211, 2217)",1
+Irvine,PERSON,"(2804, 2810)",1
+Irvine,PERSON,"(3374, 3380)",1
+Instagram,ORG,"(3587, 3596)",1
+Instagram,ORG,"(2383, 2392)",1
+Irvine,PERSON,"(5822, 5828)",1
+Imperial College,ORG,"(9742, 9758)",1
+IOT,ORG,"(553, 556)",1
+IOT,ORG,"(598, 601)",1
+IQ,MISC,"(5153, 5155)",1
+IQ,MISC,"(6906, 6908)",1
+IQ,MISC,"(6980, 6982)",1
+IQ,MISC,"(7121, 7123)",1
+Iceland,GPE,"(1940, 1947)",1
+Iceland,LOC,"(1940, 1947)",1
+Identity,ORG,"(6920, 6928)",1
+IgNobel Prizes,WORK_OF_ART,"(1671, 1685)",1
+Imagine Banyan Street,MISC,"(2133, 2154)",1
+Imagine Banyan Street first,WORK_OF_ART,"(2133, 2160)",1
+Imminent Risk of Life  Twitter,ORG,"(3970, 4000)",1
+Impact of Starvation on the Microbiome and Gut-Brain Interaction in Anorexia Nervosa,MISC,"(6809, 6893)",1
+Imperial College London,ORG,"(9742, 9765)",1
+Instagram,ORG,"(347, 356)",1
+In Praise of Walking’,MISC,"(282, 303)",1
+In the End,WORK_OF_ART,"(381, 391)",1
+Inc. Magazine,ORG,"(371, 384)",1
+Increase Conflict Through Contradiction  Conflict,MISC,"(1110, 1159)",1
+Independents,MISC,"(1256, 1268)",1
+Independents,NORP,"(1256, 1268)",1
+India,GPE,"(3066, 3071)",1
+India,GPE,"(3148, 3153)",1
+India,LOC,"(3066, 3071)",1
+India,LOC,"(3148, 3153)",1
+Indian,MISC,"(3186, 3192)",1
+Indian,NORP,"(3186, 3192)",1
+Instagram,MISC,"(347, 356)",1
+Instagram,MISC,"(5292, 5301)",1
+Irvine,PERSON,"(3932, 3938)",1
+Is Doing an Anti-Suicide Concert,MISC,"(21, 53)",1
+IAM,ORG,"(1650, 1653)",1
+Jamila,GPE,"(3649, 3655)",1
+Jack Hart,PERSON,"(5107, 5116)",1
+Jade Masri,PER,"(4457, 4467)",1
+"James Allen
+
+Mental",PERSON,"(3944, 3963)",1
+James Allen  Mental,PER,"(3944, 3963)",1
+James Clear,PER,"(11017, 11028)",1
+James Clear,PERSON,"(11017, 11028)",1
+James Morris,PER,"(622, 634)",1
+James Morris,PERSON,"(622, 634)",1
+James O’Keefe,PER,"(6385, 6398)",1
+James O’Keefe,PERSON,"(6385, 6398)",1
+Jamila,GPE,"(1053, 1059)",1
+Jamila,GPE,"(1715, 1721)",1
+Jamila,GPE,"(2368, 2374)",1
+Jamila,GPE,"(3121, 3127)",1
+Jamila,GPE,"(4353, 4359)",1
+Jack Hart,PER,"(5107, 5116)",1
+Jamila,PER,"(1053, 1059)",1
+Jamila,PER,"(1715, 1721)",1
+Jamila,PER,"(1953, 1959)",1
+Jamila,PER,"(2368, 2374)",1
+Jamila,PER,"(3121, 3127)",1
+Jamila,PER,"(3649, 3655)",1
+Jamila,PER,"(4103, 4109)",1
+Jamila,PER,"(4353, 4359)",1
+Jamila,PERSON,"(1953, 1959)",1
+Jamila,PERSON,"(4103, 4109)",1
+Jamila Woods,PER,"(627, 639)",1
+Jamila Woods,PER,"(845, 857)",1
+Jamila Woods,PER,"(895, 907)",1
+Jamila Woods,PERSON,"(627, 639)",1
+Jack Hart,PERSON,"(59, 68)",1
+Jack Hart,PER,"(59, 68)",1
+Islamabad,GPE,"(172, 181)",1
+Italy,LOC,"(1909, 1914)",1
+Islamabad,GPE,"(3160, 3169)",1
+Islamabad,LOC,"(172, 181)",1
+Islamabad,LOC,"(3160, 3169)",1
+Istio,GPE,"(6292, 6297)",1
+Istio,ORG,"(5161, 5166)",1
+Istio,ORG,"(5834, 5839)",1
+Istio,ORG,"(6076, 6081)",1
+Istio,ORG,"(6192, 6197)",1
+Istio,ORG,"(6292, 6297)",1
+Istio,PERSON,"(6192, 6197)",1
+Istio Mesh Expansion,ORG,"(6345, 6365)",1
+Italy,GPE,"(1909, 1914)",1
+Italy,GPE,"(6663, 6668)",1
+Italy,GPE,"(6741, 6746)",1
+Italy,LOC,"(6663, 6668)",1
+JSON,MISC,"(3480, 3484)",1
+Italy,LOC,"(6741, 6746)",1
+J.K. Rowling’s Advice For Writers With Big Dreams,ORG,"(0, 49)",1
+JAIC,ORG,"(2775, 2779)",1
+JAIC,ORG,"(3091, 3095)",1
+JAIC,PERSON,"(2775, 2779)",1
+JAMA Pediatrics,ORG,"(7516, 7531)",1
+JAMA Pediatrics,ORG,"(7654, 7669)",1
+JC Gellidon,ORG,"(1539, 1550)",1
+JC Gellidon,ORG,"(2598, 2609)",1
+JC Gellidon,PERSON,"(1539, 1550)",1
+JC Gellidon,PERSON,"(2598, 2609)",1
+JEDI,MISC,"(1576, 1580)",1
+JOSHUA COLEMAN,PER,"(70, 84)",1
+JOSHUA COLEMAN,PERSON,"(70, 84)",1
+IOT,MISC,"(553, 556)",1
+I.,PERSON,"(5930, 5932)",1
+Jamila Woods,PERSON,"(895, 907)",1
+Hallowell,PER,"(7711, 7720)",1
+Hail Mary,PER,"(4317, 4326)",1
+Hail Mary,PER,"(4419, 4428)",1
+Hail Mary,PERSON,"(50, 59)",1
+Hail Mary,PERSON,"(575, 584)",1
+Hail Mary,PERSON,"(1241, 1250)",1
+Hail Mary,PERSON,"(4317, 4326)",1
+Hail Mary,PERSON,"(4419, 4428)",1
+Halden,GPE,"(3136, 3142)",1
+Halden,GPE,"(4923, 4929)",1
+Halden,GPE,"(8859, 8865)",1
+Halden,ORG,"(3136, 3142)",1
+Halden,ORG,"(4923, 4929)",1
+Halden,ORG,"(8859, 8865)",1
+Hallowell,ORG,"(7711, 7720)",1
+Hallowell Centers,ORG,"(6662, 6679)",1
+Hail Mary,MISC,"(1241, 1250)",1
+Hannah Olinger,PER,"(110, 124)",1
+Hannah Olinger,PERSON,"(110, 124)",1
+Hans-Jorg Rheinberger,ORG,"(1943, 1964)",1
+Hans-Jorg Rheinberger,PER,"(1943, 1964)",1
+Happy Holidays,MISC,"(54, 68)",1
+Happy Holidays,MISC,"(4954, 4968)",1
+Happy Holidays,ORG,"(54, 68)",1
+Happy Holidays,ORG,"(4954, 4968)",1
+Harry Potter,PER,"(314, 326)",1
+Harry Potter,PER,"(6398, 6410)",1
+Harry Potter,PERSON,"(314, 326)",1
+Harry Potter,PERSON,"(6398, 6410)",1
+Hart,PER,"(403, 407)",1
+Hart,PER,"(3347, 3351)",1
+Hail Mary,PER,"(50, 59)",1
+Hail Mary,MISC,"(575, 584)",1
+Hart,PER,"(5101, 5105)",1
+Guy Kawasaki,PER,"(3556, 3568)",1
+Greenstein,PERSON,"(6119, 6129)",1
+Greg McKeown,PER,"(589, 601)",1
+Greg McKeown,PERSON,"(589, 601)",1
+Greg Steube,PER,"(5134, 5145)",1
+Greg Steube,PERSON,"(5134, 5145)",1
+Guardian,ORG,"(2555, 2563)",1
+Gunn,PER,"(690, 694)",1
+Gunn et al,PERSON,"(690, 700)",1
+Guodong Zhang,PER,"(6582, 6595)",1
+Guodong Zhang,PERSON,"(6582, 6595)",1
+Gut Dysbiosis,PERSON,"(4037, 4050)",1
+Gut Dysbiosis  While Morris,MISC,"(4037, 4064)",1
+Gut-Brain Axis  A 2019,MISC,"(5665, 5687)",1
+Gut-Brain Interaction,ORG,"(6852, 6873)",1
+Guy Kawasaki,PERSON,"(3556, 3568)",1
+"Habit
+
+Inspiration",ORG,"(7213, 7231)",1
+HCoV-229E,MISC,"(888, 897)",1
+HEAVN,MISC,"(733, 738)",1
+HEAVN,ORG,"(733, 738)",1
+HHMI,ORG,"(1800, 1804)",1
+HHMI,ORG,"(2641, 2645)",1
+HKU1,MISC,"(918, 922)",1
+HTML,ORG,"(1638, 1642)",1
+HTML,ORG,"(3562, 3566)",1
+HTML,ORG,"(6249, 6253)",1
+HTML DOM,ORG,"(396, 404)",1
+HTTP,MISC,"(7263, 7267)",1
+HTTP,ORG,"(7263, 7267)",1
+HTTPS,MISC,"(7269, 7274)",1
+HTTPS,ORG,"(7269, 7274)",1
+Hart,PER,"(3597, 3601)",1
+Hart,PER,"(6232, 6236)",1
+I Lost Weight on a Low Carb Diet,WORK_OF_ART,"(5026, 5058)",1
+Humaira,GPE,"(5805, 5812)",1
+Holocracy,ORG,"(5919, 5928)",1
+House Judiciary Committee,ORG,"(378, 403)",1
+House Judiciary Committee,ORG,"(431, 456)",1
+How I Lost Five Pounds,WORK_OF_ART,"(5078, 5100)",1
+How to Bypass Virtually Every News Paywall,MISC,"(1076, 1118)",1
+How to Start a Side Hustle When You’re Broke”),MISC,"(9470, 9516)",1
+How to Start a Side Hustle When You’re Broke”) Why____Makes You____ (“Why Reading Makes You a Better Writer”)  (“Why Reading Makes You a Better Writer”),MISC,"(9533, 9685)",1
+How to Start____,MISC,"(9430, 9446)",1
+How to Write a Good Advertisement,MISC,"(10575, 10608)",1
+How to Write a Good Advertisement,WORK_OF_ART,"(10575, 10608)",1
+HuBrIS,PER,"(3609, 3615)",1
+HuBriS,MISC,"(3830, 3836)",1
+Hubspot,MISC,"(6034, 6041)",1
+Hubspot,ORG,"(6034, 6041)",1
+Humaira,GPE,"(6064, 6071)",1
+Holman,PERSON,"(458, 464)",1
+Humaira,PER,"(5805, 5812)",1
+Humaira,PER,"(6064, 6071)",1
+Human Brain Interactive Simulation,MISC,"(3358, 3392)",1
+Human Brain Interactive Simulation,ORG,"(3358, 3392)",1
+Human Brain Project,MISC,"(3307, 3326)",1
+Human Brain Project,ORG,"(3307, 3326)",1
+Human-Looking Images and Tracking Artificial Intelligence Programs,ORG,"(12, 78)",1
+Humans Have in Common,MISC,"(8661, 8682)",1
+Hung Up,PERSON,"(102, 109)",1
+Hung Up on Me — While I Was Still in Crisis Rhett Wilkinson Follow,MISC,"(102, 168)",1
+Hydra,MISC,"(1538, 1543)",1
+Hydra,PERSON,"(1538, 1543)",1
+Hypoxia,MISC,"(3736, 3743)",1
+Hypoxia,PERSON,"(3736, 3743)",1
+Holocracy,MISC,"(5919, 5928)",1
+Holman,PER,"(2199, 2205)",1
+Hart,PER,"(7342, 7346)",1
+Hernandez,PERSON,"(1127, 1136)",1
+Hart,PER,"(8240, 8244)",1
+Hart,PERSON,"(403, 407)",1
+Hart,PERSON,"(3597, 3601)",1
+Hart’s,LAW,"(8240, 8246)",1
+Harvard,LOC,"(4951, 4958)",1
+Harvard,ORG,"(4951, 4958)",1
+Healthy Building Network,ORG,"(8886, 8910)",1
+Helicobacter pylori,MISC,"(4993, 5012)",1
+Hemingway,PER,"(7108, 7117)",1
+Hemingway,PERSON,"(7108, 7117)",1
+Henry Markram,PER,"(1638, 1651)",1
+Henry Markram,PERSON,"(1638, 1651)",1
+Hepatobiliary,ORG,"(1044, 1057)",1
+Hernandez,PER,"(1127, 1136)",1
+Hero’s Journey Content Patreon,MISC,"(3139, 3169)",1
+Holman,PER,"(715, 721)",1
+Hero’s Journey Content Patreon,MISC,"(3481, 3511)",1
+Herriman,LOC,"(1856, 1864)",1
+Herriman,NORP,"(1856, 1864)",1
+Hill,PERSON,"(520, 524)",1
+Hippocrates,NORP,"(109, 120)",1
+Hispanics,MISC,"(689, 698)",1
+Hispanics,NORP,"(689, 698)",1
+History,GPE,"(458, 465)",1
+History of Neuroscience,ORG,"(267, 290)",1
+Hitler,PER,"(592, 598)",1
+Hitler,PERSON,"(592, 598)",1
+Hoffman,PER,"(1009, 1016)",1
+Hoffman,PERSON,"(1009, 1016)",1
+Holman,GPE,"(2199, 2205)",1
+Jamila Woods,PERSON,"(845, 857)",1
+Jan,PER,"(1831, 1834)",1
+Greenstein,PERSON,"(5274, 5284)",1
+Lambda,ORG,"(1108, 1114)",1
+#,CARDINAL,"(1749, 1750)",1
+LDS,ORG,"(1533, 1536)",1
+Lactobacilli,GPE,"(4966, 4978)",1
+Lactobacilli,MISC,"(4966, 4978)",1
+Lactobacillus,PRODUCT,"(3784, 3797)",1
+Lahore,GPE,"(793, 799)",1
+Lahore,LOC,"(793, 799)",1
+Lambda,MISC,"(637, 643)",1
+Lambda,MISC,"(1040, 1046)",1
+Lambda,MISC,"(1356, 1362)",1
+Lambda,MISC,"(2156, 2162)",1
+Lambda,NORP,"(1108, 1114)",1
+Lambda,NORP,"(1193, 1199)",1
+Lambda,ORG,"(583, 589)",1
+Lambda,ORG,"(1193, 1199)",1
+Kurt Cobain,PER,"(4339, 4350)",1
+Lambda,ORG,"(1450, 1456)",1
+Lambda,ORG,"(1520, 1526)",1
+Lambda,PERSON,"(1040, 1046)",1
+Lambda,PERSON,"(1356, 1362)",1
+Lambda,PERSON,"(2156, 2162)",1
+Lana Turner,PER,"(1670, 1681)",1
+Lana Turner,PERSON,"(1670, 1681)",1
+Last week,DATE,"(0, 9)",1
+Last year,DATE,"(3125, 3134)",1
+Last year,DATE,"(8405, 8414)",1
+Latter-day Saint,ORG,"(1359, 1375)",1
+Laurie Mulvey,PER,"(8663, 8676)",1
+Laurie Mulvey,PERSON,"(8663, 8676)",1
+Lausanne,ORG,"(9773, 9781)",1
+Kurt Cobain,PERSON,"(4339, 4350)",1
+"Kubernetes, Istio",ORG,"(5149, 5166)",1
+LeanPath,ORG,"(7948, 7956)",1
+Kodan,GPE,"(2867, 2872)",1
+Kharian,NORP,"(615, 622)",1
+Kharian Cantt,LOC,"(731, 744)",1
+Kharian Cantt,ORG,"(731, 744)",1
+King’s College Hospital,LOC,"(2839, 2862)",1
+King’s College Hospital,ORG,"(2839, 2862)",1
+Klinkenborg,MISC,"(4253, 4264)",1
+Klinkenborg,ORG,"(4253, 4264)",1
+Klinkenborg,ORG,"(5373, 5384)",1
+Klinkenborg,PER,"(5373, 5384)",1
+Koch’s Biophysics of Computation,MISC,"(4816, 4848)",1
+Koch’s Biophysics of Computation,ORG,"(4816, 4848)",1
+Kodan,GPE,"(119, 124)",1
+Kodan,GPE,"(881, 886)",1
+Kodan,GPE,"(2587, 2592)",1
+Kodan,ORG,"(119, 124)",1
+Kubernetes,ORG,"(6448, 6458)",1
+Kodan,ORG,"(2587, 2592)",1
+Kodan,PER,"(881, 886)",1
+Kool-Aid,MISC,"(12497, 12505)",1
+Kool-Aid,MISC,"(12923, 12931)",1
+Kool-Aid,PERSON,"(12497, 12505)",1
+Kool-Aid,PERSON,"(12923, 12931)",1
+Korhan Erdol,PER,"(143, 155)",1
+Korhan Erdol,PERSON,"(143, 155)",1
+Kotla Bhalot,LOC,"(597, 609)",1
+Kotla Bhalot,ORG,"(597, 609)",1
+Kristina Tripkovic,PER,"(155, 173)",1
+Kristina Tripkovic,PERSON,"(155, 173)",1
+Kubernetes,MISC,"(5149, 5159)",1
+Kubernetes,MISC,"(6448, 6458)",1
+LeanPath,ORG,"(1609, 1617)",1
+LeanPath,PRODUCT,"(1609, 1617)",1
+Keyword Research,ORG,"(8305, 8321)",1
+MD,GPE,"(7070, 7072)",1
+Love,WORK_OF_ART,"(8, 12)",1
+Luna Greenstein,PER,"(4631, 4646)",1
+Luna Greenstein,PERSON,"(4631, 4646)",1
+Lynn Margulis,PER,"(1517, 1530)",1
+Lynn Margulis,PERSON,"(1517, 1530)",1
+M.H. Abrams,MISC,"(6489, 6500)",1
+M.H. Abrams,PERSON,"(6489, 6500)",1
+MB,ORG,"(3264, 3266)",1
+MB,ORG,"(3532, 3534)",1
+MB,ORG,"(3782, 3784)",1
+MD,GPE,"(1464, 1466)",1
+MD,GPE,"(4207, 4209)",1
+MD,GPE,"(5722, 5724)",1
+MD,GPE,"(6643, 6645)",1
+MD,GPE,"(7559, 7561)",1
+Loss Aversion,PERSON,"(1641, 1654)",1
+MD,ORG,"(4207, 4209)",1
+MD,ORG,"(5722, 5724)",1
+MD,PER,"(1464, 1466)",1
+MD,PER,"(6643, 6645)",1
+MERS,MISC,"(771, 775)",1
+MERS,ORG,"(2223, 2227)",1
+MERS,ORG,"(2372, 2376)",1
+MIT,ORG,"(4448, 4451)",1
+"MIT,",ORG,"(4448, 4452)",1
+ML,ORG,"(2015, 2017)",1
+Machine Learning,FAC,"(11998, 12014)",1
+Machine Learning,ORG,"(2949, 2965)",1
+Machine Learning,PRODUCT,"(9025, 9041)",1
+Machine Learning,PRODUCT,"(10919, 10935)",1
+Loss Aversion,PERSON,"(2236, 2249)",1
+Loss Aversion,PERSON,"(1124, 1137)",1
+Lecrae  Followers,PER,"(74, 91)",1
+Lisa Damour,PERSON,"(5237, 5248)",1
+Leo Leung,PER,"(14, 23)",1
+"Leo Leung
+
+People",PERSON,"(14, 31)",1
+Lessons,ORG,"(10360, 10367)",1
+Life,PER,"(113, 117)",1
+Ling,MISC,"(4110, 4114)",1
+Ling et,PERSON,"(3945, 3952)",1
+Ling et al.,MISC,"(3945, 3956)",1
+Ling et al.,PERSON,"(4110, 4121)",1
+LinkedIn,GPE,"(1016, 1024)",1
+LinkedIn,ORG,"(1016, 1024)",1
+LinkedIn Sales Navigator,ORG,"(131, 155)",1
+Linkin Park,GPE,"(243, 254)",1
+Linkin Park,ORG,"(243, 254)",1
+Lisa Damour,PER,"(5237, 5248)",1
+Littman,PER,"(5238, 5245)",1
+Loss Aversion,PERSON,"(903, 916)",1
+Littman,PERSON,"(5238, 5245)",1
+Liver Transplantation,ORG,"(27, 48)",1
+Logan Jones,PER,"(2800, 2811)",1
+Logan Jones,PERSON,"(2800, 2811)",1
+London,GPE,"(2864, 2870)",1
+London,GPE,"(9759, 9765)",1
+London,LOC,"(2864, 2870)",1
+Long Island Crisis Center,ORG,"(2482, 2507)",1
+Loss Aversion,MISC,"(700, 713)",1
+Loss Aversion,MISC,"(903, 916)",1
+Loss Aversion,MISC,"(1641, 1654)",1
+Loss Aversion,PERSON,"(0, 13)",1
+Loss Aversion,PERSON,"(700, 713)",1
+Loss Aversion,PERSON,"(831, 844)",1
+Kharian,LOC,"(615, 622)",1
+Keyword Optimization : Know,ORG,"(8973, 9000)",1
+Jan,PERSON,"(1831, 1834)",1
+Johannes Frasnelli,PER,"(2317, 2335)",1
+Jerusalem,LOC,"(3744, 3753)",1
+Jim Gao,PER,"(4961, 4968)",1
+Jim Gao,PERSON,"(4961, 4968)",1
+Jim Sensenbrenner,PER,"(4080, 4097)",1
+Jim Sensenbrenner,PERSON,"(4080, 4097)",1
+Joan Didion,PER,"(2025, 2036)",1
+Joan Didion,PERSON,"(2025, 2036)",1
+Jochen Seitz,PER,"(5708, 5720)",1
+Jochen Seitz,PERSON,"(5708, 5720)",1
+Joe Brainard,PER,"(2729, 2741)",1
+Joe Brainard,PERSON,"(2729, 2741)",1
+Johann Wolfgang von Goethe,PER,"(1371, 1397)",1
+Johann Wolfgang von Goethe’s,PERSON,"(1371, 1399)",1
+Johannes Frasnelli,ORG,"(2317, 2335)",1
+John Caples,PER,"(8835, 8846)",1
+Jerusalem,GPE,"(3744, 3753)",1
+John Caples,PERSON,"(8835, 8846)",1
+John Cooper Clarke,PER,"(214, 232)",1
+John Cooper Clarke,PERSON,"(214, 232)",1
+John Moult,PER,"(3419, 3429)",1
+John Moult,PERSON,"(3419, 3429)",1
+John Schnobrich,PER,"(119, 134)",1
+John Schnobrich,PERSON,"(119, 134)",1
+Johnson,PER,"(3720, 3727)",1
+Joint Artificial Intelligence Center,ORG,"(820, 856)",1
+Joint Artificial Intelligence Center,ORG,"(2414, 2450)",1
+Jon Fong,PER,"(7843, 7851)",1
+Jon Fong,PERSON,"(7843, 7851)",1
+Jonathan Rados,PER,"(4468, 4482)",1
+Jonathan Rados,PERSON,"(4468, 4482)",1
+Jerusalem,LOC,"(3720, 3729)",1
+Jerusalem,GPE,"(3720, 3729)",1
+Jones,PER,"(3141, 3146)",1
+Jason Martin,PERSON,"(7853, 7865)",1
+Jan Chamberlin,GPE,"(1185, 1199)",1
+Jan Chamberlin,PER,"(1185, 1199)",1
+Janelia Farm,LOC,"(4000, 4012)",1
+Janelia Farm,ORG,"(4000, 4012)",1
+January,DATE,"(1351, 1358)",1
+Japan,GPE,"(403, 408)",1
+Japan,LOC,"(403, 408)",1
+Japanese,MISC,"(5507, 5515)",1
+Japanese,NORP,"(5507, 5515)",1
+Jason,PER,"(232, 237)",1
+Jason,PER,"(2317, 2322)",1
+Jason,PERSON,"(232, 237)",1
+Jason,PERSON,"(2317, 2322)",1
+Jason Martin,PER,"(7853, 7865)",1
+Jayapal,PER,"(3571, 3578)",1
+Jerry Nadler,PERSON,"(1889, 1901)",1
+Jayapal,PERSON,"(3571, 3578)",1
+Jean Francois Bastin,PER,"(1918, 1938)",1
+Jean Francois Bastin,PER,"(3175, 3195)",1
+Jean Francois Bastin,PERSON,"(1918, 1938)",1
+Jean Francois Bastin,PERSON,"(3175, 3195)",1
+Jeff Bezos,PER,"(51, 61)",1
+Jeff Bezos,PER,"(689, 699)",1
+Jeff Bezos,PER,"(1343, 1353)",1
+Jeff Bezos,PERSON,"(51, 61)",1
+Jeff Bezos,PERSON,"(689, 699)",1
+Jeff Bezos,PERSON,"(1343, 1353)",1
+Jeff Weiner,PER,"(992, 1003)",1
+Jeff Weiner,PERSON,"(992, 1003)",1
+Jerry Nadler,PER,"(1889, 1901)",1
+Jones,PER,"(2946, 2951)",1
+Jones,PERSON,"(2946, 2951)",1
+Keynote,LOC,"(4477, 4484)",1
+Keeping a Journal Will Make You More Productive,WORK_OF_ART,"(6396, 6443)",1
+Jupyter Notebook,ORG,"(9179, 9195)",1
+Jupyter Notebook,PERSON,"(9179, 9195)",1
+Just about two years ago,DATE,"(179, 203)",1
+Just six years ago,DATE,"(217, 235)",1
+KNative,ORG,"(4508, 4515)",1
+Kafka,PER,"(1465, 1470)",1
+Kafka,PERSON,"(1465, 1470)",1
+Karl Friston,PER,"(4951, 4963)",1
+Karl Friston’s,PERSON,"(4951, 4965)",1
+Kate Brandt,PER,"(1856, 1867)",1
+Kate Brandt,PERSON,"(1856, 1867)",1
+Kate Spade,PER,"(4779, 4789)",1
+Kate Spade’s,ORG,"(4779, 4791)",1
+Keeping a Journal Will Make You More Productive,MISC,"(6396, 6443)",1
+Kelsey Hightower,MISC,"(4325, 4341)",1
+Jupyter,PERSON,"(107, 114)",1
+Kelsey Hightower,ORG,"(4325, 4341)",1
+Kemp & Peers,MISC,"(3925, 3937)",1
+Kemp & Peers,ORG,"(3925, 3937)",1
+Kendra,PER,"(2067, 2073)",1
+Kendra,PERSON,"(2067, 2073)",1
+Kenneth Blum,PER,"(4592, 4604)",1
+Kenneth Blum,PERSON,"(4592, 4604)",1
+Kenny Luo,PER,"(5706, 5715)",1
+Kenny Luo,PERSON,"(5706, 5715)",1
+Kents,PER,"(467, 472)",1
+Kents,PERSON,"(467, 472)",1
+Kevin Systrom,PER,"(3342, 3355)",1
+Kevin Systrom,PERSON,"(3342, 3355)",1
+Keynote,GPE,"(4477, 4484)",1
+Jupyter,PERSON,"(570, 577)",1
+Jupyter,ORG,"(570, 577)",1
+Jones,PERSON,"(3141, 3146)",1
+Juho,PER,"(1822, 1826)",1
+Jordan,GPE,"(1574, 1580)",1
+Jordan,LOC,"(1574, 1580)",1
+Jordan,PER,"(558, 564)",1
+Jordan,PER,"(746, 752)",1
+Jordan,PERSON,"(558, 564)",1
+Jordan,PERSON,"(746, 752)",1
+Jose Mourinho,PER,"(53, 66)",1
+Jose Mourinho,PERSON,"(53, 66)",1
+Josh Riemer,PER,"(9, 20)",1
+Josh Riemer,PERSON,"(9, 20)",1
+Josh Waitzkin,PER,"(2007, 2020)",1
+Josh Waitzkin,PERSON,"(2007, 2020)",1
+Jr.,PER,"(4433, 4436)",1
+Juho,GPE,"(1822, 1826)",1
+Julien Smith,PER,"(140, 152)",1
+Jupyter,ORG,"(107, 114)",1
+Julien Smith,PERSON,"(140, 152)",1
+Juliet,PER,"(1729, 1735)",1
+Juliette,PER,"(4989, 4997)",1
+Juliette,PERSON,"(4989, 4997)",1
+July,DATE,"(7189, 7193)",1
+Jul-01,DATE,"(2358, 2364)",1
+Jul-01,DATE,"(9694, 9700)",1
+19-Jul-18,DATE,"(1113, 1126)",1
+20-Jul-17,DATE,"(509, 522)",1
+Jul-19,DATE,"(6890, 6899)",1
+June,DATE,"(997, 1001)",1
+June,DATE,"(2580, 2584)",1
+June,DATE,"(6109, 6113)",1
+June of 2020,DATE,"(2872, 2884)",1
+Greenstein,PERSON,"(5714, 5724)",1
+Greenstein,PERSON,"(4898, 4908)",1
+Cloud Vision API,MISC,"(1606, 1622)",1
+Dodson,PERSON,"(4046, 4052)",1
+Dianne,PERSON,"(903, 909)",1
+Dianne Greene,PER,"(782, 795)",1
+Dianne Greene,PERSON,"(782, 795)",1
+Didier Stanier,PER,"(1303, 1317)",1
+Didier Stanier,PERSON,"(1303, 1317)",1
+Dietary Preferences,ORG,"(5201, 5220)",1
+Disciplined Entrepreneurship and Disciplined Entrepreneurship,ORG,"(1585, 1646)",1
+Disney Pixar,PERSON,"(922, 934)",1
+District Gujrat,LOC,"(624, 639)",1
+District Gujrat,PERSON,"(624, 639)",1
+Do Headlines Really Make a Difference,MISC,"(0, 37)",1
+DoD IG,ORG,"(3127, 3133)",1
+Doctor Who,MISC,"(3227, 3237)",1
+Dodson,PER,"(4046, 4052)",1
+Does He Have Regrets? Rhett Wilkinson Follow,MISC,"(145, 189)",1
+Diane Greene,PER,"(7075, 7087)",1
+Domain Authority,ORG,"(342, 358)",1
+Donald Hall,PER,"(3606, 3617)",1
+Donald Hall,PERSON,"(3606, 3617)",1
+Donald Trump Jr.,PER,"(4170, 4186)",1
+Donald Trump Jr.,PERSON,"(4170, 4186)",1
+Don’t Be a Writer,MISC,"(0, 17)",1
+Doris Martin,PER,"(5189, 5201)",1
+Doris Martin,PERSON,"(5189, 5201)",1
+Doug Flutie,PER,"(31, 42)",1
+Doug Flutie,PER,"(800, 811)",1
+Doug Flutie,PER,"(1052, 1063)",1
+Doug Flutie,PER,"(4514, 4525)",1
+Doug Flutie,PERSON,"(800, 811)",1
+Doug Flutie,PERSON,"(1052, 1063)",1
+Dianne,PER,"(903, 909)",1
+Dialogflow,ORG,"(1303, 1313)",1
+Doug Flutie’s,PERSON,"(31, 44)",1
+Democrats,NORP,"(1104, 1113)",1
+DeepMind,MISC,"(7030, 7038)",1
+DeepMind,ORG,"(1860, 1868)",1
+DeepMind,ORG,"(7067, 7075)",1
+DeepMind,PRODUCT,"(7030, 7038)",1
+DeepMind,PRODUCT,"(7067, 7075)",1
+DeepMind publish AlphaMonopoly,MISC,"(2446, 2476)",1
+Defense Department,ORG,"(2316, 2334)",1
+Deloitte,ORG,"(13224, 13232)",1
+Deloitte AI Institute,ORG,"(13248, 13269)",1
+Deloitte AI Institute for Research,ORG,"(13165, 13199)",1
+Deloitte AI Institute for Research and Applied Innovation  Deloitte,ORG,"(13165, 13232)",1
+Democrats,MISC,"(964, 973)",1
+Democrats,MISC,"(1104, 1113)",1
+Democrats,NORP,"(964, 973)",1
+Denmark,GPE,"(5318, 5325)",1
+Dhruv Parpia,PERSON,"(7870, 7882)",1
+Denmark,LOC,"(5318, 5325)",1
+Denver,GPE,"(1496, 1502)",1
+Denver,LOC,"(1496, 1502)",1
+Department of Defense,ORG,"(672, 693)",1
+Department of Defense,ORG,"(2209, 2230)",1
+Department of Justice,ORG,"(1874, 1895)",1
+Department of Neurology,ORG,"(1396, 1419)",1
+Department of Neurology,ORG,"(1930, 1953)",1
+Department of Psychiatry and Behavioral Sciences,ORG,"(1691, 1739)",1
+Department of Veterans Affairs,ORG,"(3340, 3370)",1
+Deploy,PERSON,"(1671, 1677)",1
+Devolve,PERSON,"(11732, 11739)",1
+Devolve,PERSON,"(12001, 12008)",1
+Dhruv Parpia,PER,"(7870, 7882)",1
+Doug Flutie,PERSON,"(4514, 4525)",1
+Douglas Rushkoff,ORG,"(3357, 3373)",1
+Deep Mind,ORG,"(4028, 4037)",1
+Enigma,PER,"(909, 915)",1
+Elizabeth Stretch,PER,"(3397, 3414)",1
+Elizabeth Stretch,PERSON,"(3397, 3414)",1
+Ellen Littman,PER,"(4359, 4372)",1
+Ellen Littman,PERSON,"(4359, 4372)",1
+Elon Musk,WORK_OF_ART,"(1477, 1486)",1
+Elon Musk that will Make You A Better Writer,MISC,"(1477, 1521)",1
+Emmy Award,MISC,"(4244, 4254)",1
+Emmy Award,PERSON,"(4244, 4254)",1
+Emory University School of Medicine,ORG,"(1743, 1778)",1
+Endocrinology,GPE,"(6908, 6921)",1
+English,MISC,"(3719, 3726)",1
+English,NORP,"(3719, 3726)",1
+Enigma,MISC,"(552, 558)",1
+Enigma,ORG,"(909, 915)",1
+Enigma Public,ORG,"(552, 565)",1
+Edison,PERSON,"(1367, 1373)",1
+Enterprise,MISC,"(13527, 13537)",1
+Environmental Protection Agency,ORG,"(1700, 1731)",1
+Epilepsy,MISC,"(793, 801)",1
+Epilepsy,PERSON,"(2132, 2140)",1
+Ergo,PERSON,"(2230, 2234)",1
+Escape a Writers Slump,ORG,"(7, 29)",1
+Escherichia,MISC,"(3408, 3419)",1
+Escherichia,MISC,"(5014, 5025)",1
+Escherichia,PERSON,"(3408, 3419)",1
+Escherichia,PERSON,"(5014, 5025)",1
+Essentialism,MISC,"(677, 689)",1
+Estée Janssens,PER,"(1945, 1959)",1
+Ethan Hawke,PER,"(360, 371)",1
+Ethan Hawke,PER,"(431, 442)",1
+Elegans,MISC,"(4138, 4145)",1
+Edge TPU,PERSON,"(1948, 1956)",1
+Douglas Rushkoff’s,PERSON,"(3357, 3375)",1
+Dutch,NORP,"(1506, 1511)",1
+Dr Faisal Dar — Pioneer,PERSON,"(0, 23)",1
+Driven to Distraction,ORG,"(6694, 6715)",1
+Drosophila,MISC,"(1765, 1775)",1
+Drosophila,ORG,"(1765, 1775)",1
+DuckDuckGo,ORG,"(1705, 1715)",1
+Duke,ORG,"(2649, 2653)",1
+Duke-UNC,MISC,"(2694, 2702)",1
+Durkheim,PER,"(3558, 3566)",1
+Durkheim,PERSON,"(3558, 3566)",1
+Dutch,MISC,"(141, 146)",1
+Dutch,MISC,"(481, 486)",1
+Dutch,MISC,"(1506, 1511)",1
+Dutch,NORP,"(141, 146)",1
+Dutch,NORP,"(481, 486)",1
+DynamoDB,MISC,"(3185, 3193)",1
+Ed Yong,PERSON,"(7278, 7285)",1
+DynamoDB,ORG,"(19, 27)",1
+DynamoDb,MISC,"(3026, 3034)",1
+DynamoDb,PERSON,"(3026, 3034)",1
+EPFL,ORG,"(9767, 9771)",1
+ESG,ORG,"(117, 120)",1
+Each day,DATE,"(3838, 3846)",1
+Each morning,TIME,"(1204, 1216)",1
+Earth,LOC,"(130, 135)",1
+Earth,LOC,"(600, 605)",1
+Earth,LOC,"(730, 735)",1
+Earth,MISC,"(130, 135)",1
+Ed Catmull,PER,"(7663, 7673)",1
+Ed Catmull’s,ORG,"(7663, 7675)",1
+Ed Yong,PER,"(7278, 7285)",1
+Deep Mind,PERSON,"(4028, 4037)",1
+Day 3,DATE,"(4488, 4493)",1
+Ethan Hawke’s,PERSON,"(431, 444)",1
+Craft,PER,"(1265, 1270)",1
+Coronavirus,MISC,"(2515, 2526)",1
+Coronavirus,MISC,"(4010, 4021)",1
+Coronavirus,MISC,"(4107, 4118)",1
+Coronavirus,ORG,"(1640, 1651)",1
+Coronavirus,ORG,"(2515, 2526)",1
+Coronavirus,PERSON,"(4010, 4021)",1
+Coronaviruses,MISC,"(14355, 14368)",1
+Coschedule Headline Analyzer,MISC,"(10452, 10480)",1
+Covid,PERSON,"(883, 888)",1
+Covid,PERSON,"(4211, 4216)",1
+Covid,PERSON,"(6772, 6777)",1
+Covid-19,MISC,"(2261, 2269)",1
+Covid-19,MISC,"(2907, 2915)",1
+Covid-19,MISC,"(10322, 10330)",1
+Crappy Christmas,MISC,"(1915, 1931)",1
+Cornell’s,ORG,"(2946, 2955)",1
+Create,ORG,"(8961, 8967)",1
+Creativity Inc.,ORG,"(7689, 7704)",1
+Creativity Inc.. Pixar,ORG,"(7689, 7711)",1
+Crisis,WORK_OF_ART,"(57, 63)",1
+Crocodiles,PERSON,"(6743, 6753)",1
+Crocodiles,PERSON,"(8646, 8656)",1
+Crossing the Chasm,MISC,"(495, 513)",1
+Crossing the Chasm,WORK_OF_ART,"(495, 513)",1
+Curiosity,ORG,"(3768, 3777)",1
+Cynthia Marinakos,PER,"(81, 98)",1
+Cynthia Marinakos,PER,"(165, 182)",1
+Cynthia Marinakos,PER,"(182, 199)",1
+Cynthia Marinakos,PERSON,"(81, 98)",1
+Cynthia Marinakos,PERSON,"(165, 182)",1
+Coronavirus,MISC,"(1640, 1651)",1
+Cornell,PER,"(2975, 2982)",1
+D-NY,ORG,"(1903, 1907)",1
+Congress,ORG,"(4165, 4173)",1
+Cloud Vision API,ORG,"(1606, 1622)",1
+Cobain,PER,"(4551, 4557)",1
+Cobain,PERSON,"(4551, 4557)",1
+Coffitivy,GPE,"(5027, 5036)",1
+Coffitivy,MISC,"(5027, 5036)",1
+Collective Consciousness,PERSON,"(3370, 3394)",1
+"Collective Consciousness
+
+Apart",PERSON,"(3257, 3288)",1
+College,GPE,"(212, 219)",1
+Colorado,GPE,"(1504, 1512)",1
+Colorado,LOC,"(1504, 1512)",1
+Command-Tab,ORG,"(460, 471)",1
+Config=,PERSON,"(4538, 4545)",1
+Confirmation Bias,PRODUCT,"(2576, 2593)",1
+Congress,ORG,"(3825, 3833)",1
+Congress and Administration,ORG,"(3825, 3852)",1
+Cornell,PER,"(2946, 2953)",1
+Congress and Administration,ORG,"(4165, 4192)",1
+Congresswoman,MISC,"(2213, 2226)",1
+Congresswoman,ORG,"(2213, 2226)",1
+Connect,NORP,"(823, 830)",1
+Connect,NORP,"(908, 915)",1
+Connect,NORP,"(1804, 1811)",1
+Connect,NORP,"(1948, 1955)",1
+Content Classification Predictive Service,ORG,"(1055, 1096)",1
+Content Classification Predictive Service,ORG,"(3504, 3545)",1
+Content Organization,ORG,"(9155, 9175)",1
+Content Promotion: Increase,ORG,"(9609, 9636)",1
+Convertkit,MISC,"(5583, 5593)",1
+Convertkit,PRODUCT,"(5583, 5593)",1
+Cornell,ORG,"(2975, 2982)",1
+Cynthia Marinakos,PERSON,"(182, 199)",1
+D-Washington,LOC,"(3259, 3271)",1
+Dawkins,PERSON,"(4780, 4787)",1
+Dave Chesson,PERSON,"(5436, 5448)",1
+Data Science,ORG,"(327, 339)",1
+Data Science,ORG,"(546, 558)",1
+Data Science,ORG,"(11692, 11704)",1
+Data Science,ORG,"(11928, 11940)",1
+Data Science,PRODUCT,"(153, 165)",1
+Data Science and,ORG,"(11553, 11569)",1
+Data Scientist,ORG,"(10604, 10618)",1
+Data Scientist,ORG,"(10763, 10777)",1
+Data Scientist,ORG,"(11226, 11240)",1
+Data Scientists,ORG,"(11872, 11887)",1
+Data Sources,ORG,"(2485, 2497)",1
+Datalake,LOC,"(6666, 6674)",1
+Datalake,ORG,"(6666, 6674)",1
+Dave Chesson,PER,"(5436, 5448)",1
+David,PER,"(12439, 12444)",1
+Data Engineer,ORG,"(11245, 11258)",1
+David  The,PER,"(11220, 11230)",1
+David Cicilline,PER,"(230, 245)",1
+David Cicilline,PERSON,"(230, 245)",1
+David Coleman Architecture,ORG,"(3350, 3376)",1
+David Coleman Architecture,PERSON,"(3350, 3376)",1
+David Ogilvy,PER,"(7317, 7329)",1
+David Ogilvy,PERSON,"(7317, 7329)",1
+David Yakobovitch,ORG,"(14419, 14436)",1
+David Yakobovitch,PERSON,"(14419, 14436)",1
+Davignon Martin Architecture,ORG,"(5206, 5234)",1
+Davignon Martin Architecture + Interior Design,PERSON,"(5206, 5252)",1
+Dawkins,PER,"(1605, 1612)",1
+Dawkins,PER,"(4780, 4787)",1
+Dawkins,PERSON,"(1605, 1612)",1
+Data Engineering,ORG,"(11570, 11586)",1
+Data Engineer,ORG,"(291, 304)",1
+D-Washington,ORG,"(3259, 3271)",1
+Daisy,PERSON,"(2858, 2863)",1
+D.,NORP,"(4944, 4946)",1
+D.,NORP,"(6005, 6007)",1
+DDI Intel,ORG,"(4543, 4552)",1
+DIY,ORG,"(5807, 5810)",1
+DNA,MISC,"(493, 496)",1
+DSU Indeen,ORG,"(907, 917)",1
+Daisy,PER,"(606, 611)",1
+Daisy,PER,"(1594, 1599)",1
+Daisy,PER,"(2858, 2863)",1
+Daisy,PER,"(2998, 3003)",1
+Daisy,PER,"(3337, 3342)",1
+Daisy,PERSON,"(606, 611)",1
+Daisy,PERSON,"(667, 672)",1
+Daisy,PERSON,"(1594, 1599)",1
+Daisy,PERSON,"(2998, 3003)",1
+Data,ORG,"(2930, 2934)",1
+Daisy,PERSON,"(3337, 3342)",1
+Daleks,GPE,"(1232, 1238)",1
+Daleks,MISC,"(1232, 1238)",1
+Dan Ariely,PER,"(2507, 2517)",1
+Dan Ariely,PERSON,"(2507, 2517)",1
+Dani Shapiro,PER,"(2503, 2515)",1
+Dani Shapiro,PERSON,"(2503, 2515)",1
+Dani Shapiro Exercise for Banishing,MISC,"(2120, 2155)",1
+Daniel Kahneman,PER,"(886, 901)",1
+Daniel Kahneman,PER,"(1513, 1528)",1
+Daniel Kahneman,PERSON,"(886, 901)",1
+Daniel Kahneman,PERSON,"(1513, 1528)",1
+Dash,ORG,"(1889, 1893)",1
+Dash,ORG,"(2051, 2055)",1
+"Ethan Hawke
+
+",PERSON,"(360, 373)",1
+Etsy,MISC,"(1259, 1263)",1
+Greenstein,PER,"(6119, 6129)",1
+Gatsby,PER,"(2893, 2899)",1
+GKE,ORG,"(4939, 4942)",1
+GMT,MISC,"(3239, 3242)",1
+GMT,MISC,"(3825, 3828)",1
+GN Ramachandran,ORG,"(3212, 3227)",1
+GN Ramachandran,PERSON,"(3212, 3227)",1
+GPDR,MISC,"(3856, 3860)",1
+GPDR,ORG,"(3856, 3860)",1
+GPus,MISC,"(1968, 1972)",1
+Gao,PER,"(5876, 5879)",1
+Gao,PERSON,"(5876, 5879)",1
+Gary Korisko,PER,"(4966, 4978)",1
+Gary Korisko,PERSON,"(4966, 4978)",1
+Gates,PER,"(1706, 1711)",1
+Gatsby,PER,"(582, 588)",1
+Gatsby,PER,"(3017, 3023)",1
+GCamp17,MISC,"(2116, 2123)",1
+Gatsby,PER,"(3367, 3373)",1
+Gatsby,PER,"(3505, 3511)",1
+Gatsby,PERSON,"(582, 588)",1
+Gatsby,PERSON,"(3505, 3511)",1
+Geeking Out on,WORK_OF_ART,"(4743, 4757)",1
+Geoffrey Moore,PER,"(463, 477)",1
+Geoffrey Moore’s,PERSON,"(463, 479)",1
+George Orwell,PER,"(1551, 1564)",1
+George Orwell’s,PERSON,"(1551, 1566)",1
+George R.R,PER,"(948, 958)",1
+George R.R. Martin,PERSON,"(948, 966)",1
+George R.R. Martin Exercise,PERSON,"(795, 822)",1
+German,MISC,"(6650, 6656)",1
+German,NORP,"(6650, 6656)",1
+GKE,ORG,"(4826, 4829)",1
+GCamp16-Jsn-Vrhees,ORG,"(2248, 2266)",1
+Germans,NORP,"(608, 615)",1
+Free Energy,ORG,"(5093, 5104)",1
+Florida,LOC,"(5149, 5156)",1
+Flutie,PER,"(290, 296)",1
+Food and Drug Administration,ORG,"(380, 408)",1
+Food for Thought,ORG,"(57, 73)",1
+Fossil,PERSON,"(1306, 1312)",1
+Fourth,ORDINAL,"(3256, 3262)",1
+France,GPE,"(4292, 4298)",1
+France,LOC,"(4292, 4298)",1
+Frank Kafka,PER,"(947, 958)",1
+Frank Kafka,PERSON,"(947, 958)",1
+Franklin Roosevelt,PER,"(4151, 4169)",1
+Franklin Roosevelt,PERSON,"(4151, 4169)",1
+Frasnelli,PER,"(2672, 2681)",1
+Frasnelli,PERSON,"(2672, 2681)",1
+French,MISC,"(523, 529)",1
+GCamp16-Jsn-Vrhees,MISC,"(2248, 2266)",1
+French,MISC,"(3427, 3433)",1
+French,MISC,"(5661, 5667)",1
+French,NORP,"(523, 529)",1
+French,NORP,"(3427, 3433)",1
+French,NORP,"(5661, 5667)",1
+Frequency Illusion,MISC,"(1304, 1322)",1
+Friday,DATE,"(3090, 3096)",1
+From Goriounova et al,MISC,"(7334, 7355)",1
+GBFB,ORG,"(12496, 12500)",1
+GBFB,ORG,"(12873, 12877)",1
+GBFB’s,ORG,"(12873, 12879)",1
+GCP,MISC,"(3711, 3714)",1
+GCP,ORG,"(3711, 3714)",1
+GCP Cloud ML,ORG,"(2662, 2674)",1
+Germans,MISC,"(608, 615)",1
+Germany,GPE,"(5812, 5819)",1
+Florence Statement,ORG,"(3293, 3311)",1
+Google’s Sundar Pichai,ORG,"(656, 678)",1
+Google Cloud,ORG,"(5322, 5334)",1
+Google Cloud,ORG,"(7439, 7451)",1
+Google Cloud,ORG,"(7695, 7707)",1
+Google Cloud,PERSON,"(140, 152)",1
+Google Cloud,PERSON,"(7439, 7451)",1
+Google Cloud,PERSON,"(7695, 7707)",1
+Google Search Results Page,MISC,"(2175, 2201)",1
+Google.com,MISC,"(867, 877)",1
+Googlers,MISC,"(7129, 7137)",1
+Googlers,MISC,"(8778, 8786)",1
+Googlers,ORG,"(7129, 7137)",1
+Googlers,WORK_OF_ART,"(383, 391)",1
+Google’s Search,ORG,"(3014, 3029)",1
+Google’s Sundar Pichai,ORG,"(18, 40)",1
+Goriounova,ORG,"(7339, 7349)",1
+Google,ORG,"(5322, 5328)",1
+Government,ORG,"(4578, 4588)",1
+Government,ORG,"(6685, 6695)",1
+Graham Polley,PER,"(3062, 3075)",1
+Graham Polley,PERSON,"(3062, 3075)",1
+Great Potential,ORG,"(50, 65)",1
+Greater Boston Food Bank,ORG,"(12470, 12494)",1
+Green New Deal,LOC,"(3311, 3325)",1
+Green New Deal,MISC,"(1264, 1278)",1
+Green New Deal,MISC,"(2965, 2979)",1
+Green New Deal,ORG,"(3311, 3325)",1
+Green Science Policy Institute,ORG,"(7712, 7742)",1
+Greenstein,PER,"(4898, 4908)",1
+Greenstein,PER,"(5274, 5284)",1
+Greenstein,PER,"(5714, 5724)",1
+Google Cloud,MISC,"(140, 152)",1
+Google,ORG,"(4789, 4795)",1
+Germany,GPE,"(6752, 6759)",1
+Global Landscape Forum,ORG,"(2253, 2275)",1
+Germany,LOC,"(5812, 5819)",1
+Germany,LOC,"(6752, 6759)",1
+Getty Images,ORG,"(3185, 3197)",1
+Getty Images  Hours,MISC,"(149, 168)",1
+Giaccia,MISC,"(3702, 3709)",1
+Giaccia,PERSON,"(3702, 3709)",1
+Github,ORG,"(66, 72)",1
+Github,ORG,"(604, 610)",1
+Github,PERSON,"(66, 72)",1
+Github,PERSON,"(604, 610)",1
+Github,PERSON,"(6966, 6972)",1
+Glenn Beck,MISC,"(2813, 2823)",1
+Glenn Beck,PER,"(2516, 2526)",1
+Glenn Beck,PERSON,"(2516, 2526)",1
+Gmail,MISC,"(480, 485)",1
+Google,ORG,"(4445, 4451)",1
+Goa,LOC,"(7383, 7386)",1
+Goa,ORG,"(6632, 6635)",1
+Goa,ORG,"(7012, 7015)",1
+Goa,PERSON,"(6501, 6504)",1
+Goa,PERSON,"(6632, 6635)",1
+Goa,PERSON,"(6798, 6801)",1
+Goa,PERSON,"(7012, 7015)",1
+Goa,PERSON,"(7383, 7386)",1
+God,PER,"(4032, 4035)",1
+Goethe,PER,"(1688, 1694)",1
+Google,ORG,"(18, 24)",1
+Google,ORG,"(656, 662)",1
+Google,ORG,"(4161, 4167)",1
+Google,ORG,"(4322, 4328)",1
+Florida,GPE,"(5149, 5156)",1
+Fitzgerald,PERSON,"(6564, 6574)",1
+Etsy,PERSON,"(1259, 1263)",1
+Facebook,ORG,"(946, 954)",1
+Facebook,MISC,"(1548, 1556)",1
+Facebook,MISC,"(1828, 1836)",1
+Facebook,MISC,"(2439, 2447)",1
+Facebook,MISC,"(2940, 2948)",1
+Facebook,MISC,"(3048, 3056)",1
+Facebook,MISC,"(3390, 3398)",1
+Facebook,MISC,"(3548, 3556)",1
+Facebook,MISC,"(3700, 3708)",1
+Facebook,MISC,"(4121, 4129)",1
+Facebook,MISC,"(4281, 4289)",1
+Facebook,MISC,"(4338, 4346)",1
+Facebook,ORG,"(215, 223)",1
+Facebook,ORG,"(359, 367)",1
+Facebook,ORG,"(574, 582)",1
+Facebook,ORG,"(1315, 1323)",1
+Facebook,MISC,"(68, 76)",1
+Facebook,ORG,"(1548, 1556)",1
+Facebook,ORG,"(1917, 1925)",1
+Facebook,ORG,"(2068, 2076)",1
+Facebook,ORG,"(2275, 2283)",1
+Facebook,ORG,"(2940, 2948)",1
+Facebook,ORG,"(3548, 3556)",1
+Facebook,ORG,"(4326, 4334)",1
+Facebook,ORG,"(4338, 4346)",1
+Facebook,ORG,"(4532, 4540)",1
+Facebook,PERSON,"(336, 344)",1
+Facebook,PERSON,"(359, 367)",1
+Facebook,PERSON,"(574, 582)",1
+Facebook,PERSON,"(946, 954)",1
+Facebook,PERSON,"(2275, 2283)",1
+Facebook,MISC,"(336, 344)",1
+FTP,ORG,"(7276, 7279)",1
+Facebook,PERSON,"(3048, 3056)",1
+Eymeric Widling,PERSON,"(5269, 5284)",1
+Ettman,NORP,"(1869, 1875)",1
+Ettman,PER,"(1869, 1875)",1
+European Board in Transplant Surgery,ORG,"(1165, 1201)",1
+Euros,MISC,"(10698, 10703)",1
+Euros,PERSON,"(10698, 10703)",1
+Eve Marder,ORG,"(775, 785)",1
+Eve Marder,PERSON,"(775, 785)",1
+Every day,DATE,"(6667, 6676)",1
+Every week,DATE,"(6655, 6665)",1
+Excel,PRODUCT,"(1939, 1944)",1
+Exception,ORG,"(2203, 2212)",1
+Expecting the Unexpected,MISC,"(1678, 1702)",1
+Expecting the Unexpected in,WORK_OF_ART,"(1678, 1705)",1
+Eymeric Widling,ORG,"(5269, 5284)",1
+FDA,ORG,"(4, 7)",1
+FTP,ORG,"(6778, 6781)",1
+FEBTS,ORG,"(1203, 1208)",1
+FOMO,MISC,"(493, 497)",1
+FOMO,MISC,"(681, 685)",1
+FOMO — the “Fear of Missing Out”?,MISC,"(213, 246)",1
+FRCS,ORG,"(931, 935)",1
+FTP,MISC,"(4988, 4991)",1
+FTP,MISC,"(5109, 5112)",1
+FTP,MISC,"(7276, 7279)",1
+FTP,ORG,"(790, 793)",1
+FTP,ORG,"(1997, 2000)",1
+FTP,ORG,"(4893, 4896)",1
+FTP,ORG,"(4988, 4991)",1
+FTP,ORG,"(5109, 5112)",1
+FTP,ORG,"(5431, 5434)",1
+Facebook,PERSON,"(2439, 2447)",1
+Facebook,PERSON,"(3390, 3398)",1
+Fitzgerald,PERSON,"(6419, 6429)",1
+First Discovery  See,MISC,"(1446, 1466)",1
+Files Successfully,PERSON,"(5032, 5050)",1
+Finferries,ORG,"(5112, 5122)",1
+Finland,GPE,"(2459, 2466)",1
+Finland,GPE,"(3390, 3397)",1
+Finland,GPE,"(5521, 5528)",1
+Finland,LOC,"(2459, 2466)",1
+Finland,LOC,"(3390, 3397)",1
+Finland,LOC,"(5521, 5528)",1
+First,ORDINAL,"(40, 45)",1
+First,ORDINAL,"(847, 852)",1
+First,ORDINAL,"(1592, 1597)",1
+First,ORDINAL,"(2538, 2543)",1
+First,ORDINAL,"(3569, 3574)",1
+First,ORDINAL,"(4405, 4410)",1
+Firstly,ORDINAL,"(1311, 1318)",1
+Fetissov et al.,PERSON,"(5622, 5637)",1
+Firstly,ORDINAL,"(1666, 1673)",1
+Firstly,ORDINAL,"(4345, 4352)",1
+Fitzgerald,PER,"(946, 956)",1
+Fitzgerald,PER,"(2942, 2952)",1
+Fitzgerald,PER,"(3439, 3449)",1
+Fitzgerald,PER,"(4900, 4910)",1
+Fitzgerald,PER,"(5940, 5950)",1
+Fitzgerald,PER,"(6419, 6429)",1
+Fitzgerald,PER,"(6564, 6574)",1
+Fitzgerald,PERSON,"(946, 956)",1
+Fitzgerald,PERSON,"(2942, 2952)",1
+Fitzgerald,PERSON,"(3439, 3449)",1
+Fitzgerald,PERSON,"(4900, 4910)",1
+Fitzgerald,PERSON,"(5940, 5950)",1
+Fifth,ORDINAL,"(4238, 4243)",1
+Fetissov,MISC,"(5622, 5630)",1
+Facebook,PERSON,"(3415, 3423)",1
+FALSE,PERSON,"(4258, 4263)",1
+Facebook,PERSON,"(3700, 3708)",1
+Facebook,PERSON,"(4281, 4289)",1
+Facebook,PRODUCT,"(68, 76)",1
+Facebook,PRODUCT,"(4532, 4540)",1
+Facebook ‘,ORG,"(3415, 3425)",1
+Facebook-scale,MISC,"(4326, 4340)",1
+Facebook’s,ORG,"(215, 225)",1
+Faisal Dar,PER,"(3, 13)",1
+Faisal Dar,PER,"(453, 463)",1
+Faisal Dar,PERSON,"(453, 463)",1
+Faisalabad,GPE,"(479, 489)",1
+Faisalabad,LOC,"(479, 489)",1
+FALSE,PERSON,"(942, 947)",1
+FALSE,PERSON,"(1713, 1718)",1
+Fasial Dar,PER,"(66, 76)",1
+Fellowship in Liver Transplantation,ORG,"(1008, 1043)",1
+Fasial Dar,PERSON,"(66, 76)",1
+Fast Company,ORG,"(389, 401)",1
+Fatima Arif,PER,"(355, 366)",1
+Fatima Arif,PERSON,"(355, 366)",1
+Fear of Missing Out,WORK_OF_ART,"(225, 244)",1
+Feature,ORG,"(4690, 4697)",1
+February 11th,DATE,"(3216, 3229)",1
+February 11th,DATE,"(3802, 3815)",1
+Federal Trade Commission,ORG,"(1809, 1833)",1
+Federal Trade Commission Act,ORG,"(1629, 1657)",1
+Federated Queries,ORG,"(2545, 2562)",1
+Fellow of College of Physicians & Surgeons,ORG,"(843, 885)",1
+Fellow of European Board,ORG,"(1155, 1179)",1
+Fellowship,PERSON,"(1008, 1018)",1
+⁴Physical Interactions,ORG,"(14179, 14201)",1
